@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quizz Wiwi - Révisions Médecine</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="header">
+    <h1>Quizz Wiwi</h1>
+    <p>Révise tes annales de médecine</p>
+  </div>
+
+  <div class="container">
+
+    <!-- HOME -->
+    <div id="screen-home" class="screen active">
+      <h2 style="margin-top:1rem; font-size:1.1rem;">Choisis une matière</h2>
+      <div id="subject-grid" class="subject-grid"></div>
+    </div>
+
+    <!-- MODE SELECTION -->
+    <div id="screen-mode" class="screen">
+      <button class="back-btn" onclick="goHome()">← Retour</button>
+      <h2 id="mode-subject-name" style="font-size:1.1rem;"></h2>
+      <div class="mode-selector">
+        <button class="mode-btn" onclick="showExamList()">
+          <div class="mode-icon">📋</div>
+          <div class="mode-label">Examen par examen</div>
+          <div class="mode-desc">Refais un examen complet</div>
+        </button>
+        <button class="mode-btn" onclick="startRandom()">
+          <div class="mode-icon">🎲</div>
+          <div class="mode-label">20 questions aléatoires</div>
+          <div class="mode-desc">Mix de tous les examens</div>
+        </button>
+      </div>
+    </div>
+
+    <!-- EXAM LIST -->
+    <div id="screen-exams" class="screen">
+      <button class="back-btn" onclick="goBackToMode()">← Retour</button>
+      <h2 id="exam-subject-name" style="font-size:1.1rem; margin-bottom:1rem;"></h2>
+      <div id="exam-list" class="exam-list"></div>
+    </div>
+
+    <!-- QUIZ -->
+    <div id="screen-quiz" class="screen">
+      <button class="back-btn" onclick="goHome()">← Quitter</button>
+      <div class="quiz-exam-name" id="quiz-exam-name"></div>
+      <div class="progress-bar">
+        <div class="fill" id="progress-fill"></div>
+      </div>
+      <div class="question-counter" id="question-counter"></div>
+      <div class="question-context" id="question-context" style="display:none;"></div>
+      <div class="question-text" id="question-text"></div>
+      <div class="options-list" id="options-list"></div>
+
+      <div class="quiz-nav">
+        <button class="btn btn-secondary" id="btn-prev" onclick="prevQuestion()" style="display:none;">
+          ← Précédent
+        </button>
+        <button class="btn btn-primary" id="btn-next" onclick="nextQuestion()">
+          Suivant →
+        </button>
+        <button class="btn btn-finish" id="btn-finish" onclick="finishQuiz()" style="display:none;">
+          Terminer & Corriger
+        </button>
+      </div>
+    </div>
+
+    <!-- RESULTS -->
+    <div id="screen-results" class="screen">
+      <div class="results-card">
+        <div class="score" id="score-pct"></div>
+        <div class="score-label" id="score-total"></div>
+        <div class="stats">
+          <div class="stat">
+            <div class="stat-value green" id="score-correct"></div>
+            <div class="stat-label">Correctes</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value red" id="score-wrong"></div>
+            <div class="stat-label">Incorrectes</div>
+          </div>
+        </div>
+        <div class="actions" style="justify-content:center;">
+          <button class="btn btn-primary" onclick="restartQuiz()">Recommencer</button>
+          <button class="btn btn-secondary" onclick="goHome()">Accueil</button>
+        </div>
+      </div>
+
+      <h3 style="margin:1.5rem 0 1rem; font-size:1rem;">Correction détaillée</h3>
+      <div id="correction-review"></div>
+    </div>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
