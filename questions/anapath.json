@@ -12,598 +12,1550 @@
           "id": "ana-norm-2023-q1",
           "enonce": "Parmi les tumeurs épithéliales malignes primitives de l'ovaire, quel est la tumeur la plus fréquente ?",
           "options": [
-            {"label": "A", "text": "Mucineuses"},
-            {"label": "B", "text": "Séreuses"},
-            {"label": "C", "text": "A cellules transitionnelles"},
-            {"label": "D", "text": "A cellules claires"},
-            {"label": "E", "text": "Endométrioïdes"}
+            {
+              "label": "A",
+              "text": "Mucineuses"
+            },
+            {
+              "label": "B",
+              "text": "Séreuses"
+            },
+            {
+              "label": "C",
+              "text": "A cellules transitionnelles"
+            },
+            {
+              "label": "D",
+              "text": "A cellules claires"
+            },
+            {
+              "label": "E",
+              "text": "Endométrioïdes"
+            }
           ],
-          "reponses": ["B"]
+          "reponses": [
+            "B"
+          ],
+          "cours": "Tumeurs de l'ovaire"
         },
         {
           "id": "ana-norm-2023-q2",
           "enonce": "Le Cystadénocarcinome séreux de haut grade de l'ovaire :",
           "options": [
-            {"label": "A", "text": "Est souvent étendu et d'évolution rapide"},
-            {"label": "B", "text": "Est caractérisé par une mutation des gènes P53, BRCA"},
-            {"label": "C", "text": "Peut naitre de novo ou à partir de lésion de STICs (Serous tubare intraépithéliale carcinome)"},
-            {"label": "D", "text": "Est souvent une évolution d'une tumeur borderline de l'ovaire"},
-            {"label": "E", "text": "Est caractérisé par une mutation des gènes Mutation BRAF, KRAS, PTNE"}
+            {
+              "label": "A",
+              "text": "Est souvent étendu et d'évolution rapide"
+            },
+            {
+              "label": "B",
+              "text": "Est caractérisé par une mutation des gènes P53, BRCA"
+            },
+            {
+              "label": "C",
+              "text": "Peut naitre de novo ou à partir de lésion de STICs (Serous tubare intraépithéliale carcinome)"
+            },
+            {
+              "label": "D",
+              "text": "Est souvent une évolution d'une tumeur borderline de l'ovaire"
+            },
+            {
+              "label": "E",
+              "text": "Est caractérisé par une mutation des gènes Mutation BRAF, KRAS, PTNE"
+            }
           ],
-          "reponses": ["A", "B", "C"]
+          "reponses": [
+            "A",
+            "B",
+            "C"
+          ],
+          "cours": "Tumeurs de l'ovaire"
         },
         {
           "id": "ana-norm-2023-q3",
           "enonce": "Vous recevez au laboratoire une pièce de kystectomie ovarienne d'une jeune femme de 20ans. A l'ouverture, elle comporte un contenu pâto-sébacé avec une dent. L'étude histologique retrouve de nombreux tissus exclusivement matures. Quel est votre diagnostic ?",
           "options": [
-            {"label": "A", "text": "Un tératome mature pluri-tissulaire"},
-            {"label": "B", "text": "Un cystadénome séreux"},
-            {"label": "C", "text": "Un cystadénome mucineux"},
-            {"label": "D", "text": "Un tératome immature pluri-tissulaire"},
-            {"label": "E", "text": "Un dysgerminome"}
+            {
+              "label": "A",
+              "text": "Un tératome mature pluri-tissulaire"
+            },
+            {
+              "label": "B",
+              "text": "Un cystadénome séreux"
+            },
+            {
+              "label": "C",
+              "text": "Un cystadénome mucineux"
+            },
+            {
+              "label": "D",
+              "text": "Un tératome immature pluri-tissulaire"
+            },
+            {
+              "label": "E",
+              "text": "Un dysgerminome"
+            }
           ],
-          "reponses": ["A"]
+          "reponses": [
+            "A"
+          ],
+          "cours": "Tumeurs de l'ovaire"
         },
         {
           "id": "ana-norm-2023-q4",
           "enonce": "Le pronostic du lymphome hodgkinien classique :",
           "options": [
-            {"label": "A", "text": "Dépend du stade"},
-            {"label": "B", "text": "Dépend du sous type histologique"},
-            {"label": "C", "text": "Est meilleur pour le lymphome hodgkinien classique de sous type déplétion lymphocytaire"},
-            {"label": "D", "text": "Dépend de la classification Ann Arbor"},
-            {"label": "E", "text": "Dépend de l'état général du patient"}
+            {
+              "label": "A",
+              "text": "Dépend du stade"
+            },
+            {
+              "label": "B",
+              "text": "Dépend du sous type histologique"
+            },
+            {
+              "label": "C",
+              "text": "Est meilleur pour le lymphome hodgkinien classique de sous type déplétion lymphocytaire"
+            },
+            {
+              "label": "D",
+              "text": "Dépend de la classification Ann Arbor"
+            },
+            {
+              "label": "E",
+              "text": "Dépend de l'état général du patient"
+            }
           ],
-          "reponses": ["A", "B", "D", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "cours": "Lymphome de Hodgkin"
         },
         {
           "id": "ana-norm-2023-q5",
           "enonce": "Lymphome hodgkinien nodulaire à prédominance lymphocytaire de Poppema-lennert :",
           "options": [
-            {"label": "A", "text": "Est le plus fréquent des lymphomes hodgkiniens"},
-            {"label": "B", "text": "Serait plus un lymphome B d'origine folliculaire"},
-            {"label": "C", "text": "Se caractérise par les cellules lacunaires"},
-            {"label": "D", "text": "Se caractérise par les cellules dites en « pop corn »"},
-            {"label": "E", "text": "Est toujours associé à l'EBV"}
+            {
+              "label": "A",
+              "text": "Est le plus fréquent des lymphomes hodgkiniens"
+            },
+            {
+              "label": "B",
+              "text": "Serait plus un lymphome B d'origine folliculaire"
+            },
+            {
+              "label": "C",
+              "text": "Se caractérise par les cellules lacunaires"
+            },
+            {
+              "label": "D",
+              "text": "Se caractérise par les cellules dites en « pop corn »"
+            },
+            {
+              "label": "E",
+              "text": "Est toujours associé à l'EBV"
+            }
           ],
-          "reponses": ["B", "D"]
+          "reponses": [
+            "B",
+            "D"
+          ],
+          "cours": "Lymphome de Hodgkin"
         },
         {
           "id": "ana-norm-2023-q6",
           "enonce": "Le lymphome d'hodgkin :",
           "options": [
-            {"label": "A", "text": "Est une maladie curable"},
-            {"label": "B", "text": "Le début est souvent stéréotypé"},
-            {"label": "C", "text": "Nécessite un bilan d'extension complet"},
-            {"label": "D", "text": "Le stade d'Ann Arbor détermine le pronostic et les indications thérapeutiques"},
-            {"label": "E", "text": "Comporte des cellules tumorales exprimant l'anticorps anti CD15 et anti CD30"}
+            {
+              "label": "A",
+              "text": "Est une maladie curable"
+            },
+            {
+              "label": "B",
+              "text": "Le début est souvent stéréotypé"
+            },
+            {
+              "label": "C",
+              "text": "Nécessite un bilan d'extension complet"
+            },
+            {
+              "label": "D",
+              "text": "Le stade d'Ann Arbor détermine le pronostic et les indications thérapeutiques"
+            },
+            {
+              "label": "E",
+              "text": "Comporte des cellules tumorales exprimant l'anticorps anti CD15 et anti CD30"
+            }
           ],
-          "reponses": ["A", "B", "C", "D"]
+          "reponses": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "cours": "Lymphome de Hodgkin"
         },
         {
           "id": "ana-norm-2023-q7",
           "enonce": "Les quatre sous-types du lymphome hodgkinien classique sont :",
           "options": [
-            {"label": "A", "text": "Sous-type scléronodulaire"},
-            {"label": "B", "text": "Sous-type à cellularité mixte"},
-            {"label": "C", "text": "Sous type nodulaire à prédominance lymphocytaire"},
-            {"label": "D", "text": "Sous-type riche en lymphocytes"},
-            {"label": "E", "text": "Sous-type en déplétion lymphocytaire"}
+            {
+              "label": "A",
+              "text": "Sous-type scléronodulaire"
+            },
+            {
+              "label": "B",
+              "text": "Sous-type à cellularité mixte"
+            },
+            {
+              "label": "C",
+              "text": "Sous type nodulaire à prédominance lymphocytaire"
+            },
+            {
+              "label": "D",
+              "text": "Sous-type riche en lymphocytes"
+            },
+            {
+              "label": "E",
+              "text": "Sous-type en déplétion lymphocytaire"
+            }
           ],
-          "reponses": ["A", "B", "D", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "cours": "Lymphome de Hodgkin"
         },
         {
           "id": "ana-norm-2023-q8",
           "enonce": "Les critères de risque de malignité devant un adénome colorectal englobent :",
           "options": [
-            {"label": "A", "text": "La composante villeuse prédominante"},
-            {"label": "B", "text": "Le sexe masculin"},
-            {"label": "C", "text": "Le siège rectal"},
-            {"label": "D", "text": "La durée d'évolution longue"},
-            {"label": "E", "text": "La taille > 1cm"}
+            {
+              "label": "A",
+              "text": "La composante villeuse prédominante"
+            },
+            {
+              "label": "B",
+              "text": "Le sexe masculin"
+            },
+            {
+              "label": "C",
+              "text": "Le siège rectal"
+            },
+            {
+              "label": "D",
+              "text": "La durée d'évolution longue"
+            },
+            {
+              "label": "E",
+              "text": "La taille > 1cm"
+            }
           ],
-          "reponses": ["A", "C", "D", "E"]
+          "reponses": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "cours": "Cancer colorectal et polypes"
         },
         {
           "id": "ana-norm-2023-q9",
           "enonce": "Une lésion polypoïde colorectale :",
           "options": [
-            {"label": "A", "text": "Est une lésion macroscopique qui fait saillie dans la lumière colorectale"},
-            {"label": "B", "text": "Peut être de nature inflammatoire"},
-            {"label": "C", "text": "Est toujours de nature adénomateuse"},
-            {"label": "D", "text": "Doit être vérifiée histologiquement"},
-            {"label": "E", "text": "Peut correspondre à de nombreuses entités anatomo-cliniques différentes"}
+            {
+              "label": "A",
+              "text": "Est une lésion macroscopique qui fait saillie dans la lumière colorectale"
+            },
+            {
+              "label": "B",
+              "text": "Peut être de nature inflammatoire"
+            },
+            {
+              "label": "C",
+              "text": "Est toujours de nature adénomateuse"
+            },
+            {
+              "label": "D",
+              "text": "Doit être vérifiée histologiquement"
+            },
+            {
+              "label": "E",
+              "text": "Peut correspondre à de nombreuses entités anatomo-cliniques différentes"
+            }
           ],
-          "reponses": ["A", "B", "D", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "cours": "Cancer colorectal et polypes"
         },
         {
           "id": "ana-norm-2023-q10",
           "enonce": "Entourer les facteurs incriminés dans la genèse d'un adénome colorectal :",
           "options": [
-            {"label": "A", "text": "La consommation excessive de viande rouge"},
-            {"label": "B", "text": "La consommation excessive de légumes et de fruits"},
-            {"label": "C", "text": "L'intoxication alcolo-tabagique"},
-            {"label": "D", "text": "La carence en folates"},
-            {"label": "E", "text": "La prise régulière d'aspirine"}
+            {
+              "label": "A",
+              "text": "La consommation excessive de viande rouge"
+            },
+            {
+              "label": "B",
+              "text": "La consommation excessive de légumes et de fruits"
+            },
+            {
+              "label": "C",
+              "text": "L'intoxication alcolo-tabagique"
+            },
+            {
+              "label": "D",
+              "text": "La carence en folates"
+            },
+            {
+              "label": "E",
+              "text": "La prise régulière d'aspirine"
+            }
           ],
-          "reponses": ["A", "C", "D"]
+          "reponses": [
+            "A",
+            "C",
+            "D"
+          ],
+          "cours": "Cancer colorectal et polypes"
         },
         {
           "id": "ana-norm-2023-q11",
           "enonce": "L'adénome tubuleux :",
           "options": [
-            {"label": "A", "text": "Est le type le plus fréquent 80%"},
-            {"label": "B", "text": "Est fait de 75% des structures glandulaires"},
-            {"label": "C", "text": "Comporte des Digitales munis d'un axe conjonctif"},
-            {"label": "D", "text": "Peut-être en dysplasie de haut grade"},
-            {"label": "E", "text": "Risque d'évoluer vers un adénocarcinome"}
+            {
+              "label": "A",
+              "text": "Est le type le plus fréquent 80%"
+            },
+            {
+              "label": "B",
+              "text": "Est fait de 75% des structures glandulaires"
+            },
+            {
+              "label": "C",
+              "text": "Comporte des Digitales munis d'un axe conjonctif"
+            },
+            {
+              "label": "D",
+              "text": "Peut-être en dysplasie de haut grade"
+            },
+            {
+              "label": "E",
+              "text": "Risque d'évoluer vers un adénocarcinome"
+            }
           ],
-          "reponses": ["A", "B"]
+          "reponses": [
+            "A",
+            "B"
+          ],
+          "cours": "Cancer colorectal et polypes"
         },
         {
           "id": "ana-norm-2023-q12",
           "enonce": "La polypose adénomateuse familiale :",
           "options": [
-            {"label": "A", "text": "Est une atteinte majeure ou mineure selon le nombre de polypes"},
-            {"label": "B", "text": "Se caractérise par la mutation du gène APC"},
-            {"label": "C", "text": "Peut comporter des lésions de dysplasie de haut grade"},
-            {"label": "D", "text": "Nécessite une enquête génétique familiale"},
-            {"label": "E", "text": "Le risque de cancer est minime"}
+            {
+              "label": "A",
+              "text": "Est une atteinte majeure ou mineure selon le nombre de polypes"
+            },
+            {
+              "label": "B",
+              "text": "Se caractérise par la mutation du gène APC"
+            },
+            {
+              "label": "C",
+              "text": "Peut comporter des lésions de dysplasie de haut grade"
+            },
+            {
+              "label": "D",
+              "text": "Nécessite une enquête génétique familiale"
+            },
+            {
+              "label": "E",
+              "text": "Le risque de cancer est minime"
+            }
           ],
-          "reponses": ["A", "B", "C", "D"]
+          "reponses": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "cours": "Cancer colorectal et polypes"
         },
         {
           "id": "ana-norm-2023-q13",
           "enonce": "Cochez les nouveaux facteurs pronostiques d'un adénocarcinome colorectal :",
           "options": [
-            {"label": "A", "text": "Les emboles veineux"},
-            {"label": "B", "text": "Les emboles lymphatiques"},
-            {"label": "C", "text": "La taille tumorale"},
-            {"label": "D", "text": "Le budding"},
-            {"label": "E", "text": "L'envahissement ganglionnaire"}
+            {
+              "label": "A",
+              "text": "Les emboles veineux"
+            },
+            {
+              "label": "B",
+              "text": "Les emboles lymphatiques"
+            },
+            {
+              "label": "C",
+              "text": "La taille tumorale"
+            },
+            {
+              "label": "D",
+              "text": "Le budding"
+            },
+            {
+              "label": "E",
+              "text": "L'envahissement ganglionnaire"
+            }
           ],
-          "reponses": ["A", "B", "D"]
+          "reponses": [
+            "A",
+            "B",
+            "D"
+          ],
+          "cours": "Cancer colorectal et polypes"
         },
         {
           "id": "ana-norm-2023-q14",
           "enonce": "Le compte rendu anatomopathologique en matière de cancer rectal doit préciser :",
           "options": [
-            {"label": "A", "text": "La limite circonférentielle"},
-            {"label": "B", "text": "Le degré de différenciation des adénocarcinomes"},
-            {"label": "C", "text": "La présence ou non d'emboles vasculaires"},
-            {"label": "D", "text": "Le type histologique"},
-            {"label": "E", "text": "L'état des limites d'exérèse chirurgicales"}
+            {
+              "label": "A",
+              "text": "La limite circonférentielle"
+            },
+            {
+              "label": "B",
+              "text": "Le degré de différenciation des adénocarcinomes"
+            },
+            {
+              "label": "C",
+              "text": "La présence ou non d'emboles vasculaires"
+            },
+            {
+              "label": "D",
+              "text": "Le type histologique"
+            },
+            {
+              "label": "E",
+              "text": "L'état des limites d'exérèse chirurgicales"
+            }
           ],
-          "reponses": ["A", "B", "C", "D", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "cours": "Cancer colorectal et polypes"
         },
         {
           "id": "ana-norm-2023-q15",
           "enonce": "A propos des tumeurs hépatiques :",
           "options": [
-            {"label": "A", "text": "Elles sont définies uniquement comme l'ensemble des proliférations tumorales se développant au dépend des constituants du tissu hépatique"},
-            {"label": "B", "text": "Elles peuvent être secondaires"},
-            {"label": "C", "text": "Elles sont souvent associées à une cirrhose hépatique si elles sont primitives"},
-            {"label": "D", "text": "Peuvent être au dépend des éléments vasculaires du foie"},
-            {"label": "E", "text": "Peuvent être au dépend des voies biliaires intra-hépatiques"}
+            {
+              "label": "A",
+              "text": "Elles sont définies uniquement comme l'ensemble des proliférations tumorales se développant au dépend des constituants du tissu hépatique"
+            },
+            {
+              "label": "B",
+              "text": "Elles peuvent être secondaires"
+            },
+            {
+              "label": "C",
+              "text": "Elles sont souvent associées à une cirrhose hépatique si elles sont primitives"
+            },
+            {
+              "label": "D",
+              "text": "Peuvent être au dépend des éléments vasculaires du foie"
+            },
+            {
+              "label": "E",
+              "text": "Peuvent être au dépend des voies biliaires intra-hépatiques"
+            }
           ],
-          "reponses": ["B", "C", "D", "E"]
+          "reponses": [
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "cours": "Tumeurs hepatiques"
         },
         {
           "id": "ana-norm-2023-q16",
           "enonce": "Concernant l'origine tissulaire des tumeurs primitives hépatiques :",
           "options": [
-            {"label": "A", "text": "Le carcinome hépatocellulaire provient des structures hépatocytaires"},
-            {"label": "B", "text": "Le cholangiocarcinome provient des structures biliaires"},
-            {"label": "C", "text": "Les structures vasculaires ne donnent pas de tumeurs primitives hépatiques"},
-            {"label": "D", "text": "Il peut exister des tumeurs mixtes"},
-            {"label": "E", "text": "Il peut exister des tumeurs d'origine embryonnaire"}
+            {
+              "label": "A",
+              "text": "Le carcinome hépatocellulaire provient des structures hépatocytaires"
+            },
+            {
+              "label": "B",
+              "text": "Le cholangiocarcinome provient des structures biliaires"
+            },
+            {
+              "label": "C",
+              "text": "Les structures vasculaires ne donnent pas de tumeurs primitives hépatiques"
+            },
+            {
+              "label": "D",
+              "text": "Il peut exister des tumeurs mixtes"
+            },
+            {
+              "label": "E",
+              "text": "Il peut exister des tumeurs d'origine embryonnaire"
+            }
           ],
-          "reponses": ["A", "B", "D", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "cours": "Tumeurs hepatiques"
         },
         {
           "id": "ana-norm-2023-q17",
           "enonce": "L'hépatoblastome :",
           "options": [
-            {"label": "A", "text": "Est une tumeur embryonnaire qui atteint surtout l'enfant"},
-            {"label": "B", "text": "Se caractérise biologiquement par une augmentation sérique de l'AFP"},
-            {"label": "C", "text": "Se révèle par une hépatomégalie tumorale"},
-            {"label": "D", "text": "La biopsie hépatique est contre indiquée"},
-            {"label": "E", "text": "Son traitement est basé sur la chirurgie première suivi de la chimiothérapie"}
+            {
+              "label": "A",
+              "text": "Est une tumeur embryonnaire qui atteint surtout l'enfant"
+            },
+            {
+              "label": "B",
+              "text": "Se caractérise biologiquement par une augmentation sérique de l'AFP"
+            },
+            {
+              "label": "C",
+              "text": "Se révèle par une hépatomégalie tumorale"
+            },
+            {
+              "label": "D",
+              "text": "La biopsie hépatique est contre indiquée"
+            },
+            {
+              "label": "E",
+              "text": "Son traitement est basé sur la chirurgie première suivi de la chimiothérapie"
+            }
           ],
-          "reponses": ["A", "B"]
+          "reponses": [
+            "A",
+            "B"
+          ],
+          "cours": "Tumeurs hepatiques"
         },
         {
           "id": "ana-norm-2023-q18",
           "enonce": "La localisation secondaire au niveau hépatique d'une tumeur maligne :",
           "options": [
-            {"label": "A", "text": "Est plus fréquente qu'une tumeur primitive"},
-            {"label": "B", "text": "Est le plus souvent due à un néoplasme d'origine digestive"},
-            {"label": "C", "text": "Est le plus souvent multinodulaire"},
-            {"label": "D", "text": "Est rare"},
-            {"label": "E", "text": "Peut-être révélatrice d'un cancer"}
+            {
+              "label": "A",
+              "text": "Est plus fréquente qu'une tumeur primitive"
+            },
+            {
+              "label": "B",
+              "text": "Est le plus souvent due à un néoplasme d'origine digestive"
+            },
+            {
+              "label": "C",
+              "text": "Est le plus souvent multinodulaire"
+            },
+            {
+              "label": "D",
+              "text": "Est rare"
+            },
+            {
+              "label": "E",
+              "text": "Peut-être révélatrice d'un cancer"
+            }
           ],
-          "reponses": ["A", "B", "C", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "cours": "Tumeurs hepatiques"
         },
         {
           "id": "ana-norm-2023-q19",
           "enonce": "Les lésions bénignes élémentaires du sein comprennent :",
           "options": [
-            {"label": "A", "text": "La mastite granulomateuse"},
-            {"label": "B", "text": "La mastose sclérokystique (MSK)"},
-            {"label": "C", "text": "Les papillomes intracanalaires"},
-            {"label": "D", "text": "Les adénofibromes"},
-            {"label": "E", "text": "Le carcinome mammaire infiltrant de type non spécifique"}
+            {
+              "label": "A",
+              "text": "La mastite granulomateuse"
+            },
+            {
+              "label": "B",
+              "text": "La mastose sclérokystique (MSK)"
+            },
+            {
+              "label": "C",
+              "text": "Les papillomes intracanalaires"
+            },
+            {
+              "label": "D",
+              "text": "Les adénofibromes"
+            },
+            {
+              "label": "E",
+              "text": "Le carcinome mammaire infiltrant de type non spécifique"
+            }
           ],
-          "reponses": ["A", "B", "C"]
+          "reponses": [
+            "A",
+            "B",
+            "C"
+          ],
+          "cours": "Cancer du sein et mastopathies"
         },
         {
           "id": "ana-norm-2023-q20",
           "enonce": "L'adénofibrome mammaire :",
           "options": [
-            {"label": "A", "text": "Est la tumeur bénigne la plus fréquente"},
-            {"label": "B", "text": "Survient à tout âge"},
-            {"label": "C", "text": "Se présente comme une opacité nodulaire bien limitée à la mammographie"},
-            {"label": "D", "text": "Est une tumeur fibro-épithéliale"},
-            {"label": "E", "text": "Se présente comme une opacité mal limitée classée ACR5 à la mammographie"}
+            {
+              "label": "A",
+              "text": "Est la tumeur bénigne la plus fréquente"
+            },
+            {
+              "label": "B",
+              "text": "Survient à tout âge"
+            },
+            {
+              "label": "C",
+              "text": "Se présente comme une opacité nodulaire bien limitée à la mammographie"
+            },
+            {
+              "label": "D",
+              "text": "Est une tumeur fibro-épithéliale"
+            },
+            {
+              "label": "E",
+              "text": "Se présente comme une opacité mal limitée classée ACR5 à la mammographie"
+            }
           ],
-          "reponses": ["A", "B"]
+          "reponses": [
+            "A",
+            "B"
+          ],
+          "cours": "Cancer du sein et mastopathies"
         },
         {
           "id": "ana-norm-2023-q21",
           "enonce": "Le carcinome épidermoïde du poumon :",
           "options": [
-            {"label": "A", "text": "Est souvent périphérique"},
-            {"label": "B", "text": "Constitue un bourgeon endobronchique"},
-            {"label": "C", "text": "Peut-être nécrosé et excavé"},
-            {"label": "D", "text": "Peut-être bien, moyennement ou peu différencié"},
-            {"label": "E", "text": "Comporte des cellules tumorales exprimant l'anticorps anti P40 en immunohistochimie"}
+            {
+              "label": "A",
+              "text": "Est souvent périphérique"
+            },
+            {
+              "label": "B",
+              "text": "Constitue un bourgeon endobronchique"
+            },
+            {
+              "label": "C",
+              "text": "Peut-être nécrosé et excavé"
+            },
+            {
+              "label": "D",
+              "text": "Peut-être bien, moyennement ou peu différencié"
+            },
+            {
+              "label": "E",
+              "text": "Comporte des cellules tumorales exprimant l'anticorps anti P40 en immunohistochimie"
+            }
           ],
-          "reponses": ["A", "C", "D", "E"]
+          "reponses": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "cours": "Cancer du poumon"
         },
         {
           "id": "ana-norm-2023-q22",
           "enonce": "L'aspect microscopique du carcinome à petites cellules du poumon montre :",
           "options": [
-            {"label": "A", "text": "Des cellules de petite taille, fragiles et écrasées"},
-            {"label": "B", "text": "Des structures glandulaires"},
-            {"label": "C", "text": "Un index mitotique élevé"},
-            {"label": "D", "text": "Des globes cornés"},
-            {"label": "E", "text": "Nécrose tumorale"}
+            {
+              "label": "A",
+              "text": "Des cellules de petite taille, fragiles et écrasées"
+            },
+            {
+              "label": "B",
+              "text": "Des structures glandulaires"
+            },
+            {
+              "label": "C",
+              "text": "Un index mitotique élevé"
+            },
+            {
+              "label": "D",
+              "text": "Des globes cornés"
+            },
+            {
+              "label": "E",
+              "text": "Nécrose tumorale"
+            }
           ],
-          "reponses": ["A", "C", "E"]
+          "reponses": [
+            "A",
+            "C",
+            "E"
+          ],
+          "cours": "Cancer du poumon"
         },
         {
           "id": "ana-norm-2023-q23",
           "enonce": "L'évaluation du grade de Scarff Bloom Richardson (SBR) est fondée sur 3critères :",
           "options": [
-            {"label": "A", "text": "La différenciation glandulaire"},
-            {"label": "B", "text": "Les embols vasculaires"},
-            {"label": "C", "text": "Le nombre de mitoses"},
-            {"label": "D", "text": "Les atypies cyto-nucléaires"},
-            {"label": "E", "text": "La stroma réaction"}
+            {
+              "label": "A",
+              "text": "La différenciation glandulaire"
+            },
+            {
+              "label": "B",
+              "text": "Les embols vasculaires"
+            },
+            {
+              "label": "C",
+              "text": "Le nombre de mitoses"
+            },
+            {
+              "label": "D",
+              "text": "Les atypies cyto-nucléaires"
+            },
+            {
+              "label": "E",
+              "text": "La stroma réaction"
+            }
           ],
-          "reponses": ["A", "C", "D"]
+          "reponses": [
+            "A",
+            "C",
+            "D"
+          ],
+          "cours": "Cancer du sein et mastopathies"
         },
         {
           "id": "ana-norm-2023-q24",
           "enonce": "Quel fixateur utilise-t-on pour un prélèvement d'une lésion mammaire infraclinique? (1 réponse est juste)",
           "options": [
-            {"label": "A", "text": "Glutaraldéhyde"},
-            {"label": "B", "text": "Cytospray"},
-            {"label": "C", "text": "Formol"},
-            {"label": "D", "text": "Mélange alcool éther"},
-            {"label": "E", "text": "Bouin"}
+            {
+              "label": "A",
+              "text": "Glutaraldéhyde"
+            },
+            {
+              "label": "B",
+              "text": "Cytospray"
+            },
+            {
+              "label": "C",
+              "text": "Formol"
+            },
+            {
+              "label": "D",
+              "text": "Mélange alcool éther"
+            },
+            {
+              "label": "E",
+              "text": "Bouin"
+            }
           ],
-          "reponses": ["C"]
+          "reponses": [
+            "C"
+          ],
+          "cours": "Cancer du sein et mastopathies"
         },
         {
           "id": "ana-norm-2023-q25",
           "enonce": "Entourer les cancers du sein HER2 positifs et éligible à un traitement par la trastuzumab :",
           "options": [
-            {"label": "A", "text": "Her 2 (0)"},
-            {"label": "B", "text": "Her 2 (1+)"},
-            {"label": "C", "text": "Her 2 (2+) non amplifié en hybridation in situ"},
-            {"label": "D", "text": "Her 2 (3+)"},
-            {"label": "E", "text": "Her 2 (2+) amplifié en hybridation in situ"}
+            {
+              "label": "A",
+              "text": "Her 2 (0)"
+            },
+            {
+              "label": "B",
+              "text": "Her 2 (1+)"
+            },
+            {
+              "label": "C",
+              "text": "Her 2 (2+) non amplifié en hybridation in situ"
+            },
+            {
+              "label": "D",
+              "text": "Her 2 (3+)"
+            },
+            {
+              "label": "E",
+              "text": "Her 2 (2+) amplifié en hybridation in situ"
+            }
           ],
-          "reponses": ["D", "E"]
+          "reponses": [
+            "D",
+            "E"
+          ],
+          "cours": "Cancer du sein et mastopathies"
         },
         {
           "id": "ana-norm-2023-q26",
           "enonce": "Devant une suspicion de tumeur testiculaire, le diagnostic se fait sur :",
           "options": [
-            {"label": "A", "text": "Une cytoponction"},
-            {"label": "B", "text": "Une biopsie"},
-            {"label": "C", "text": "Des copeaux de résection endoscopique"},
-            {"label": "D", "text": "Une orchidectomie"},
-            {"label": "E", "text": "Une exérèse partielle"}
+            {
+              "label": "A",
+              "text": "Une cytoponction"
+            },
+            {
+              "label": "B",
+              "text": "Une biopsie"
+            },
+            {
+              "label": "C",
+              "text": "Des copeaux de résection endoscopique"
+            },
+            {
+              "label": "D",
+              "text": "Une orchidectomie"
+            },
+            {
+              "label": "E",
+              "text": "Une exérèse partielle"
+            }
           ],
-          "reponses": ["D"]
+          "reponses": [
+            "D"
+          ],
+          "cours": "Tumeurs du testicule"
         },
         {
           "id": "ana-norm-2023-q27",
           "enonce": "Vous recevez au laboratoire un prélèvement pour tumeur testiculaire. A la coupe, la tumeur est bien limitée, homogène de couleur beige-rosé. A ce stade, quel est le diagnostic le plus probable ?",
           "options": [
-            {"label": "A", "text": "Le carcinome embryonnaire"},
-            {"label": "B", "text": "Le tératome"},
-            {"label": "C", "text": "Le choriocarcinome"},
-            {"label": "D", "text": "Le séminome"},
-            {"label": "E", "text": "Le yolk sac tumor"}
+            {
+              "label": "A",
+              "text": "Le carcinome embryonnaire"
+            },
+            {
+              "label": "B",
+              "text": "Le tératome"
+            },
+            {
+              "label": "C",
+              "text": "Le choriocarcinome"
+            },
+            {
+              "label": "D",
+              "text": "Le séminome"
+            },
+            {
+              "label": "E",
+              "text": "Le yolk sac tumor"
+            }
           ],
-          "reponses": ["D"]
+          "reponses": [
+            "D"
+          ],
+          "cours": "Tumeurs de l'ovaire"
         },
         {
           "id": "ana-norm-2023-q28",
           "enonce": "Dans ce cas, vous trouverez à l'examen histologique :",
           "options": [
-            {"label": "A", "text": "Des cellules tumorales associées à des lymphocytes et des granulomes"},
-            {"label": "B", "text": "Des tubes, cordons et massifs formés de cellules monomorphes atypiques"},
-            {"label": "C", "text": "Des corps de Shiller Duval"},
-            {"label": "D", "text": "Des boyaux de cellules jointives avec cytokératose"},
-            {"label": "E", "text": "Un infiltrat de cellules en bague à chatons"}
+            {
+              "label": "A",
+              "text": "Des cellules tumorales associées à des lymphocytes et des granulomes"
+            },
+            {
+              "label": "B",
+              "text": "Des tubes, cordons et massifs formés de cellules monomorphes atypiques"
+            },
+            {
+              "label": "C",
+              "text": "Des corps de Shiller Duval"
+            },
+            {
+              "label": "D",
+              "text": "Des boyaux de cellules jointives avec cytokératose"
+            },
+            {
+              "label": "E",
+              "text": "Un infiltrat de cellules en bague à chatons"
+            }
           ],
-          "reponses": ["A"]
+          "reponses": [
+            "A"
+          ],
+          "cours": "Tumeurs du testicule"
         },
         {
           "id": "ana-norm-2023-q29",
           "enonce": "Vous décidez de faire une étude immunohistochimique pour vous aider dans votre diagnostic. Quel est l'anticorps qui sera positif ?",
           "options": [
-            {"label": "A", "text": "hHCG"},
-            {"label": "B", "text": "αFP"},
-            {"label": "C", "text": "PLAP"},
-            {"label": "D", "text": "CD30"},
-            {"label": "E", "text": "Tdt"}
+            {
+              "label": "A",
+              "text": "hHCG"
+            },
+            {
+              "label": "B",
+              "text": "αFP"
+            },
+            {
+              "label": "C",
+              "text": "PLAP"
+            },
+            {
+              "label": "D",
+              "text": "CD30"
+            },
+            {
+              "label": "E",
+              "text": "Tdt"
+            }
           ],
-          "reponses": ["C"]
+          "reponses": [
+            "C"
+          ],
+          "cours": "Lymphome de Hodgkin"
         },
         {
           "id": "ana-norm-2023-q30",
           "enonce": "Lors de la prise en charge approfondie macroscopique de la tumeur, vous notez la présence d'un foyer hémorragique. Cet aspect vous fait suspecter une tumeur testiculaire mixte. Quels sont les 2 tumeurs que vous suspectez en premier :",
           "options": [
-            {"label": "A", "text": "La tumeur du sinus endodermique"},
-            {"label": "B", "text": "Le carcinome embryonnaire"},
-            {"label": "C", "text": "Le tératome malin mature"},
-            {"label": "D", "text": "Le choriocarcinome"},
-            {"label": "E", "text": "La tumeur des cellules de Sertoli"}
+            {
+              "label": "A",
+              "text": "La tumeur du sinus endodermique"
+            },
+            {
+              "label": "B",
+              "text": "Le carcinome embryonnaire"
+            },
+            {
+              "label": "C",
+              "text": "Le tératome malin mature"
+            },
+            {
+              "label": "D",
+              "text": "Le choriocarcinome"
+            },
+            {
+              "label": "E",
+              "text": "La tumeur des cellules de Sertoli"
+            }
           ],
-          "reponses": ["B", "D"]
+          "reponses": [
+            "B",
+            "D"
+          ],
+          "cours": "Tumeurs de l'ovaire"
         },
         {
           "id": "ana-norm-2023-q31",
           "enonce": "Dans ce cas, quels sont les 2 anticorps immunohistochimiques qui vont vous aider (un anticorps sera positif par chaque tumeur) ?",
           "options": [
-            {"label": "A", "text": "hHCG"},
-            {"label": "B", "text": "αFP"},
-            {"label": "C", "text": "PLAP"},
-            {"label": "D", "text": "CD30"},
-            {"label": "E", "text": "Tdt"}
+            {
+              "label": "A",
+              "text": "hHCG"
+            },
+            {
+              "label": "B",
+              "text": "αFP"
+            },
+            {
+              "label": "C",
+              "text": "PLAP"
+            },
+            {
+              "label": "D",
+              "text": "CD30"
+            },
+            {
+              "label": "E",
+              "text": "Tdt"
+            }
           ],
-          "reponses": ["A", "D"]
+          "reponses": [
+            "A",
+            "D"
+          ],
+          "cours": "Lymphome de Hodgkin"
         },
         {
           "id": "ana-norm-2023-q32",
           "enonce": "L'examen histologique d'une biopsie prostatique d'un patient de 60 ans retrouve un adénocarcinome prostatique d'architecture uniforme avec 2 grades de différenciation : 4 à 20%, 5 à 10% et 3 à 70 %. Le score de gleason est de?",
           "options": [
-            {"label": "A", "text": "6"},
-            {"label": "B", "text": "7"},
-            {"label": "C", "text": "8"},
-            {"label": "D", "text": "9"},
-            {"label": "E", "text": "10"}
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "7"
+            },
+            {
+              "label": "C",
+              "text": "8"
+            },
+            {
+              "label": "D",
+              "text": "9"
+            },
+            {
+              "label": "E",
+              "text": "10"
+            }
           ],
-          "reponses": ["B"]
+          "reponses": [
+            "B"
+          ],
+          "cours": "Tumeurs de la prostate"
         },
         {
           "id": "ana-norm-2023-q33",
           "enonce": "Vous écrivez le compte rendu de la manière suivante :",
           "options": [
-            {"label": "A", "text": "Score de Gleason (3 + 4)"},
-            {"label": "B", "text": "Score de Gleason (4 + 3)"},
-            {"label": "C", "text": "Score de Gleason (3 + 5)"},
-            {"label": "D", "text": "Score de Gleason (5 + 3)"},
-            {"label": "E", "text": "Score de Gleason (4 + 5)"}
+            {
+              "label": "A",
+              "text": "Score de Gleason (3 + 4)"
+            },
+            {
+              "label": "B",
+              "text": "Score de Gleason (4 + 3)"
+            },
+            {
+              "label": "C",
+              "text": "Score de Gleason (3 + 5)"
+            },
+            {
+              "label": "D",
+              "text": "Score de Gleason (5 + 3)"
+            },
+            {
+              "label": "E",
+              "text": "Score de Gleason (4 + 5)"
+            }
           ],
-          "reponses": ["A"]
+          "reponses": [
+            "A"
+          ],
+          "cours": "Tumeurs de la prostate"
         },
         {
           "id": "ana-norm-2023-q34",
           "enonce": "A quel groupe grade appartient ce patient ?",
           "options": [
-            {"label": "A", "text": "Groupe grade 1"},
-            {"label": "B", "text": "Groupe grade 2"},
-            {"label": "C", "text": "Groupe grade 3"},
-            {"label": "D", "text": "Groupe grade 4"},
-            {"label": "E", "text": "Groupe grade 5"}
+            {
+              "label": "A",
+              "text": "Groupe grade 1"
+            },
+            {
+              "label": "B",
+              "text": "Groupe grade 2"
+            },
+            {
+              "label": "C",
+              "text": "Groupe grade 3"
+            },
+            {
+              "label": "D",
+              "text": "Groupe grade 4"
+            },
+            {
+              "label": "E",
+              "text": "Groupe grade 5"
+            }
           ],
-          "reponses": ["B"]
+          "reponses": [
+            "B"
+          ],
+          "cours": "Anatomie Pathologique (general)"
         },
         {
           "id": "ana-norm-2023-q35",
           "enonce": "En pathologie prostatique, pour différencier un Pin de haut grade d'un adénocarcinome infiltrant, quels sont les 2 anticorps que l'on utilise :",
           "options": [
-            {"label": "A", "text": "L'HER2"},
-            {"label": "B", "text": "La Racémase"},
-            {"label": "C", "text": "Le ki67"},
-            {"label": "D", "text": "Le CD30"},
-            {"label": "E", "text": "La P63"}
+            {
+              "label": "A",
+              "text": "L'HER2"
+            },
+            {
+              "label": "B",
+              "text": "La Racémase"
+            },
+            {
+              "label": "C",
+              "text": "Le ki67"
+            },
+            {
+              "label": "D",
+              "text": "Le CD30"
+            },
+            {
+              "label": "E",
+              "text": "La P63"
+            }
           ],
-          "reponses": ["B", "E"]
+          "reponses": [
+            "B",
+            "E"
+          ],
+          "cours": "Lymphome de Hodgkin"
         },
         {
           "id": "ana-norm-2023-q36",
           "enonce": "Quel anticorps sera exprimé par les 2 diagnostics ?",
           "options": [
-            {"label": "A", "text": "L'HER2"},
-            {"label": "B", "text": "La Racémase"},
-            {"label": "C", "text": "Le ki67"},
-            {"label": "D", "text": "Le CD30"},
-            {"label": "E", "text": "La P63"}
+            {
+              "label": "A",
+              "text": "L'HER2"
+            },
+            {
+              "label": "B",
+              "text": "La Racémase"
+            },
+            {
+              "label": "C",
+              "text": "Le ki67"
+            },
+            {
+              "label": "D",
+              "text": "Le CD30"
+            },
+            {
+              "label": "E",
+              "text": "La P63"
+            }
           ],
-          "reponses": ["B"]
+          "reponses": [
+            "B"
+          ],
+          "cours": "Lymphome de Hodgkin"
         },
         {
           "id": "ana-norm-2023-q37",
           "enonce": "Dans la rédaction d'un compte rendu pour biopsie prostatique concernant les lésions PIN, seul le PIN de haut grade doit-être rapporté :",
           "options": [
-            {"label": "A", "text": "Vrai"},
-            {"label": "B", "text": "Faux"}
+            {
+              "label": "A",
+              "text": "Vrai"
+            },
+            {
+              "label": "B",
+              "text": "Faux"
+            }
           ],
-          "reponses": ["A"]
+          "reponses": [
+            "A"
+          ],
+          "cours": "Tumeurs de la prostate"
         },
         {
           "id": "ana-norm-2023-q38",
           "enonce": "Vous recevez un appel d'un chirurgien travaillant à distance de tout laboratoire, il souhaite vous envoyer un ganglion pour examen anatomopathologique. Le patient présente plusieurs adénopathies au niveau cervical et inguinal. Vous lui conseillez de : (plusieurs réponses possibles)",
           "options": [
-            {"label": "A", "text": "Privilégier le site inguinal"},
-            {"label": "B", "text": "Privilégier le site cervical"},
-            {"label": "C", "text": "De faire une biopsie partielle"},
-            {"label": "D", "text": "De faire une biopsie exérèse"},
-            {"label": "E", "text": "De fournir des renseignements cliniques complets"}
+            {
+              "label": "A",
+              "text": "Privilégier le site inguinal"
+            },
+            {
+              "label": "B",
+              "text": "Privilégier le site cervical"
+            },
+            {
+              "label": "C",
+              "text": "De faire une biopsie partielle"
+            },
+            {
+              "label": "D",
+              "text": "De faire une biopsie exérèse"
+            },
+            {
+              "label": "E",
+              "text": "De fournir des renseignements cliniques complets"
+            }
           ],
-          "reponses": ["B", "D", "E"]
+          "reponses": [
+            "B",
+            "D",
+            "E"
+          ],
+          "cours": "Pathologie ganglionnaire et lymphomes"
         },
         {
           "id": "ana-norm-2023-q39",
           "enonce": "Le ganglion sera choisi sur son aspect macroscopique. Le chirurgien choisira le ganglion :",
           "options": [
-            {"label": "A", "text": "Rond"},
-            {"label": "B", "text": "Mobile"},
-            {"label": "C", "text": "Dur"},
-            {"label": "D", "text": "Réniforme"},
-            {"label": "E", "text": "Fixe"}
+            {
+              "label": "A",
+              "text": "Rond"
+            },
+            {
+              "label": "B",
+              "text": "Mobile"
+            },
+            {
+              "label": "C",
+              "text": "Dur"
+            },
+            {
+              "label": "D",
+              "text": "Réniforme"
+            },
+            {
+              "label": "E",
+              "text": "Fixe"
+            }
           ],
-          "reponses": ["C", "E"]
+          "reponses": [
+            "C",
+            "E"
+          ],
+          "cours": "Pathologie ganglionnaire et lymphomes"
         },
         {
           "id": "ana-norm-2023-q40",
           "enonce": "Concernant le conditionnement du ganglion, Le chirurgien devra pour le ganglion prélevé (laboratoire à distance):",
           "options": [
-            {"label": "A", "text": "L'envoyer à l'état frais"},
-            {"label": "B", "text": "Le couper en deux"},
-            {"label": "C", "text": "Faire des appositions"},
-            {"label": "D", "text": "Le mettre dans une compresse imbibée de sérum physiologique"},
-            {"label": "E", "text": "Le fixer"}
+            {
+              "label": "A",
+              "text": "L'envoyer à l'état frais"
+            },
+            {
+              "label": "B",
+              "text": "Le couper en deux"
+            },
+            {
+              "label": "C",
+              "text": "Faire des appositions"
+            },
+            {
+              "label": "D",
+              "text": "Le mettre dans une compresse imbibée de sérum physiologique"
+            },
+            {
+              "label": "E",
+              "text": "Le fixer"
+            }
           ],
-          "reponses": ["E"]
+          "reponses": [
+            "E"
+          ],
+          "cours": "Pathologie ganglionnaire et lymphomes"
         },
         {
           "id": "ana-norm-2023-q41",
           "enonce": "Arrivé au laboratoire, vous examinez le ganglion. Vous notez un aspect chair de poisson. A ce stade, quel est le diagnostic le plus probable ?",
           "options": [
-            {"label": "A", "text": "Un sarcome"},
-            {"label": "B", "text": "Un carcinome"},
-            {"label": "C", "text": "Un mélanome"},
-            {"label": "D", "text": "Un séminome"},
-            {"label": "E", "text": "Un lymphome"}
+            {
+              "label": "A",
+              "text": "Un sarcome"
+            },
+            {
+              "label": "B",
+              "text": "Un carcinome"
+            },
+            {
+              "label": "C",
+              "text": "Un mélanome"
+            },
+            {
+              "label": "D",
+              "text": "Un séminome"
+            },
+            {
+              "label": "E",
+              "text": "Un lymphome"
+            }
           ],
-          "reponses": ["E"]
+          "reponses": [
+            "E"
+          ],
+          "cours": "Tumeurs du testicule"
         },
         {
           "id": "ana-norm-2023-q42",
           "enonce": "Dans ce cas, vous trouverez à l'examen histologique :",
           "options": [
-            {"label": "A", "text": "Une prolifération tumorale fusocellulaire"},
-            {"label": "B", "text": "Des boyaux de cellules jointives avec des globes cornés"},
-            {"label": "C", "text": "Un infiltrat de cellules lymphomateuses"},
-            {"label": "D", "text": "Une prolifération riche en cellules en bague à chatons"},
-            {"label": "E", "text": "Une prolifération à cellules claires"}
+            {
+              "label": "A",
+              "text": "Une prolifération tumorale fusocellulaire"
+            },
+            {
+              "label": "B",
+              "text": "Des boyaux de cellules jointives avec des globes cornés"
+            },
+            {
+              "label": "C",
+              "text": "Un infiltrat de cellules lymphomateuses"
+            },
+            {
+              "label": "D",
+              "text": "Une prolifération riche en cellules en bague à chatons"
+            },
+            {
+              "label": "E",
+              "text": "Une prolifération à cellules claires"
+            }
           ],
-          "reponses": ["C"]
+          "reponses": [
+            "C"
+          ],
+          "cours": "Pathologie ganglionnaire et lymphomes"
         },
         {
           "id": "ana-norm-2023-q43",
           "enonce": "L'examen plus approfondi met en évidence des cellules tumorales de taille moyenne avec un aspect de ciel étoilé. Cet aspect évoque :",
           "options": [
-            {"label": "A", "text": "Un adénocarcinome"},
-            {"label": "B", "text": "Un carcinome épidermoïde"},
-            {"label": "C", "text": "Un lymphome de Burkitt"},
-            {"label": "D", "text": "Un myélome"},
-            {"label": "E", "text": "Un lymphome lymphoblastique"}
+            {
+              "label": "A",
+              "text": "Un adénocarcinome"
+            },
+            {
+              "label": "B",
+              "text": "Un carcinome épidermoïde"
+            },
+            {
+              "label": "C",
+              "text": "Un lymphome de Burkitt"
+            },
+            {
+              "label": "D",
+              "text": "Un myélome"
+            },
+            {
+              "label": "E",
+              "text": "Un lymphome lymphoblastique"
+            }
           ],
-          "reponses": ["C"]
+          "reponses": [
+            "C"
+          ],
+          "cours": "Cancer du poumon"
         },
         {
           "id": "ana-norm-2023-q44",
           "enonce": "Vous décidez de faire une étude immunohistochimique pour vous aider dans votre diagnostic. Quel est le premier panel d'anticorps que vous allez utiliser ?",
           "options": [
-            {"label": "A", "text": "Cytokératine20"},
-            {"label": "B", "text": "CD20"},
-            {"label": "C", "text": "Cytokératine7"},
-            {"label": "D", "text": "CD3"},
-            {"label": "E", "text": "KI67"}
+            {
+              "label": "A",
+              "text": "Cytokératine20"
+            },
+            {
+              "label": "B",
+              "text": "CD20"
+            },
+            {
+              "label": "C",
+              "text": "Cytokératine7"
+            },
+            {
+              "label": "D",
+              "text": "CD3"
+            },
+            {
+              "label": "E",
+              "text": "KI67"
+            }
           ],
-          "reponses": ["B", "D"]
+          "reponses": [
+            "B",
+            "D"
+          ],
+          "cours": "Pathologie ganglionnaire et lymphomes"
         },
         {
           "id": "ana-norm-2023-q45",
           "enonce": "En deuxième intention, un autre anticorps est d'une aide précieuse. Lequel ?",
           "options": [
-            {"label": "A", "text": "Cytokératine20"},
-            {"label": "B", "text": "CD20"},
-            {"label": "C", "text": "Cytokératine7"},
-            {"label": "D", "text": "CD3"},
-            {"label": "E", "text": "KI67"}
+            {
+              "label": "A",
+              "text": "Cytokératine20"
+            },
+            {
+              "label": "B",
+              "text": "CD20"
+            },
+            {
+              "label": "C",
+              "text": "Cytokératine7"
+            },
+            {
+              "label": "D",
+              "text": "CD3"
+            },
+            {
+              "label": "E",
+              "text": "KI67"
+            }
           ],
-          "reponses": ["E"]
+          "reponses": [
+            "E"
+          ],
+          "cours": "Pathologie ganglionnaire et lymphomes"
         },
         {
           "id": "ana-norm-2023-q46",
           "enonce": "Ce dernier sera positif à hauteur de :",
           "options": [
-            {"label": "A", "text": "20 %"},
-            {"label": "B", "text": "40 %"},
-            {"label": "C", "text": "60 %"},
-            {"label": "D", "text": "80 %"},
-            {"label": "E", "text": "100 %"}
+            {
+              "label": "A",
+              "text": "20 %"
+            },
+            {
+              "label": "B",
+              "text": "40 %"
+            },
+            {
+              "label": "C",
+              "text": "60 %"
+            },
+            {
+              "label": "D",
+              "text": "80 %"
+            },
+            {
+              "label": "E",
+              "text": "100 %"
+            }
           ],
-          "reponses": ["E"]
+          "reponses": [
+            "E"
+          ],
+          "cours": "Anatomie Pathologique (general)"
         },
         {
           "id": "ana-norm-2023-q47",
           "enonce": "Devant une suspicion de métastase ganglionnaire, le premier site d'invasion ganglionnaire est à rechercher au niveau :",
           "options": [
-            {"label": "A", "text": "De la zone folliculaire"},
-            {"label": "B", "text": "De la zone parafolliculaire"},
-            {"label": "C", "text": "De la médullaire"},
-            {"label": "D", "text": "De la pulpe rouge"},
-            {"label": "E", "text": "En sous-capsulaire"}
+            {
+              "label": "A",
+              "text": "De la zone folliculaire"
+            },
+            {
+              "label": "B",
+              "text": "De la zone parafolliculaire"
+            },
+            {
+              "label": "C",
+              "text": "De la médullaire"
+            },
+            {
+              "label": "D",
+              "text": "De la pulpe rouge"
+            },
+            {
+              "label": "E",
+              "text": "En sous-capsulaire"
+            }
           ],
-          "reponses": ["E"]
+          "reponses": [
+            "E"
+          ],
+          "cours": "Pathologie ganglionnaire et lymphomes"
         },
         {
           "id": "ana-norm-2023-q48",
           "enonce": "Devant une tumeur papillaire de la vessie composée de papilles épaisses et fusionnées avec une désorganisation architecturale majeure et atypies marquées, vous concluez à ?",
           "options": [
-            {"label": "A", "text": "Un papillome"},
-            {"label": "B", "text": "Une néoplasie papillaire de faible potentiel de malignité"},
-            {"label": "C", "text": "Un carcinome papillaire de bas grade"},
-            {"label": "D", "text": "Un carcinome papillaire de haut grade"},
-            {"label": "E", "text": "Un carcinome in Situ"}
+            {
+              "label": "A",
+              "text": "Un papillome"
+            },
+            {
+              "label": "B",
+              "text": "Une néoplasie papillaire de faible potentiel de malignité"
+            },
+            {
+              "label": "C",
+              "text": "Un carcinome papillaire de bas grade"
+            },
+            {
+              "label": "D",
+              "text": "Un carcinome papillaire de haut grade"
+            },
+            {
+              "label": "E",
+              "text": "Un carcinome in Situ"
+            }
           ],
-          "reponses": ["D"]
+          "reponses": [
+            "D"
+          ],
+          "cours": "Tumeurs de la vessie"
         },
         {
           "id": "ana-norm-2023-q49",
           "enonce": "Dans ce cas, cocher les réponses correctes concernant le facteur histo-pronostic majeur ayant des répercussions chirurgicales sur le plan de la prise en charge thérapeutique ?",
           "options": [
-            {"label": "A", "text": "Une infiltration de la muqueuse"},
-            {"label": "B", "text": "Une infiltration de la sous-muqueuse"},
-            {"label": "C", "text": "Une infiltration de la musculeuse"},
-            {"label": "D", "text": "Une infiltration du Detrusor"},
-            {"label": "E", "text": "Un stade pT2"}
+            {
+              "label": "A",
+              "text": "Une infiltration de la muqueuse"
+            },
+            {
+              "label": "B",
+              "text": "Une infiltration de la sous-muqueuse"
+            },
+            {
+              "label": "C",
+              "text": "Une infiltration de la musculeuse"
+            },
+            {
+              "label": "D",
+              "text": "Une infiltration du Detrusor"
+            },
+            {
+              "label": "E",
+              "text": "Un stade pT2"
+            }
           ],
-          "reponses": ["C", "D", "E"]
+          "reponses": [
+            "C",
+            "D",
+            "E"
+          ],
+          "cours": "Tumeurs de la vessie"
         },
         {
           "id": "ana-norm-2023-q50",
           "enonce": "Parmi les tumeurs suivantes, l'helicobacter pylori est incriminé dans la genèse de 2 cancers lesquels ?",
           "options": [
-            {"label": "A", "text": "La tumeur stromale gastro-intestinales GIST"},
-            {"label": "B", "text": "Le sarcome de kaposi"},
-            {"label": "C", "text": "Le lymphome de MALT"},
-            {"label": "D", "text": "Le carcinome épidermoïde"},
-            {"label": "E", "text": "L'adénocarcinome"}
+            {
+              "label": "A",
+              "text": "La tumeur stromale gastro-intestinales GIST"
+            },
+            {
+              "label": "B",
+              "text": "Le sarcome de kaposi"
+            },
+            {
+              "label": "C",
+              "text": "Le lymphome de MALT"
+            },
+            {
+              "label": "D",
+              "text": "Le carcinome épidermoïde"
+            },
+            {
+              "label": "E",
+              "text": "L'adénocarcinome"
+            }
           ],
-          "reponses": ["C", "E"]
+          "reponses": [
+            "C",
+            "E"
+          ],
+          "cours": "Cancer du poumon"
         }
       ]
     },
@@ -617,601 +1569,1566 @@
           "id": "ana-norm-2024-q1",
           "enonce": "Concernant les tumeurs épithéliales primitives de l'ovaire :",
           "options": [
-            {"label": "A", "text": "Sont les tumeurs les plus fréquentes de l'ovaire"},
-            {"label": "B", "text": "Proviennent du revêtement cœlomique de surface ovarienne"},
-            {"label": "C", "text": "Sont essentiellement malignes"},
-            {"label": "D", "text": "Sont classées en fonction du type cellulaire et du degré de malignité"},
-            {"label": "E", "text": "Incluent les tératomes immatures"}
+            {
+              "label": "A",
+              "text": "Sont les tumeurs les plus fréquentes de l'ovaire"
+            },
+            {
+              "label": "B",
+              "text": "Proviennent du revêtement cœlomique de surface ovarienne"
+            },
+            {
+              "label": "C",
+              "text": "Sont essentiellement malignes"
+            },
+            {
+              "label": "D",
+              "text": "Sont classées en fonction du type cellulaire et du degré de malignité"
+            },
+            {
+              "label": "E",
+              "text": "Incluent les tératomes immatures"
+            }
           ],
-          "reponses": ["A", "B", "D"]
+          "reponses": [
+            "A",
+            "B",
+            "D"
+          ],
+          "cours": "Tumeurs de l'ovaire"
         },
         {
           "id": "ana-norm-2024-q2",
           "enonce": "Concernant les tumeurs germinales de l'ovaire :",
           "options": [
-            {"label": "A", "text": "Le tératome ovarien mature est le plus fréquent"},
-            {"label": "B", "text": "Proviennent des cellules de Sertoli et Leydig"},
-            {"label": "C", "text": "Dérivent des cellules germinales ovariennes"},
-            {"label": "D", "text": "Le tératome mature peut cancériser"},
-            {"label": "E", "text": "Se retrouvent le plus souvent chez la femme jeune de moins de 20ans"}
+            {
+              "label": "A",
+              "text": "Le tératome ovarien mature est le plus fréquent"
+            },
+            {
+              "label": "B",
+              "text": "Proviennent des cellules de Sertoli et Leydig"
+            },
+            {
+              "label": "C",
+              "text": "Dérivent des cellules germinales ovariennes"
+            },
+            {
+              "label": "D",
+              "text": "Le tératome mature peut cancériser"
+            },
+            {
+              "label": "E",
+              "text": "Se retrouvent le plus souvent chez la femme jeune de moins de 20ans"
+            }
           ],
-          "reponses": ["A", "C", "D", "E"]
+          "reponses": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "cours": "Tumeurs de l'ovaire"
         },
         {
           "id": "ana-norm-2024-q3",
           "enonce": "Concernant des tumeurs de l'ovaire :",
           "options": [
-            {"label": "A", "text": "La classification anatomopathologique la plus utilisée est celle de l'OMS 2020"},
-            {"label": "B", "text": "La classification est fondée sur la corrélation morphologique entre l'aspect histologique tumoral et histologique des constituants de l'ovaire normal"},
-            {"label": "C", "text": "La tumeur de l'ovaire la plus fréquente est la métastase"},
-            {"label": "D", "text": "Les tumeurs épithéliales se développent à partir des cellules germinales"},
-            {"label": "E", "text": "Les tumeurs des cordons sexuels et du stroma est la plus fréquente"}
+            {
+              "label": "A",
+              "text": "La classification anatomopathologique la plus utilisée est celle de l'OMS 2020"
+            },
+            {
+              "label": "B",
+              "text": "La classification est fondée sur la corrélation morphologique entre l'aspect histologique tumoral et histologique des constituants de l'ovaire normal"
+            },
+            {
+              "label": "C",
+              "text": "La tumeur de l'ovaire la plus fréquente est la métastase"
+            },
+            {
+              "label": "D",
+              "text": "Les tumeurs épithéliales se développent à partir des cellules germinales"
+            },
+            {
+              "label": "E",
+              "text": "Les tumeurs des cordons sexuels et du stroma est la plus fréquente"
+            }
           ],
-          "reponses": ["A", "B"]
+          "reponses": [
+            "A",
+            "B"
+          ],
+          "cours": "Tumeurs de l'ovaire"
         },
         {
           "id": "ana-norm-2024-q4",
           "enonce": "Les facteurs de risque d'un carcinome primitif de l'ovaire sont :",
           "options": [
-            {"label": "A", "text": "Antécédents familiaux de cancer de l'ovaire"},
-            {"label": "B", "text": "Mutation des gènes BRCA"},
-            {"label": "C", "text": "Nulliparité"},
-            {"label": "D", "text": "Hormonothérapie substitutive"},
-            {"label": "E", "text": "Syndrome de Lynch"}
+            {
+              "label": "A",
+              "text": "Antécédents familiaux de cancer de l'ovaire"
+            },
+            {
+              "label": "B",
+              "text": "Mutation des gènes BRCA"
+            },
+            {
+              "label": "C",
+              "text": "Nulliparité"
+            },
+            {
+              "label": "D",
+              "text": "Hormonothérapie substitutive"
+            },
+            {
+              "label": "E",
+              "text": "Syndrome de Lynch"
+            }
           ],
-          "reponses": ["A", "B", "C", "D", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "cours": "Tumeurs de l'ovaire"
         },
         {
           "id": "ana-norm-2024-q5",
           "enonce": "Les tumeurs mucineuses de l'ovaire :",
           "options": [
-            {"label": "A", "text": "Constituent 80% des tumeurs ovariennes"},
-            {"label": "B", "text": "Elles sont souvent bilatérales"},
-            {"label": "C", "text": "Elles peuvent se compliquer de pseudo-myxome péritonéal"},
-            {"label": "D", "text": "Le diagnostic positif repose sur la biopsie de la tumeur"},
-            {"label": "E", "text": "Le diagnostic de cystadénocarcinome mucineux ovarien ne peut être considéré qu'après avoir éliminé une origine secondaire digestive"}
+            {
+              "label": "A",
+              "text": "Constituent 80% des tumeurs ovariennes"
+            },
+            {
+              "label": "B",
+              "text": "Elles sont souvent bilatérales"
+            },
+            {
+              "label": "C",
+              "text": "Elles peuvent se compliquer de pseudo-myxome péritonéal"
+            },
+            {
+              "label": "D",
+              "text": "Le diagnostic positif repose sur la biopsie de la tumeur"
+            },
+            {
+              "label": "E",
+              "text": "Le diagnostic de cystadénocarcinome mucineux ovarien ne peut être considéré qu'après avoir éliminé une origine secondaire digestive"
+            }
           ],
-          "reponses": ["C", "E"]
+          "reponses": [
+            "C",
+            "E"
+          ],
+          "cours": "Tumeurs de l'ovaire"
         },
         {
           "id": "ana-norm-2024-q6",
           "enonce": "Rôle du pathologiste dans la prise en charge du cancer du sein :",
           "options": [
-            {"label": "A", "text": "Assure le diagnostic de certitude selon la classification de l'OMS 2019"},
-            {"label": "B", "text": "Participe avec les radiologues, chirurgiens et cancérologues à l'élaboration de la démarche thérapeutique"},
-            {"label": "C", "text": "Précise dans le cas de chirurgie conservatrice l'étendue et les limites d'exérèse"},
-            {"label": "D", "text": "Fournit les éléments histopronostiques nécessaires à la prise en charge thérapeutique"},
-            {"label": "E", "text": "Évalue le statut Her2"}
+            {
+              "label": "A",
+              "text": "Assure le diagnostic de certitude selon la classification de l'OMS 2019"
+            },
+            {
+              "label": "B",
+              "text": "Participe avec les radiologues, chirurgiens et cancérologues à l'élaboration de la démarche thérapeutique"
+            },
+            {
+              "label": "C",
+              "text": "Précise dans le cas de chirurgie conservatrice l'étendue et les limites d'exérèse"
+            },
+            {
+              "label": "D",
+              "text": "Fournit les éléments histopronostiques nécessaires à la prise en charge thérapeutique"
+            },
+            {
+              "label": "E",
+              "text": "Évalue le statut Her2"
+            }
           ],
-          "reponses": ["A", "B", "C", "D", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "cours": "Cancer du sein et mastopathies"
         },
         {
           "id": "ana-norm-2024-q7",
           "enonce": "La classification OMS 2019 des carcinomes infiltrants du sein distingue :",
           "options": [
-            {"label": "A", "text": "Carcinome mammaire de type non spécifique (NST)"},
-            {"label": "B", "text": "Carcinome mammaire de type lobulaire"},
-            {"label": "C", "text": "Carcinome lobulaire in situ"},
-            {"label": "D", "text": "Carcinome canalaire in situ"},
-            {"label": "E", "text": "Carcinome tubuleux"}
+            {
+              "label": "A",
+              "text": "Carcinome mammaire de type non spécifique (NST)"
+            },
+            {
+              "label": "B",
+              "text": "Carcinome mammaire de type lobulaire"
+            },
+            {
+              "label": "C",
+              "text": "Carcinome lobulaire in situ"
+            },
+            {
+              "label": "D",
+              "text": "Carcinome canalaire in situ"
+            },
+            {
+              "label": "E",
+              "text": "Carcinome tubuleux"
+            }
           ],
-          "reponses": ["A", "B", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "E"
+          ],
+          "cours": "Cancer du sein et mastopathies"
         },
         {
           "id": "ana-norm-2024-q8",
           "enonce": "Le carcinome infiltrant de type non spécifique NST :",
           "options": [
-            {"label": "A", "text": "Est le type histologique le plus fréquent des cancers du sein"},
-            {"label": "B", "text": "Est anciennement appelé carcinome canalaire infiltrant"},
-            {"label": "C", "text": "Peut donner une métastase ganglionnaire axillaire"},
-            {"label": "D", "text": "Peut-être bilatéral"},
-            {"label": "E", "text": "Peut donner des métastases pulmonaires"}
+            {
+              "label": "A",
+              "text": "Est le type histologique le plus fréquent des cancers du sein"
+            },
+            {
+              "label": "B",
+              "text": "Est anciennement appelé carcinome canalaire infiltrant"
+            },
+            {
+              "label": "C",
+              "text": "Peut donner une métastase ganglionnaire axillaire"
+            },
+            {
+              "label": "D",
+              "text": "Peut-être bilatéral"
+            },
+            {
+              "label": "E",
+              "text": "Peut donner des métastases pulmonaires"
+            }
           ],
-          "reponses": ["A", "B", "C", "D", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "cours": "Cancer du sein et mastopathies"
         },
         {
           "id": "ana-norm-2024-q9",
           "enonce": "L'évaluation du grade de Scarff Bloom Richardson est fondée sur :",
           "options": [
-            {"label": "A", "text": "La différenciation glandulaire"},
-            {"label": "B", "text": "Les embols vasculaires"},
-            {"label": "C", "text": "Le pourcentage du Ki67"},
-            {"label": "D", "text": "Le nombre de mitoses"},
-            {"label": "E", "text": "Les atypies cyto-nucléaires"}
+            {
+              "label": "A",
+              "text": "La différenciation glandulaire"
+            },
+            {
+              "label": "B",
+              "text": "Les embols vasculaires"
+            },
+            {
+              "label": "C",
+              "text": "Le pourcentage du Ki67"
+            },
+            {
+              "label": "D",
+              "text": "Le nombre de mitoses"
+            },
+            {
+              "label": "E",
+              "text": "Les atypies cyto-nucléaires"
+            }
           ],
-          "reponses": ["A", "D", "E"]
+          "reponses": [
+            "A",
+            "D",
+            "E"
+          ],
+          "cours": "Cancer du sein et mastopathies"
         },
         {
           "id": "ana-norm-2024-q10",
           "enonce": "Entourer les cancers du sein HER2 négatifs (QCU) :",
           "options": [
-            {"label": "A", "text": "Her 2 (0)"},
-            {"label": "B", "text": "Her 2 (1+)"},
-            {"label": "C", "text": "Her 2 (2+) non amplifié en hybridation in situ"},
-            {"label": "D", "text": "Her 2 (1+)"},
-            {"label": "E", "text": "Her 2 (2+) amplifié en hybridation in situ"}
+            {
+              "label": "A",
+              "text": "Her 2 (0)"
+            },
+            {
+              "label": "B",
+              "text": "Her 2 (1+)"
+            },
+            {
+              "label": "C",
+              "text": "Her 2 (2+) non amplifié en hybridation in situ"
+            },
+            {
+              "label": "D",
+              "text": "Her 2 (1+)"
+            },
+            {
+              "label": "E",
+              "text": "Her 2 (2+) amplifié en hybridation in situ"
+            }
           ],
-          "reponses": ["A"]
+          "reponses": [
+            "A"
+          ],
+          "cours": "Cancer du sein et mastopathies"
         },
         {
           "id": "ana-norm-2024-q11",
           "enonce": "Quel fixateur utilise-t-on pour un prélèvement d'une lésion mammaire infraclinique?",
           "options": [
-            {"label": "A", "text": "Mélange alcool éther"},
-            {"label": "B", "text": "Bouin"},
-            {"label": "C", "text": "Glutaraldéhyde"},
-            {"label": "D", "text": "Cytospray"},
-            {"label": "E", "text": "Formol tamponné neutre à 4%"}
+            {
+              "label": "A",
+              "text": "Mélange alcool éther"
+            },
+            {
+              "label": "B",
+              "text": "Bouin"
+            },
+            {
+              "label": "C",
+              "text": "Glutaraldéhyde"
+            },
+            {
+              "label": "D",
+              "text": "Cytospray"
+            },
+            {
+              "label": "E",
+              "text": "Formol tamponné neutre à 4%"
+            }
           ],
-          "reponses": ["E"]
+          "reponses": [
+            "E"
+          ],
+          "cours": "Cancer du sein et mastopathies"
         },
         {
           "id": "ana-norm-2024-q12",
           "enonce": "La mastopathie fibrokystique du sein comporte quatre des lésions suivantes :",
           "options": [
-            {"label": "A", "text": "La cicatrice radiaire"},
-            {"label": "B", "text": "Le kyste"},
-            {"label": "C", "text": "Le papillome"},
-            {"label": "D", "text": "L'adénose"},
-            {"label": "E", "text": "L'hyperplasie épithéliale canalaire"}
+            {
+              "label": "A",
+              "text": "La cicatrice radiaire"
+            },
+            {
+              "label": "B",
+              "text": "Le kyste"
+            },
+            {
+              "label": "C",
+              "text": "Le papillome"
+            },
+            {
+              "label": "D",
+              "text": "L'adénose"
+            },
+            {
+              "label": "E",
+              "text": "L'hyperplasie épithéliale canalaire"
+            }
           ],
-          "reponses": ["A", "B", "D", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "cours": "Cancer du sein et mastopathies"
         },
         {
           "id": "ana-norm-2024-q13",
           "enonce": "Les tumeurs du sein dont l'exérèse doit être large sont :",
           "options": [
-            {"label": "A", "text": "La mastite granulomateuse"},
-            {"label": "B", "text": "Tumeur phyllode grade II"},
-            {"label": "C", "text": "Adénocystépithéliome"},
-            {"label": "D", "text": "Fibroadénome"},
-            {"label": "E", "text": "Adénofibrome mammaire"}
+            {
+              "label": "A",
+              "text": "La mastite granulomateuse"
+            },
+            {
+              "label": "B",
+              "text": "Tumeur phyllode grade II"
+            },
+            {
+              "label": "C",
+              "text": "Adénocystépithéliome"
+            },
+            {
+              "label": "D",
+              "text": "Fibroadénome"
+            },
+            {
+              "label": "E",
+              "text": "Adénofibrome mammaire"
+            }
           ],
-          "reponses": ["B", "C"]
+          "reponses": [
+            "B",
+            "C"
+          ],
+          "cours": "Cancer du sein et mastopathies"
         },
         {
           "id": "ana-norm-2024-q14",
           "enonce": "Une des propositions suivantes s'applique à la tumeur phyllode du sein, laquelle ?",
           "options": [
-            {"label": "A", "text": "Dystrophie mammaire"},
-            {"label": "B", "text": "Se cancérise toujours"},
-            {"label": "C", "text": "Double composante épithéliale et conjonctive"},
-            {"label": "D", "text": "Squirrhe"},
-            {"label": "E", "text": "Récidive après exérèse complète"}
+            {
+              "label": "A",
+              "text": "Dystrophie mammaire"
+            },
+            {
+              "label": "B",
+              "text": "Se cancérise toujours"
+            },
+            {
+              "label": "C",
+              "text": "Double composante épithéliale et conjonctive"
+            },
+            {
+              "label": "D",
+              "text": "Squirrhe"
+            },
+            {
+              "label": "E",
+              "text": "Récidive après exérèse complète"
+            }
           ],
-          "reponses": ["C"]
+          "reponses": [
+            "C"
+          ],
+          "cours": "Cancer du sein et mastopathies"
         },
         {
           "id": "ana-norm-2024-q15",
           "enonce": "La cicatrice radiaire :",
           "options": [
-            {"label": "A", "text": "Appartient au spectre des mastopathies fibro-kystiques"},
-            {"label": "B", "text": "A d'image stellaire à la mammographie"},
-            {"label": "C", "text": "Est à risque quand elle mesure moins de 7mm"},
-            {"label": "D", "text": "Est un type de cancer du sein"},
-            {"label": "E", "text": "Pose le problème de diagnostic différentiel à l'échelle radiologique avec un cancer infiltrant du sein"}
+            {
+              "label": "A",
+              "text": "Appartient au spectre des mastopathies fibro-kystiques"
+            },
+            {
+              "label": "B",
+              "text": "A d'image stellaire à la mammographie"
+            },
+            {
+              "label": "C",
+              "text": "Est à risque quand elle mesure moins de 7mm"
+            },
+            {
+              "label": "D",
+              "text": "Est un type de cancer du sein"
+            },
+            {
+              "label": "E",
+              "text": "Pose le problème de diagnostic différentiel à l'échelle radiologique avec un cancer infiltrant du sein"
+            }
           ],
-          "reponses": ["A", "B", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "E"
+          ],
+          "cours": "Cancer du sein et mastopathies"
         },
         {
           "id": "ana-norm-2024-q16",
           "enonce": "Le lymphome de hodgkin :",
           "options": [
-            {"label": "A", "text": "Est une maladie curable"},
-            {"label": "B", "text": "Le début est souvent stéréotypé"},
-            {"label": "C", "text": "Nécessite un bilan d'extension complet"},
-            {"label": "D", "text": "Le stade d'Ann Arbor détermine le pronostic et les indications thérapeutiques"},
-            {"label": "E", "text": "Nécessite une étude immunohistochimique"}
+            {
+              "label": "A",
+              "text": "Est une maladie curable"
+            },
+            {
+              "label": "B",
+              "text": "Le début est souvent stéréotypé"
+            },
+            {
+              "label": "C",
+              "text": "Nécessite un bilan d'extension complet"
+            },
+            {
+              "label": "D",
+              "text": "Le stade d'Ann Arbor détermine le pronostic et les indications thérapeutiques"
+            },
+            {
+              "label": "E",
+              "text": "Nécessite une étude immunohistochimique"
+            }
           ],
-          "reponses": ["A", "B", "C", "D", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "cours": "Lymphome de Hodgkin"
         },
         {
           "id": "ana-norm-2024-q17",
           "enonce": "Les quatre sous-types du lymphome hodgkinien classique sont :",
           "options": [
-            {"label": "A", "text": "Sous-type scléronodulaire"},
-            {"label": "B", "text": "Sous-type à cellularité mixte"},
-            {"label": "C", "text": "Sous-type riche en lymphocytes"},
-            {"label": "D", "text": "Sous-type en déplétion lymphocytaire"},
-            {"label": "E", "text": "Nodulaire à prédominance lymphocytaire"}
+            {
+              "label": "A",
+              "text": "Sous-type scléronodulaire"
+            },
+            {
+              "label": "B",
+              "text": "Sous-type à cellularité mixte"
+            },
+            {
+              "label": "C",
+              "text": "Sous-type riche en lymphocytes"
+            },
+            {
+              "label": "D",
+              "text": "Sous-type en déplétion lymphocytaire"
+            },
+            {
+              "label": "E",
+              "text": "Nodulaire à prédominance lymphocytaire"
+            }
           ],
-          "reponses": ["A", "B", "C", "D"]
+          "reponses": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "cours": "Lymphome de Hodgkin"
         },
         {
           "id": "ana-norm-2024-q18",
           "enonce": "Les trois principaux anticorps orientant vers le diagnostic d'un lymphome hodgkinien classique :",
           "options": [
-            {"label": "A", "text": "Anticorps anti CD15"},
-            {"label": "B", "text": "Anticorps anti CD33"},
-            {"label": "C", "text": "Anticorps anti PAX5"},
-            {"label": "D", "text": "Anticorps anti CD30"},
-            {"label": "E", "text": "Anticorps anti CD20"}
+            {
+              "label": "A",
+              "text": "Anticorps anti CD15"
+            },
+            {
+              "label": "B",
+              "text": "Anticorps anti CD33"
+            },
+            {
+              "label": "C",
+              "text": "Anticorps anti PAX5"
+            },
+            {
+              "label": "D",
+              "text": "Anticorps anti CD30"
+            },
+            {
+              "label": "E",
+              "text": "Anticorps anti CD20"
+            }
           ],
-          "reponses": ["A", "C", "D"]
+          "reponses": [
+            "A",
+            "C",
+            "D"
+          ],
+          "cours": "Lymphome de Hodgkin"
         },
         {
           "id": "ana-norm-2024-q19",
           "enonce": "Une lésion polypoïde colorectale :",
           "options": [
-            {"label": "A", "text": "Peut être de nature inflammatoire"},
-            {"label": "B", "text": "Est toujours un adénome colorectal"},
-            {"label": "C", "text": "Doit être vérifiée histologiquement"},
-            {"label": "D", "text": "Peut correspondre à de nombreuses entités anatomo-cliniques différentes"},
-            {"label": "E", "text": "Est toujours bénigne"}
+            {
+              "label": "A",
+              "text": "Peut être de nature inflammatoire"
+            },
+            {
+              "label": "B",
+              "text": "Est toujours un adénome colorectal"
+            },
+            {
+              "label": "C",
+              "text": "Doit être vérifiée histologiquement"
+            },
+            {
+              "label": "D",
+              "text": "Peut correspondre à de nombreuses entités anatomo-cliniques différentes"
+            },
+            {
+              "label": "E",
+              "text": "Est toujours bénigne"
+            }
           ],
-          "reponses": ["A", "C", "D"]
+          "reponses": [
+            "A",
+            "C",
+            "D"
+          ],
+          "cours": "Cancer colorectal et polypes"
         },
         {
           "id": "ana-norm-2024-q20",
           "enonce": "Le compte rendu anatomopathologique en matière de cancer rectal doit préciser :",
           "options": [
-            {"label": "A", "text": "La limite circonférentielle"},
-            {"label": "B", "text": "Le degré de différenciation des adénocarcinomes"},
-            {"label": "C", "text": "La présence ou non d'embols vasculaires"},
-            {"label": "D", "text": "Le type histologique"},
-            {"label": "E", "text": "L'état des limites d'exérèse chirurgicales"}
+            {
+              "label": "A",
+              "text": "La limite circonférentielle"
+            },
+            {
+              "label": "B",
+              "text": "Le degré de différenciation des adénocarcinomes"
+            },
+            {
+              "label": "C",
+              "text": "La présence ou non d'embols vasculaires"
+            },
+            {
+              "label": "D",
+              "text": "Le type histologique"
+            },
+            {
+              "label": "E",
+              "text": "L'état des limites d'exérèse chirurgicales"
+            }
           ],
-          "reponses": ["A", "B", "C", "D", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "cours": "Cancer colorectal et polypes"
         },
         {
           "id": "ana-norm-2024-q21",
           "enonce": "Les critères de risque de malignité devant un adénome colorectal englobent :",
           "options": [
-            {"label": "A", "text": "L'âge >60ans"},
-            {"label": "B", "text": "Le sexe masculin"},
-            {"label": "C", "text": "La composante villeuse chocolat se"},
-            {"label": "D", "text": "La taille > 1cm"},
-            {"label": "E", "text": "Le siège rectal"}
+            {
+              "label": "A",
+              "text": "L'âge >60ans"
+            },
+            {
+              "label": "B",
+              "text": "Le sexe masculin"
+            },
+            {
+              "label": "C",
+              "text": "La composante villeuse chocolat se"
+            },
+            {
+              "label": "D",
+              "text": "La taille > 1cm"
+            },
+            {
+              "label": "E",
+              "text": "Le siège rectal"
+            }
           ],
-          "reponses": ["A", "C", "D", "E"]
+          "reponses": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "cours": "Cancer colorectal et polypes"
         },
         {
           "id": "ana-norm-2024-q22",
           "enonce": "Concernant l'origine tissulaire des tumeurs primitives hépatiques :",
           "options": [
-            {"label": "A", "text": "Le carcinome hépatocellulaire provient des structures hépatocytaires"},
-            {"label": "B", "text": "Le cholangiocarcinome provient des structures biliaires"},
-            {"label": "C", "text": "Les structures vasculaires ne donnent pas de tumeurs primitives hépatiques"},
-            {"label": "D", "text": "Il peut exister des tumeurs mixtes"},
-            {"label": "E", "text": "Il peut exister des tumeurs d'origine embryonnaire"}
+            {
+              "label": "A",
+              "text": "Le carcinome hépatocellulaire provient des structures hépatocytaires"
+            },
+            {
+              "label": "B",
+              "text": "Le cholangiocarcinome provient des structures biliaires"
+            },
+            {
+              "label": "C",
+              "text": "Les structures vasculaires ne donnent pas de tumeurs primitives hépatiques"
+            },
+            {
+              "label": "D",
+              "text": "Il peut exister des tumeurs mixtes"
+            },
+            {
+              "label": "E",
+              "text": "Il peut exister des tumeurs d'origine embryonnaire"
+            }
           ],
-          "reponses": ["A", "B", "D", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "cours": "Tumeurs hepatiques"
         },
         {
           "id": "ana-norm-2024-q23",
           "enonce": "La localisation secondaire au niveau hépatique d'une tumeur maligne :",
           "options": [
-            {"label": "A", "text": "Est plus fréquente qu'une tumeur primitive"},
-            {"label": "B", "text": "Est le plus souvent due à un néoplasme d'origine digestive"},
-            {"label": "C", "text": "Est le plus souvent multiloculaire"},
-            {"label": "D", "text": "L'immunohistochimie est la seule peut toujours déterminer le primitif avec précision"},
-            {"label": "E", "text": "Peut-être révélatrice d'un cancer"}
+            {
+              "label": "A",
+              "text": "Est plus fréquente qu'une tumeur primitive"
+            },
+            {
+              "label": "B",
+              "text": "Est le plus souvent due à un néoplasme d'origine digestive"
+            },
+            {
+              "label": "C",
+              "text": "Est le plus souvent multiloculaire"
+            },
+            {
+              "label": "D",
+              "text": "L'immunohistochimie est la seule peut toujours déterminer le primitif avec précision"
+            },
+            {
+              "label": "E",
+              "text": "Peut-être révélatrice d'un cancer"
+            }
           ],
-          "reponses": ["A", "B", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "E"
+          ],
+          "cours": "Tumeurs hepatiques"
         },
         {
           "id": "ana-norm-2024-q24",
           "enonce": "Le cancer primitif du poumon :",
           "options": [
-            {"label": "A", "text": "Est dominé par les carcinomes"},
-            {"label": "B", "text": "Est lié principalement au tabac"},
-            {"label": "C", "text": "Peut survenir sur un lit de dysplasie"},
-            {"label": "D", "text": "Est de bon pronostic"},
-            {"label": "E", "text": "Peut Poser le problème de diagnostic différentiel avec une métastase"}
+            {
+              "label": "A",
+              "text": "Est dominé par les carcinomes"
+            },
+            {
+              "label": "B",
+              "text": "Est lié principalement au tabac"
+            },
+            {
+              "label": "C",
+              "text": "Peut survenir sur un lit de dysplasie"
+            },
+            {
+              "label": "D",
+              "text": "Est de bon pronostic"
+            },
+            {
+              "label": "E",
+              "text": "Peut Poser le problème de diagnostic différentiel avec une métastase"
+            }
           ],
-          "reponses": ["A", "B", "C", "E"]
+          "reponses": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "cours": "Cancer du poumon"
         },
         {
           "id": "ana-norm-2024-q25",
           "enonce": "Le carcinome épidermoïde du poumon :",
           "options": [
-            {"label": "A", "text": "Est souvent périphérique"},
-            {"label": "B", "text": "Peut-être nécrosé et excavé"},
-            {"label": "C", "text": "Est bien, moyennement ou peu différencié"},
-            {"label": "D", "text": "Peut être confondu avec une métastase"},
-            {"label": "E", "text": "N'est pas lié au tabagisme"}
+            {
+              "label": "A",
+              "text": "Est souvent périphérique"
+            },
+            {
+              "label": "B",
+              "text": "Peut-être nécrosé et excavé"
+            },
+            {
+              "label": "C",
+              "text": "Est bien, moyennement ou peu différencié"
+            },
+            {
+              "label": "D",
+              "text": "Peut être confondu avec une métastase"
+            },
+            {
+              "label": "E",
+              "text": "N'est pas lié au tabagisme"
+            }
           ],
-          "reponses": ["B", "C"]
+          "reponses": [
+            "B",
+            "C"
+          ],
+          "cours": "Cancer du poumon"
         },
         {
           "id": "ana-norm-2024-q26",
           "enonce": "Quel est la tumeur testiculaire la plus fréquente ?",
           "options": [
-            {"label": "A", "text": "Le carcinome embryonnaire"},
-            {"label": "B", "text": "Le tératome"},
-            {"label": "C", "text": "Le choriocarcinome"},
-            {"label": "D", "text": "Le séminome"},
-            {"label": "E", "text": "Le yolk sac tumor"}
+            {
+              "label": "A",
+              "text": "Le carcinome embryonnaire"
+            },
+            {
+              "label": "B",
+              "text": "Le tératome"
+            },
+            {
+              "label": "C",
+              "text": "Le choriocarcinome"
+            },
+            {
+              "label": "D",
+              "text": "Le séminome"
+            },
+            {
+              "label": "E",
+              "text": "Le yolk sac tumor"
+            }
           ],
-          "reponses": ["D"]
+          "reponses": [
+            "D"
+          ],
+          "cours": "Tumeurs de l'ovaire"
         },
         {
           "id": "ana-norm-2024-q27",
           "enonce": "Devant une suspicion de tumeur testiculaire, le diagnostic se fait sur :",
           "options": [
-            {"label": "A", "text": "Une cytoponction"},
-            {"label": "B", "text": "Une biopsie"},
-            {"label": "C", "text": "Des copeaux de résection endoscopique"},
-            {"label": "D", "text": "Une orchidectomie"},
-            {"label": "E", "text": "Une exérèse partielle"}
+            {
+              "label": "A",
+              "text": "Une cytoponction"
+            },
+            {
+              "label": "B",
+              "text": "Une biopsie"
+            },
+            {
+              "label": "C",
+              "text": "Des copeaux de résection endoscopique"
+            },
+            {
+              "label": "D",
+              "text": "Une orchidectomie"
+            },
+            {
+              "label": "E",
+              "text": "Une exérèse partielle"
+            }
           ],
-          "reponses": ["D"]
+          "reponses": [
+            "D"
+          ],
+          "cours": "Tumeurs du testicule"
         },
         {
           "id": "ana-norm-2024-q28",
           "enonce": "Vous recevez au laboratoire un prélèvement pour tumeur testiculaire. A la coupe, la tumeur est bien limitée, homogène de couleur beige-rosé. A ce stade, quel est le diagnostic le plus probable ?",
           "options": [
-            {"label": "A", "text": "Le carcinome embryonnaire"},
-            {"label": "B", "text": "Le tératome"},
-            {"label": "C", "text": "Le choriocarcinome"},
-            {"label": "D", "text": "Le séminome"},
-            {"label": "E", "text": "Le yolk sac tumor"}
+            {
+              "label": "A",
+              "text": "Le carcinome embryonnaire"
+            },
+            {
+              "label": "B",
+              "text": "Le tératome"
+            },
+            {
+              "label": "C",
+              "text": "Le choriocarcinome"
+            },
+            {
+              "label": "D",
+              "text": "Le séminome"
+            },
+            {
+              "label": "E",
+              "text": "Le yolk sac tumor"
+            }
           ],
-          "reponses": ["D"]
+          "reponses": [
+            "D"
+          ],
+          "cours": "Tumeurs de l'ovaire"
         },
         {
           "id": "ana-norm-2024-q29",
           "enonce": "Dans ce cas, vous trouverez à l'examen histologique :",
           "options": [
-            {"label": "A", "text": "Des cellules tumorales associées à des lymphocytes et des granulomes"},
-            {"label": "B", "text": "Des tubes, cordons et massifs formés de cellules monomorphes atypiques"},
-            {"label": "C", "text": "Des corps de Shiller Duval"},
-            {"label": "D", "text": "Des globes cornés"},
-            {"label": "E", "text": "Un infiltrat de cellules en bague à chatons"}
+            {
+              "label": "A",
+              "text": "Des cellules tumorales associées à des lymphocytes et des granulomes"
+            },
+            {
+              "label": "B",
+              "text": "Des tubes, cordons et massifs formés de cellules monomorphes atypiques"
+            },
+            {
+              "label": "C",
+              "text": "Des corps de Shiller Duval"
+            },
+            {
+              "label": "D",
+              "text": "Des globes cornés"
+            },
+            {
+              "label": "E",
+              "text": "Un infiltrat de cellules en bague à chatons"
+            }
           ],
-          "reponses": ["A"]
+          "reponses": [
+            "A"
+          ],
+          "cours": "Tumeurs du testicule"
         },
         {
           "id": "ana-norm-2024-q30",
           "enonce": "Vous décider de faire une étude immunohistochimique pour vous aider dans votre diagnostic. Quel est l'anticorps qui sera positif ?",
           "options": [
-            {"label": "A", "text": "hHCG"},
-            {"label": "B", "text": "αFP"},
-            {"label": "C", "text": "PLAP"},
-            {"label": "D", "text": "CD30"},
-            {"label": "E", "text": "Tdt"}
+            {
+              "label": "A",
+              "text": "hHCG"
+            },
+            {
+              "label": "B",
+              "text": "αFP"
+            },
+            {
+              "label": "C",
+              "text": "PLAP"
+            },
+            {
+              "label": "D",
+              "text": "CD30"
+            },
+            {
+              "label": "E",
+              "text": "Tdt"
+            }
           ],
-          "reponses": ["C"]
+          "reponses": [
+            "C"
+          ],
+          "cours": "Lymphome de Hodgkin"
         },
         {
           "id": "ana-norm-2024-q31",
           "enonce": "Vous recevez au laboratoire une pièce de néphréctomie pour tumeur rénale. A la coupe, la tumeur est volumineuse et mesure 8 cm. A la coupe est bien limitée, non encapsulé de couleur beige. L'examen approfondi de la pièce, macroscopiquement, ne met pas en évidence de cicatrice fibreuse stellaire centrale. A ce stade, quel est le diagnostic le plus probable ?",
           "options": [
-            {"label": "A", "text": "Un carcinome chromophobe"},
-            {"label": "B", "text": "Un carcinome tubulo-papillaire"},
-            {"label": "C", "text": "Un carcinome des tubes collecteurs"},
-            {"label": "D", "text": "Un carcinome à cellules claires"},
-            {"label": "E", "text": "Un carcinome médullaire"}
+            {
+              "label": "A",
+              "text": "Un carcinome chromophobe"
+            },
+            {
+              "label": "B",
+              "text": "Un carcinome tubulo-papillaire"
+            },
+            {
+              "label": "C",
+              "text": "Un carcinome des tubes collecteurs"
+            },
+            {
+              "label": "D",
+              "text": "Un carcinome à cellules claires"
+            },
+            {
+              "label": "E",
+              "text": "Un carcinome médullaire"
+            }
           ],
-          "reponses": ["D"]
+          "reponses": [
+            "D"
+          ],
+          "cours": "Tumeurs de la vessie"
         },
         {
           "id": "ana-norm-2024-q32",
           "enonce": "L'absence de cicatrice fibreuse stellaire centrale, le caractère non encapsulé et la taille volumineuse permettent d'éliminer une autre tumeur. Laquelle ?",
           "options": [
-            {"label": "A", "text": "L'angiomyolipome"},
-            {"label": "B", "text": "L'adénome papillaire"},
-            {"label": "C", "text": "L'adénome métanéphrique"},
-            {"label": "D", "text": "L'oncocytome"},
-            {"label": "E", "text": "Le néphrome mésoblastique"}
+            {
+              "label": "A",
+              "text": "L'angiomyolipome"
+            },
+            {
+              "label": "B",
+              "text": "L'adénome papillaire"
+            },
+            {
+              "label": "C",
+              "text": "L'adénome métanéphrique"
+            },
+            {
+              "label": "D",
+              "text": "L'oncocytome"
+            },
+            {
+              "label": "E",
+              "text": "Le néphrome mésoblastique"
+            }
           ],
-          "reponses": ["D"]
+          "reponses": [
+            "D"
+          ],
+          "cours": "Tumeurs de la vessie"
         },
         {
           "id": "ana-norm-2024-q33",
           "enonce": "Vous recevez un appel d'un chirurgien travaillant à distance de tout laboratoire, il souhaite vous envoyer un ganglion pour examen anatomopathologique. Le patient présente plusieurs adénopathies au niveau cervical et inguinal. Vous lui conseillez de : (3 réponses attendues)",
           "options": [
-            {"label": "A", "text": "Privilégier le site inguinal"},
-            {"label": "B", "text": "Privilégier le site cervical"},
-            {"label": "C", "text": "De faire une biopsie partielle"},
-            {"label": "D", "text": "De faire une biopsie exérèse"},
-            {"label": "E", "text": "De fournir des renseignements cliniques complets"}
+            {
+              "label": "A",
+              "text": "Privilégier le site inguinal"
+            },
+            {
+              "label": "B",
+              "text": "Privilégier le site cervical"
+            },
+            {
+              "label": "C",
+              "text": "De faire une biopsie partielle"
+            },
+            {
+              "label": "D",
+              "text": "De faire une biopsie exérèse"
+            },
+            {
+              "label": "E",
+              "text": "De fournir des renseignements cliniques complets"
+            }
           ],
-          "reponses": ["B", "D", "E"]
+          "reponses": [
+            "B",
+            "D",
+            "E"
+          ],
+          "cours": "Pathologie ganglionnaire et lymphomes"
         },
         {
           "id": "ana-norm-2024-q34",
           "enonce": "Le ganglion sera choisi sur son aspect macroscopique à savoir le caractère :",
           "options": [
-            {"label": "A", "text": "Rond"},
-            {"label": "B", "text": "Mobile"},
-            {"label": "C", "text": "Dur"},
-            {"label": "D", "text": "Réniforme"},
-            {"label": "E", "text": "Fixe"}
+            {
+              "label": "A",
+              "text": "Rond"
+            },
+            {
+              "label": "B",
+              "text": "Mobile"
+            },
+            {
+              "label": "C",
+              "text": "Dur"
+            },
+            {
+              "label": "D",
+              "text": "Réniforme"
+            },
+            {
+              "label": "E",
+              "text": "Fixe"
+            }
           ],
-          "reponses": ["C", "E"]
+          "reponses": [
+            "C",
+            "E"
+          ],
+          "cours": "Pathologie ganglionnaire et lymphomes"
         },
         {
           "id": "ana-norm-2024-q35",
           "enonce": "Concernant le conditionnement du ganglion, Le chirurgien devra pour le grand ganglion prélevé :",
           "options": [
-            {"label": "A", "text": "L'envoyer à l'état frais"},
-            {"label": "B", "text": "Le couper en deux"},
-            {"label": "C", "text": "Faire des appositions"},
-            {"label": "D", "text": "Le mettre dans une compresse imbibée de sérum physiologique"},
-            {"label": "E", "text": "Le fixer"}
+            {
+              "label": "A",
+              "text": "L'envoyer à l'état frais"
+            },
+            {
+              "label": "B",
+              "text": "Le couper en deux"
+            },
+            {
+              "label": "C",
+              "text": "Faire des appositions"
+            },
+            {
+              "label": "D",
+              "text": "Le mettre dans une compresse imbibée de sérum physiologique"
+            },
+            {
+              "label": "E",
+              "text": "Le fixer"
+            }
           ],
-          "reponses": ["E"]
+          "reponses": [
+            "E"
+          ],
+          "cours": "Pathologie ganglionnaire et lymphomes"
         },
         {
           "id": "ana-norm-2024-q36",
           "enonce": "Quels sont les conditions optimales pour la bonne prise en charge du fragment de la responsabilité du clinicien ?",
           "options": [
-            {"label": "A", "text": "Le remplissage le plus complet possible des renseignements cliniques"},
-            {"label": "B", "text": "L'envoi d'un bon d'examen vide sans information clinique"},
-            {"label": "C", "text": "L'étiquetage du prélèvement avec le nom du patient"},
-            {"label": "D", "text": "L'envoi du fragment à l'étroit dans un très petit flacon"},
-            {"label": "E", "text": "L'envoi du prélèvement au laboratoire 3 jours après le geste"}
+            {
+              "label": "A",
+              "text": "Le remplissage le plus complet possible des renseignements cliniques"
+            },
+            {
+              "label": "B",
+              "text": "L'envoi d'un bon d'examen vide sans information clinique"
+            },
+            {
+              "label": "C",
+              "text": "L'étiquetage du prélèvement avec le nom du patient"
+            },
+            {
+              "label": "D",
+              "text": "L'envoi du fragment à l'étroit dans un très petit flacon"
+            },
+            {
+              "label": "E",
+              "text": "L'envoi du prélèvement au laboratoire 3 jours après le geste"
+            }
           ],
-          "reponses": ["A", "C"]
+          "reponses": [
+            "A",
+            "C"
+          ],
+          "cours": "Techniques anatomo-pathologiques"
         },
         {
           "id": "ana-norm-2024-q37",
           "enonce": "Le chirurgien décide de fixer le prélèvement. Quel fixateur lui conseillez-vous ?",
           "options": [
-            {"label": "A", "text": "Le liquide de Bouin"},
-            {"label": "B", "text": "Le Bicarbonate"},
-            {"label": "C", "text": "L'alcool"},
-            {"label": "D", "text": "Le Formol"},
-            {"label": "E", "text": "Le sérum salé"}
+            {
+              "label": "A",
+              "text": "Le liquide de Bouin"
+            },
+            {
+              "label": "B",
+              "text": "Le Bicarbonate"
+            },
+            {
+              "label": "C",
+              "text": "L'alcool"
+            },
+            {
+              "label": "D",
+              "text": "Le Formol"
+            },
+            {
+              "label": "E",
+              "text": "Le sérum salé"
+            }
           ],
-          "reponses": ["D"]
+          "reponses": [
+            "D"
+          ],
+          "cours": "Techniques anatomo-pathologiques"
         },
         {
           "id": "ana-norm-2024-q38",
           "enonce": "A quel pourcentage le formol devra être dilué ?",
           "options": [
-            {"label": "A", "text": "10 %"},
-            {"label": "B", "text": "20 %"},
-            {"label": "C", "text": "30 %"},
-            {"label": "D", "text": "60 %"},
-            {"label": "E", "text": "70 %"}
+            {
+              "label": "A",
+              "text": "10 %"
+            },
+            {
+              "label": "B",
+              "text": "20 %"
+            },
+            {
+              "label": "C",
+              "text": "30 %"
+            },
+            {
+              "label": "D",
+              "text": "60 %"
+            },
+            {
+              "label": "E",
+              "text": "70 %"
+            }
           ],
-          "reponses": ["A"]
+          "reponses": [
+            "A"
+          ],
+          "cours": "Techniques anatomo-pathologiques"
         },
         {
           "id": "ana-norm-2024-q39",
           "enonce": "Arrivé au laboratoire, vous examinez le ganglion. Vous notez un aspect chair de poisson. A ce stade, quel est le diagnostic le plus probable ?",
           "options": [
-            {"label": "A", "text": "Un sarcome"},
-            {"label": "B", "text": "Un carcinome"},
-            {"label": "C", "text": "Un mélanome"},
-            {"label": "D", "text": "Un séminome"},
-            {"label": "E", "text": "Un lymphome"}
+            {
+              "label": "A",
+              "text": "Un sarcome"
+            },
+            {
+              "label": "B",
+              "text": "Un carcinome"
+            },
+            {
+              "label": "C",
+              "text": "Un mélanome"
+            },
+            {
+              "label": "D",
+              "text": "Un séminome"
+            },
+            {
+              "label": "E",
+              "text": "Un lymphome"
+            }
           ],
-          "reponses": ["E"]
+          "reponses": [
+            "E"
+          ],
+          "cours": "Tumeurs du testicule"
         },
         {
           "id": "ana-norm-2024-q40",
           "enonce": "Dans ce cas, vous trouverez à l'examen histologique :",
           "options": [
-            {"label": "A", "text": "Une prolifération tumorale fusocellulaire"},
-            {"label": "B", "text": "Des boyaux de cellules jointives avec des globes cornés"},
-            {"label": "C", "text": "Un infiltrat de cellules lymphomateuses"},
-            {"label": "D", "text": "Une prolifération riche en cellules en bague à chatons"},
-            {"label": "E", "text": "Une prolifération à cellules claires"}
+            {
+              "label": "A",
+              "text": "Une prolifération tumorale fusocellulaire"
+            },
+            {
+              "label": "B",
+              "text": "Des boyaux de cellules jointives avec des globes cornés"
+            },
+            {
+              "label": "C",
+              "text": "Un infiltrat de cellules lymphomateuses"
+            },
+            {
+              "label": "D",
+              "text": "Une prolifération riche en cellules en bague à chatons"
+            },
+            {
+              "label": "E",
+              "text": "Une prolifération à cellules claires"
+            }
           ],
-          "reponses": ["C"]
+          "reponses": [
+            "C"
+          ],
+          "cours": "Pathologie ganglionnaire et lymphomes"
         },
         {
           "id": "ana-norm-2024-q41",
           "enonce": "L'examen au plus fort grossissement met en évidence des cellules tumorales monomorphes à noyau clivé. Vous vous orientez vers :",
           "options": [
-            {"label": "A", "text": "Un adénocarcinome"},
-            {"label": "B", "text": "Un carcinome épidermoïde"},
-            {"label": "C", "text": "Un lymphome du manteau"},
-            {"label": "D", "text": "Un myélome"},
-            {"label": "E", "text": "Un tératome"}
+            {
+              "label": "A",
+              "text": "Un adénocarcinome"
+            },
+            {
+              "label": "B",
+              "text": "Un carcinome épidermoïde"
+            },
+            {
+              "label": "C",
+              "text": "Un lymphome du manteau"
+            },
+            {
+              "label": "D",
+              "text": "Un myélome"
+            },
+            {
+              "label": "E",
+              "text": "Un tératome"
+            }
           ],
-          "reponses": ["C"]
+          "reponses": [
+            "C"
+          ],
+          "cours": "Tumeurs de l'ovaire"
         },
         {
           "id": "ana-norm-2024-q42",
           "enonce": "Vous décidez de faire une étude immunohistochimique pour vous aider dans votre diagnostic. Quel est le premier panel d'anticorps que vous allez utiliser ?",
           "options": [
-            {"label": "A", "text": "Cytokératine20"},
-            {"label": "B", "text": "CD20"},
-            {"label": "C", "text": "Cytokératine7"},
-            {"label": "D", "text": "CD3"},
-            {"label": "E", "text": "PS100"}
+            {
+              "label": "A",
+              "text": "Cytokératine20"
+            },
+            {
+              "label": "B",
+              "text": "CD20"
+            },
+            {
+              "label": "C",
+              "text": "Cytokératine7"
+            },
+            {
+              "label": "D",
+              "text": "CD3"
+            },
+            {
+              "label": "E",
+              "text": "PS100"
+            }
           ],
-          "reponses": ["B", "D"]
+          "reponses": [
+            "B",
+            "D"
+          ],
+          "cours": "Pathologie ganglionnaire et lymphomes"
         },
         {
           "id": "ana-norm-2024-q43",
           "enonce": "Quel est l'anticorps qui sera positif ?",
           "options": [
-            {"label": "A", "text": "Cytokératine20"},
-            {"label": "B", "text": "CD20"},
-            {"label": "C", "text": "Cytokératine7"},
-            {"label": "D", "text": "CD3"},
-            {"label": "E", "text": "PS100"}
+            {
+              "label": "A",
+              "text": "Cytokératine20"
+            },
+            {
+              "label": "B",
+              "text": "CD20"
+            },
+            {
+              "label": "C",
+              "text": "Cytokératine7"
+            },
+            {
+              "label": "D",
+              "text": "CD3"
+            },
+            {
+              "label": "E",
+              "text": "PS100"
+            }
           ],
-          "reponses": ["B"]
+          "reponses": [
+            "B"
+          ],
+          "cours": "Pathologie ganglionnaire et lymphomes"
         },
         {
           "id": "ana-norm-2024-q44",
           "enonce": "Vous complèterez votre étude immunohistochimique par un autre anticorps. Lequel ?",
           "options": [
-            {"label": "A", "text": "Tdt"},
-            {"label": "B", "text": "Kappa"},
-            {"label": "C", "text": "CD10"},
-            {"label": "D", "text": "Bcl2"},
-            {"label": "E", "text": "Cycline D1"}
+            {
+              "label": "A",
+              "text": "Tdt"
+            },
+            {
+              "label": "B",
+              "text": "Kappa"
+            },
+            {
+              "label": "C",
+              "text": "CD10"
+            },
+            {
+              "label": "D",
+              "text": "Bcl2"
+            },
+            {
+              "label": "E",
+              "text": "Cycline D1"
+            }
           ],
-          "reponses": ["E"]
+          "reponses": [
+            "E"
+          ],
+          "cours": "Techniques anatomo-pathologiques"
         },
         {
           "id": "ana-norm-2024-q45",
           "enonce": "Devant une suspicion de métastase ganglionnaire, le premier site d'invasion ganglionnaire est à rechercher au niveau?",
           "options": [
-            {"label": "A", "text": "De la zone folliculaire"},
-            {"label": "B", "text": "De la zone parafolliculaire"},
-            {"label": "C", "text": "De la médullaire"},
-            {"label": "D", "text": "De la pulpe rouge"},
-            {"label": "E", "text": "En sous-capsulaire"}
+            {
+              "label": "A",
+              "text": "De la zone folliculaire"
+            },
+            {
+              "label": "B",
+              "text": "De la zone parafolliculaire"
+            },
+            {
+              "label": "C",
+              "text": "De la médullaire"
+            },
+            {
+              "label": "D",
+              "text": "De la pulpe rouge"
+            },
+            {
+              "label": "E",
+              "text": "En sous-capsulaire"
+            }
           ],
-          "reponses": ["E"]
+          "reponses": [
+            "E"
+          ],
+          "cours": "Pathologie ganglionnaire et lymphomes"
         },
         {
           "id": "ana-norm-2024-q46",
           "enonce": "Devant une suspicion de lymphome lymphoblastique T, quels sont les 2 examens immunohistochimiques que vous allez demander pour le diagnostic ?",
           "options": [
-            {"label": "A", "text": "Bcl1"},
-            {"label": "B", "text": "CD3"},
-            {"label": "C", "text": "Tdt"},
-            {"label": "D", "text": "Ki67"},
-            {"label": "E", "text": "CD20"}
+            {
+              "label": "A",
+              "text": "Bcl1"
+            },
+            {
+              "label": "B",
+              "text": "CD3"
+            },
+            {
+              "label": "C",
+              "text": "Tdt"
+            },
+            {
+              "label": "D",
+              "text": "Ki67"
+            },
+            {
+              "label": "E",
+              "text": "CD20"
+            }
           ],
-          "reponses": ["B", "C"]
+          "reponses": [
+            "B",
+            "C"
+          ],
+          "cours": "Pathologie ganglionnaire et lymphomes"
         },
         {
           "id": "ana-norm-2024-q47",
           "enonce": "Une prolifération lymphomateuse exprimant le CD20 avec un ki67 à 100 % est probablement :",
           "options": [
-            {"label": "A", "text": "Un lymphome B"},
-            {"label": "B", "text": "Un lymphome d'Hodgkin"},
-            {"label": "C", "text": "Un lymphome T"},
-            {"label": "D", "text": "Un lymphome de Burkitt"},
-            {"label": "E", "text": "Un myélome multiple"}
+            {
+              "label": "A",
+              "text": "Un lymphome B"
+            },
+            {
+              "label": "B",
+              "text": "Un lymphome d'Hodgkin"
+            },
+            {
+              "label": "C",
+              "text": "Un lymphome T"
+            },
+            {
+              "label": "D",
+              "text": "Un lymphome de Burkitt"
+            },
+            {
+              "label": "E",
+              "text": "Un myélome multiple"
+            }
           ],
-          "reponses": ["D"]
+          "reponses": [
+            "D"
+          ],
+          "cours": "Lymphome de Hodgkin"
         },
         {
           "id": "ana-norm-2024-q48",
           "enonce": "Dans ce cas particulier, il existe 2 localisations, particulièrement, caractéristiques. Lesquels :",
           "options": [
-            {"label": "A", "text": "L'atteinte Cérébrale"},
-            {"label": "B", "text": "L'atteinte Pulmonaire"},
-            {"label": "C", "text": "L'atteinte iléo-coecale"},
-            {"label": "D", "text": "L'atteinte gastrique"},
-            {"label": "E", "text": "L'atteinte mandibulaire"}
+            {
+              "label": "A",
+              "text": "L'atteinte Cérébrale"
+            },
+            {
+              "label": "B",
+              "text": "L'atteinte Pulmonaire"
+            },
+            {
+              "label": "C",
+              "text": "L'atteinte iléo-coecale"
+            },
+            {
+              "label": "D",
+              "text": "L'atteinte gastrique"
+            },
+            {
+              "label": "E",
+              "text": "L'atteinte mandibulaire"
+            }
           ],
-          "reponses": ["C", "E"]
+          "reponses": [
+            "C",
+            "E"
+          ],
+          "cours": "Cancer du poumon"
         },
         {
           "id": "ana-norm-2024-q49",
           "enonce": "Devant une tumeur papillaire de la vessie composée de papilles épaisses et fusionnées avec une désorganisation architecturale majeure et atypies marquées, vous concluez à ?",
           "options": [
-            {"label": "A", "text": "Un papillome"},
-            {"label": "B", "text": "Une néoplasie papillaire de faible potentiel de malignité"},
-            {"label": "C", "text": "Un carcinome papillaire de bas grade"},
-            {"label": "D", "text": "Un carcinome papillaire de haut grade"},
-            {"label": "E", "text": "Un carcinome In Situ"}
+            {
+              "label": "A",
+              "text": "Un papillome"
+            },
+            {
+              "label": "B",
+              "text": "Une néoplasie papillaire de faible potentiel de malignité"
+            },
+            {
+              "label": "C",
+              "text": "Un carcinome papillaire de bas grade"
+            },
+            {
+              "label": "D",
+              "text": "Un carcinome papillaire de haut grade"
+            },
+            {
+              "label": "E",
+              "text": "Un carcinome In Situ"
+            }
           ],
-          "reponses": ["D"]
+          "reponses": [
+            "D"
+          ],
+          "cours": "Tumeurs de la vessie"
         },
         {
           "id": "ana-norm-2024-q50",
           "enonce": "Dans ce cas, cocher les réponses correctes concernant le facteur histo-pronostic majeur ayant des répercussions chirurgicales sur le plan de la prise en charge thérapeutique ?",
           "options": [
-            {"label": "A", "text": "Une infiltration du muscle Quadriceps"},
-            {"label": "B", "text": "Une infiltration de la musculaire-muqueuse"},
-            {"label": "C", "text": "Une infiltration de la musculeuse"},
-            {"label": "D", "text": "Une infiltration du muscle Detrusor"},
-            {"label": "E", "text": "Un stade pT2"}
+            {
+              "label": "A",
+              "text": "Une infiltration du muscle Quadriceps"
+            },
+            {
+              "label": "B",
+              "text": "Une infiltration de la musculaire-muqueuse"
+            },
+            {
+              "label": "C",
+              "text": "Une infiltration de la musculeuse"
+            },
+            {
+              "label": "D",
+              "text": "Une infiltration du muscle Detrusor"
+            },
+            {
+              "label": "E",
+              "text": "Un stade pT2"
+            }
           ],
-          "reponses": ["C", "D", "E"]
+          "reponses": [
+            "C",
+            "D",
+            "E"
+          ],
+          "cours": "Tumeurs de la vessie"
         }
       ]
     }

@@ -36,7 +36,19 @@
           <div class="mode-label">20 questions aléatoires</div>
           <div class="mode-desc">Mix de tous les examens</div>
         </button>
+        <button class="mode-btn" onclick="showCoursList()">
+          <div class="mode-icon">📖</div>
+          <div class="mode-label">Par cours</div>
+          <div class="mode-desc">Révise un chapitre précis</div>
+        </button>
       </div>
+    </div>
+
+    <!-- COURS LIST -->
+    <div id="screen-cours" class="screen">
+      <button class="back-btn" onclick="goBackToMode()">← Retour</button>
+      <h2 id="cours-subject-name" style="font-size:1.1rem; margin-bottom:1rem;"></h2>
+      <div id="cours-list" class="exam-list"></div>
     </div>
 
     <!-- EXAM LIST -->

@@ -10,9 +10,9 @@ let state = {
   currentExam: null,
   questions: [],
   currentIndex: 0,
-  answers: [], // array of Sets, one per question
+  answers: [],
   score: 0,
-  mode: 'exam' // 'exam' or 'random'
+  mode: 'exam' // 'exam', 'random', or 'cours'
 };
 
 // ─── Load data ───
@@ -96,6 +96,54 @@ function showExamList() {
   showScreen('screen-exams');
 }
 
+// ─── Course list ───
+function showCoursList() {
+  state.mode = 'cours';
+  const list = document.getElementById('cours-list');
+  list.innerHTML = '';
+  document.getElementById('cours-subject-name').textContent = state.currentSubject.matiere;
+
+  // Collect all courses from all exams
+  const coursMap = {};
+  for (const exam of state.currentSubject.examens) {
+    for (const q of exam.questions) {
+      const cours = q.cours || 'Non classé';
+      if (!coursMap[cours]) coursMap[cours] = [];
+      coursMap[cours].push({ ...q, _examNom: exam.nom });
+    }
+  }
+
+  // Sort courses by number of questions (descending)
+  const sorted = Object.entries(coursMap).sort((a, b) => b[1].length - a[1].length);
+
+  for (const [coursName, questions] of sorted) {
+    const card = document.createElement('div');
+    card.className = 'exam-card';
+    card.innerHTML = `
+      <div class="exam-info">
+        <span class="exam-type type-cours">Cours</span>
+        <h3>${coursName}</h3>
+        <p>${questions.length} questions</p>
+      </div>
+      <div class="exam-arrow">→</div>
+    `;
+    card.addEventListener('click', () => startCours(coursName, questions));
+    list.appendChild(card);
+  }
+
+  showScreen('screen-cours');
+}
+
+function startCours(coursName, questions) {
+  state.currentExam = { nom: coursName };
+  state.questions = shuffle([...questions]);
+  state.currentIndex = 0;
+  state.answers = state.questions.map(() => new Set());
+  state.score = 0;
+  showScreen('screen-quiz');
+  renderQuestion();
+}
+
 function startExam(exam) {
   state.currentExam = exam;
   state.questions = [...exam.questions];
@@ -108,7 +156,6 @@ function startExam(exam) {
 
 function startRandom() {
   state.mode = 'random';
-  // Pool all questions from all exams of this subject
   let allQuestions = [];
   for (const exam of state.currentSubject.examens) {
     for (const q of exam.questions) {
@@ -130,7 +177,6 @@ function renderQuestion() {
   const q = state.questions[state.currentIndex];
   const total = state.questions.length;
 
-  // Progress
   document.getElementById('progress-fill').style.width =
     ((state.currentIndex / total) * 100) + '%';
   document.getElementById('question-counter').textContent =
@@ -138,7 +184,6 @@ function renderQuestion() {
   document.getElementById('quiz-exam-name').textContent =
     state.currentExam.nom;
 
-  // Question text
   if (q.contexte) {
     document.getElementById('question-context').textContent = q.contexte;
     document.getElementById('question-context').style.display = '';
@@ -147,10 +192,8 @@ function renderQuestion() {
   }
   document.getElementById('question-text').textContent = q.enonce;
 
-  // Options
   const list = document.getElementById('options-list');
   list.innerHTML = '';
-
   const currentAnswers = state.answers[state.currentIndex];
 
   for (const opt of q.options) {
@@ -164,10 +207,8 @@ function renderQuestion() {
     list.appendChild(btn);
   }
 
-  // Nav buttons
   document.getElementById('btn-prev').style.display =
     state.currentIndex > 0 ? '' : 'none';
-
   const isLast = state.currentIndex === total - 1;
   document.getElementById('btn-next').style.display = isLast ? 'none' : '';
   document.getElementById('btn-finish').style.display = isLast ? '' : 'none';
@@ -199,7 +240,6 @@ function nextQuestion() {
 }
 
 function finishQuiz() {
-  // Calculate score
   state.score = 0;
   for (let i = 0; i < state.questions.length; i++) {
     const q = state.questions[i];
@@ -221,7 +261,6 @@ function showResults() {
   document.getElementById('score-wrong').textContent = answeredWithCorrection - state.score;
   document.getElementById('score-total').textContent = `${answeredWithCorrection} questions corrigées`;
 
-  // Render correction review
   const reviewContainer = document.getElementById('correction-review');
   reviewContainer.innerHTML = '';
 
@@ -275,6 +314,16 @@ function showResults() {
 function restartQuiz() {
   if (state.mode === 'exam') {
     startExam(state.currentExam);
+  } else if (state.mode === 'cours') {
+    // Re-collect questions for this course
+    const coursName = state.currentExam.nom;
+    const questions = [];
+    for (const exam of state.currentSubject.examens) {
+      for (const q of exam.questions) {
+        if (q.cours === coursName) questions.push({ ...q, _examNom: exam.nom });
+      }
+    }
+    startCours(coursName, questions);
   } else {
     startRandom();
   }

@@ -63,7 +63,7 @@ body {
 .subject-card.disabled:hover { border-color: var(--border); transform: none; box-shadow: none; }
 
 /* Mode selector */
-.mode-selector { display: flex; gap: 0.75rem; margin: 1.5rem 0; }
+.mode-selector { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.75rem; margin: 1.5rem 0; }
 .mode-btn {
   flex: 1;
   padding: 1.25rem;
@@ -107,6 +107,7 @@ body {
 .type-cc { background: #dfe6e9; color: #636e72; }
 .type-normale { background: #dfe6fd; color: #6c5ce7; }
 .type-rattrapage { background: #ffeaa7; color: #d68910; }
+.type-cours { background: #e0f7e9; color: #27ae60; }
 
 /* Quiz */
 .quiz-exam-name { font-size: 0.85rem; color: var(--text-light); margin-bottom: 0.5rem; }
@@ -238,6 +239,6 @@ body {
 /* Responsive */
 @media (max-width: 480px) {
   .container { padding: 0.75rem; }
-  .mode-selector { flex-direction: column; }
+  .mode-selector { grid-template-columns: 1fr; }
   .results-card .stats { gap: 1.5rem; }
 }
