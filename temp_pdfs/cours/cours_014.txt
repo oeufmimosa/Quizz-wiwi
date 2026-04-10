@@ -1,0 +1,336 @@
+ 
+ 
+ 
+ 
+                
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pr. B. ADMOU
+COURS D’IMMUNOPATHOLOGIE 
+   4ème année MEDECINE
+2025-2026
+LES DEFICITS IMMUNITAIRES
+
+Prédisposition accrue aux infections 
+  Survenue de réponses immunes inappropriées : allergie, auto-immunité, cancers
+Gravité: certains DI mettent en jeu le pronostic vital des patients 
+Introduction- définition  
+Un déficit immunitaire (DI) : 
+Anomalie quantitative et/ou qualitative d’un ou de plusieurs effecteurs du SI
+Perspectives thérapeutiques efficaces et prometteuses 
+Situations cliniques fréquentes: difficultés diagnostiques et de prise en charge
+✓ Le DI est dit acquis s’il est secondaire à une situation pathologique 
+Ex. SIDA, néoplasie, traitement immunosuppresseur, autres (plus fréquents)
+   
+✓ Le DI est dit primitif (DIP) lorsqu’il est lié à une anomalie génétique (héréditaire)     
+
+1. Définir les catégories de déficits immunitaires primitifs et acquis
+2. Reconnaître les circonstances cliniques et biologiques orientant vers un déficit immunitaire 
+primitif humoral, cellulaire et de l’immunité innée
+3. Reconnaître les principaux phénotypes de DIP 
+4. Décrire l’approche du diagnostic immunobiologique devant la suspicion d’un DIP
+Objectifs pédagogiques
+
+Déficits immunitaires acquis 
+    ou secondaires (DIA) 
+Catégories de déficits immunitaires (DI)
+Déficits immunitaires 
+héréditaires ou 
+primitifs (DIP)
+
+- Infections ORL, pulmonaires, cutanées, et autres :
+- inhabituelles, récidivantes, multifocales ou généralisées, prolongées, sévères, rebelles à 
+un traitement conventionnel (SPUR)
+- à agents pathogènes inattendus ou opportunistes : mycobactéries, aspergillus, pneumocystis, candida,….
+- Abcès profonds, abcès cutanés récidivants, Abcès sans pus, ….
+- Diarrhée chronique
+- Complications vaccinales (BCGite)
+- Retard de chute de cordon 
+- Phénomènes d’auto-immunité
+- Autres: allergie, certaines tumeurs
+I-/ CIRCONSTANCES DE DECOUVERTE
+
+II-/ DEFICITS IMMUNITAIRES ACQUIS
+– Infections 
+• HIV, Sepsis grave
+• Rougeole, Coqueluche, ..…
+– Cancers 
+• Leucémies, lymphomes, myélomes
+• Tumeurs solides (kaposi)
+– Maladies métaboliques
+•  Insuffisance hépatocellulaire  
+•  Dénutrition, Entéropathie exsudative
+– Causes iatrogènes
+• Chimiothérapie
+• Immunosuppression
+• Corticothérapie prolongée 
+• Radiothérapie
+ •   Biothérapies
+Principaux mécanismes des DI acquis 
+
+III-/ LES DEFICITS IMMUNITAIRES PRIMITIFS (DIP)
+•  Environ 485 déficits décrits
+• Incidence : 1/ 5000 naissances
+•  Plus fréquents au Maghreb (≈ 1/300) : consanguinité
+•  DIP humoraux          
+ : 60  – 70 %
+•  DIP cellulaires (combinés)  
+ : 20  – 30 %
+•  Déficits des phagocytes 
+ : 10  – 15 %
+•  Déficits du complément           : 0,5 – 2 % 
+Classification phénotypique des DIP selon l’IUIS  
+ (Union internationale des sociétés immunologiques)
+Bousfiha A et al., IUIS phenotypic classification for PID. Clin Immunol 2015 
+
+•
+T- B- NK-  :  - Dysgénésie réticulaire
+  - ADA (adénosine deaminase)
+                          
+•
+T- B- NK+ :  - RAG1-RAG2 (Recombination Activating Gene) 
+ 
+ 
+          - ARTEMIS (Gène impliqué dans la recombinaison et la réparation de l’ADN)
+•
+T- B+ NK- :  - Chaîne c commune aux récepteurs de cytokines (IL2, IL4, IL7, IL9, IL15, IL21) 
+ 
+ 
+          - Jak3 (Janus Kinase 3) : interagit avec la chaîne c pour le signal d’activation des LT 
+ 
+•
+T- B+ NK+ :  - Déficit de la chaîne alpha de récepteurs à l'IL-7
+   - Syndrome de Di-George 
+ 
+ 
+ 
+ 
+•
+Déficit en Complexe CD3 / TCR
+•
+Déficit en Molécules HLA II (lymphopénie CD4)
+•
+Déficit en TAP1/2 (HLA-I), en ZAP70 (lymphopénie CD8)
+b- Déficit immunitaire combiné (DIC = CID): Diminution légère ou anomalie fonctionnelle des LT 
+a- Déficit immunitaire combiné sévère (DICS = SCID) : Déplétion majeure des LT  
+1-/ DIP de la lignée T
+•   Environ 25% des DIP
+•   Expression précoce : dès la naissance
+•   Infections sévères à germes intracellulaires et opportunistes
+•   Pronostic grave 
+
+Précurseur B
+Précurseur T
+Dysgénésie réticulaire
+Déficit en ADA
+Déficits Immunitaires combinés sévères (SCID) 
+Précurseur NK
+SCID T-B-NK-
+Dysgénésie réticulaire :
+- Autosomique récessive
+- Mutation du gène AK2 (1p34)
+- Arrêt de différenciation des CSH
+- Défaut de maturation des précurseurs lymphoïdes et myéloïdes
+- ADA: Enzyme clef du métabolisme des purines (nucléotides puriques) 
+- Le déficit en ADA entraîne une accumulation du désoxyadénosine 
+et augmentation des dATP (x100) qui inhibent la synthèse des autres dNTPs 
+
+Pro B
+Précurseur B
+Pro T
+Précurseur T
+RAG1/2
+ Artemis
+Précurseur NK
+Pré-NK
+NK
+SCID T-B-NK+
+Image associée
+RSS: recombination signal sequence
+NHEJ : Non-Homologous End-Joining = jonction d'extrémités non homologues 
+Les réarrangements des gènes V(D)J des Ig (LB) et du TCR (LT) impliquent plusieurs protéines 
+- RAG 1 et 2 (Recombination Activating Genes): cassure de l’ADNdb 
+- Artemis 
+- Puis DNA-Ligase IV et Cernunnos assurent la réparation de l’ADN
+Ces complexes représentent la « voie de réparation des extrémités non homologues » (Non-
+Homologous End Joining ou NHEJ)
+
+Pro B
+Pré B
+B immature
+Précurseur B
+B mature
+Pro T
+Précurseur T
+Mutation c/XL
+Jak3/AR
+Précurseur NK
+Pré-NK
+SCID T-NK-B+
+
+2-/ DIP de la lignée B
+• Environ 75% des DIP
+• Révélation après l’âge de 5 à 6 mois
+• Infections ORL, respiratoires récurrentes et intestinales
+• Auto-immunité et cancers
+a- Déficit global en anticorps 
+  - Agammaglobulinémie liée à l’X (Bruton) ou autosomique récessive 
+  - Syndrome Hyper IgM (anomalie de la commutation de classe) :    IgM,    IgG et IgA
+  - DICV (déficit immunitaire commun variable): Hypogamma variable en qté et en classes d’Ig
+      
+ b- Déficit sélectif en anticorps
+      - Déficit en IgA 
+      - Déficit en sous classes des IgG
+
+✓Déficit quantitatif
+– Agranulocytose/ Neutropénie 
+•
+Ex. Sd Kostman, Neutropénie cyclique
+✓Déficit fonctionnel 
+–
+Déficit en molécules d’adhésion 
+•
+LAD (Leukocyte adhesion deficiency)
+–
+Défaut du chimiotactisme
+•
+Chediak- Higashi 
+(anomalie de migration des granules cytotoxiques)
+–
+Défaut de Bactéricidie : déficit en NADPH-oxydase
+• Granulomatose septique chronique
+Cellule souche
+Progéniteur myéloïde
+Monocyte
+PNN
+Agranulocytose
+Granulomatose
+septique chronique
+Déficit en molécule d’adhésion
+                (LAD )
+3-/ Déficits des phagocytes 
+
+Principales catégories de DIP selon la lignée cellulaire et le stade de survenue du déficit 
+(Hématopoïèse) 
+
+4. Déficits en complément
+a. Déficit en C1 inhibiteur (C1-INH):
+-
+Responsable de l’angio-œdème héréditaire
+-
+Autosomique dominante
+- 
+Œdèmes sous cutanés non prurigineux récidivants
+- 
+Douleurs abdominales intenses déclenchées par un traumatisme ou autre 
+- 
+Manifestations oro-pharyngées (asphyxie) met en jeu le pronostic vital.
+b. Déficit en C2, C4, C1q : 
+- Le plus fréquent des déficits génétiques en complément
+- Fréquence des déficits hétérozygotes
+- Manifestations auto-immunes (lupus+++).
+c. Déficit en C3
+- Infections à germes pyogènes/septicémie
+- Maladie à complexes immuns circulants
+d. Les composants du CAM: C5, 6, 7, 8, 9
+- Méningite récidivante à Neisseriae meningitidis
+
+- Hémogramme :
+▪ Lymphopénie
+▪ Neutropénie
+▪Thrombopénie 
+- Dosage des immunoglobulines
+- Electrophorèse des protides (adulte)
+- Immunophénotypage des S/ populations lymphocytaires (LT, LB, NK) 
+- Sérologies vaccinales (déficits en anticorps et CID)
+- CH50, C3, C4, C5b-9 (CAM), C1-INH
+- Test de prolifération des LT (TTL)
+- Etude moléculaire (génétique) selon l’orientation étiologique 
+IV-/ Exploration des déficits immunitaires
+- Eliminer une affection secondaire
+1ère intention 
+2ème intention 
+
+▪
+- Infections ORL et broncho-pulmonaires (Streptocoque, Pneumocoque, Hemophilus)
+▪
+Déficit humoral (anticorps)
+▪
+- Infections virales chroniques ou récidivante  (HSV, VZV, HPV ...)
+▪
+Infections à germes intracellulaires (Listeria, mycobactéries, salmonelles ...)
+▪
+Déficit cellulaire, Axe IFN/ IL12
+▪
+- Infections fongiques et intracellulaires chroniques
+▪
+Déficit en phagocytes 
+▪
+- Méningites à méningocoque
+▪
+Déficit en complément (C5-C9)
+Orientation microbiologique et DIP
+
+Electrophorèse des protides
+(chez l’adulte)
+Orientation biochimique 
+Electrophorèse des protides
+
+• Hémogramme
+– Polynucléaires neutrophiles
+– Lymphocytes
+– Monocytes
+– Corps de Jolly
+– Plaquettes (nombre et taille)
+• Neutropénie profonde constante (synd de Kostman ?), cyclique (1 x semaine) 
+• Thrombopénie + microplaquettes (Synd de Wiskott-Aldrich)
+• Corps de Jolly (Asplénie)
+• Une Lymphopénie doit faire éliminer un DIP (SCID !!!)
+• L’absence de lymphopénie n’élimine pas un DIP  (y compris SCID) (lymphocytes maternels)
+Orientation hématologique 
+
+Démarche diagnostique globale des DIP 
+
+Prophylactique
+- Hygiène
+- Antibiotiques
+Thérapeutique
+- Immunoglobulines intraveineuses ou s/cutanées (a-globulinémie, Hypo-)
+- Enzymes de substitution (Déficit en ADA)
+- Greffe de moelle osseuse (SCID)
+- Thérapie génique (Déficit en chaîne c)
+- Traitement d’un déficit acquis 
+- Autres 
+V-/  Approche Thérapeutique 
+
+Conclusion 
+-
+Les déficits immunitaires = fréquents, dominés par les déficits acquis
+-
+Infections = mode de révélation prépondérant  
+ 
+-
+Le diagnostic d’un déficit immunitaire primitif se base sur l’orientation clinique et microbiologique 
+-
+Nécessite une approche par étapes après élimination d’un DI secondaire
+-    Toute anomalie du bilan immunitaire doit être confirmée sur un deuxième prélèvement si possible 
+en dehors de tout épisode infectieux, puis compléter éventuellement par l’étude génétique.
+- En cas de bilan immunitaire normal alors que la clinique est évocatrice d’un DIP, il est judicieux de 
+demander avis auprès d’un service d’immunologie spécialisé (clinique, laboratoire). 
+

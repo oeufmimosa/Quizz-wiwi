@@ -1,0 +1,248 @@
+Conduite à tenir devant un rhumatisme inflammatoire chronique débutant
+UPM · HMA · Rhumatologie — 4ème année médecine  |  2025-2026
+Objectifs pédagogiques
+Se souvenir / Comprendre
+UPM · HMA · Rhumatologie — 4ème année médecine  |  2025-2026
+01
+Reconnaître
+Distinguer une arthrite inflammatoire d'une douleur mécanique ou abarticulaire
+02
+Raisonner
+Construire une démarche diagnostique étape par étape devant un RIC débutant
+03
+Décider
+Initier le traitement symptomatique et orienter le patient au bon moment
+Face à un RIC débutant : 4 questions fondamentales
+Se souvenir
+UPM · HMA · Rhumatologie — 4ème année médecine  |  2025-2026
+1
+Inflammatoire ?
+Douleur nocturne, 
+raideur mat. > 1h,
+amélioration à l'effort
+2
+Urgence ?
+Arthrite septique, vascularite,
+connectivite
+3
+Quel diagnostic ?
+Topographie + signes extra-art.
++ bilan de 1re intention
+4
+Quelle prise
+en charge ?
+Traitement symptomatique
++ orientation rhumato
+3 types d'atteintes articulaires à différencier
+Comprendre
+UPM · HMA · Rhumatologie — 4ème année médecine  |  2025-2026
+Arthrite
+Atteinte de la membrane synoviale
+Exemples :
+PR, SPA, rhumatisme psoriasique,
+lupus, arthrite septique
+Signes clés :
+Synovite, épanchement,
+raideur matinale > 1h
+Arthrose
+Dégénérescence du cartilage
+Exemples :
+Arthrose digitale, gonarthrose,
+coxarthrose
+Signes clés :
+Douleur mécanique, craquements,
+raideur < 30 min
+Abarticulaire
+Tendons, bourses, os péri-art.
+Exemples :
+Tendinites, bursites, ténosynovite
+
+Signes clés :
+Douleur à la palpation du tendon,
+à l'étirement, à la contraction
+Mobilité passive de l’articulation est normale
+Diagnostic positif : interrogatoire & examen clinique
+Appliquer
+UPM · HMA · Rhumatologie — 4ème année médecine  |  2025-2026
+INTERROGATOIRE
+Durée
+Aiguë < 3 sem. · Subaiguë 3 sem.–3 mois · 
+Chronique > 3 mois
+Mode début
+Brutal (infectieux, microcristallin) ou Progressif (RIC chronique)
+Mode évolutif
+Continu ou par poussées
+Inflammatoire ?
+Réveil nocturne · 
+Raideur mat. > 1h · 
+Amélioration à l'effort
+EXAMEN CLINIQUE — PR débutante
+⏰  Raideur matinale > 30 min
+✋  Squeeze test positif des MCP et/ou MTP
+🔵  Gonflement de > 3 articulations (synovite)
+📋  Référer rapidement au rhumatologue si ces 3 critères
+⚠  Tout gonflement articulaire persistant > 6 semaines = RIC jusqu'à preuve du contraire → ponction articulaire
+Orientation étiologique : topographie & manifestations extra-articulaires
+Analyser
+UPM · HMA · Rhumatologie — 4ème année médecine  |  2025-2026
+TOPOGRAPHIE ARTICULAIRE
+Acromélique
+Mains, poignets (symétrique)
+→ PR, connectivites
+Mésomélique
+Coudes, genoux
+→ Variée
+Rhizomélique
+Épaules, hanches
+→ PPR / Horton
+IPD
+Interphal. distales
+→ Rhumato. psoriasique
+Axiale
+Rachis, sacro-iliaques
+→ SPA
+MANIFESTATIONS EXTRA-ARTICULAIRES
+Psoriasis cutané
+→ Rhumatisme psoriasique
+Uvéite / iritis
+→ SPA, sarcoïdose
+Rash malaire, alopécie
+→ Lupus systémique
+Raynaud, sclérodactylie
+→ Sclérodermie, Sharp
+Érythème noueux
+→ Sarcoïdose, BBS
+Raisonner en COMBINANT topographie articulaire + manifestations extra-articulaires pour affiner le diagnostic étiologique
+Urgence ou pas ? Les signaux d'alarme
+Appliquer
+UPM · HMA · Rhumatologie — 4ème année médecine  |  2025-2026
+⚡  HOSPITALISATION URGENTE
+!
+Arthrite septique à bactéries pyogènes
+!
+Arthrite tuberculeuse
+!
+Connectivite avec atteinte viscérale grave
+(rein, poumon, cœur)
+!
+Vascularite systémique active (ANCA, Horton)
+📋  CONSULTATION ≤ 3 MOIS
+→
+Suspicion de polyarthrite rhumatoïde
+→
+Suspicion de spondylarthrite
+→
+Arthropathie microcristalline (goutte, CCA)
+→
+Connectivite sans atteinte viscérale grave
+Bilan de 1re intention
+Appliquer
+UPM · HMA · Rhumatologie — 4ème année médecine  |  2025-2026
+🔬  Biologie
+VS
+↑ : inflammation, infection, maladies systémiques
+CRP
+↑ rapide — inflammatoire et infectieux. Procalcitonine si sepsis?
+NFS
+Anémie inflammatoire, hyperleucocytose (infection), leucopénie (lupus)
+💉  Ponction articulaire
+Aspect macro
+Clair = mécanique · Trouble = inflammatoire · Purulent = sepsis
+Cytologie
+> 2 000 élém./mm³ → inflammatoire · > 50 000 → septique
+Bactério + cristaux
+Germe → septique · Urate → goutte · Pyrophosphate → CCA
+🩻  Radiographies standard
+Mains + avant-pieds
+Érosions, pincements — souvent normaux au stade débutant
+Cliché de De Sèze
+Sacro-iliaques (SPA)
+Thorax
+Atteinte pulmonaire, médiastin élargi (sarcoïdose, lymphome)
+Démarche étiologique : 4 étapes hiérarchisées
+Analyser
+UPM · HMA · Rhumatologie — 4ème année médecine  |  2025-2026
+1
+Éliminer une arthrite infectieuse  ⚡ URGENCE
+Fièvre (inconstante) · Porte d'entrée · Facteurs favorisants (diabète, immuno-dépression)
+Ponction : liquide purulent, > 50 000 élém. · Hémocultures · Traitement = URGENCE
+2
+Chercher une cause métabolique
+Goutte : homme > 40 ans, hyperuricémie, gros orteil, cristaux d'urate au LS
+Chondrocalcinose : femme âgée, genou, cristaux de pyrophosphate au LS
+3
+Explorer une connectivite /vascularite
+Signes systémiques (fièvre, AEG) · Atteinte cutanée, rénale, pulmonaire
+ANA, anti-ADN, ANCA selon orientation clinique
+4
+Identifier un RIC chronique
+PR : MCP/MTP symétriques, FR, anti-CCP
+SPA : rachis, sacro-iliaques, HLA-B27
+Rhum. psoriasique : IPD, psoriasis cutané/unguéal
+Traitement symptomatique initial
+Appliquer
+UPM · HMA · Rhumatologie — 4ème année médecine  |  2025-2026
+1re intention : Antalgiques + AINS selon terrain
+Digestif
+Terrain ulcéreux → IPP + AINS ou coxib
+Rénal
+Insuffisance rénale, sujet âgé → prudence
+Cardio-vasc.
+HTA, coronaropathie → éviter AINS au long cours
+Repos
+Immobilisation articulaire en phase aiguë
+Corticoïdes
+RÈGLE ABSOLUE :
+Pas de corticoïdes
+sans diagnostic établi
+Exceptions (en urgence) :
+• Artérite giganto-cellulaire
+• Vascularites sévères (ANCA)
+• Connectivites graves (LES, myosite)
+⚠  Avant tout corticoïde : réaliser le bilan biologique de 1re intention ET éliminer formellement une infection
+Orienter le patient vers le rhumatologue
+Évaluer
+UPM · HMA · Rhumatologie — 4ème année médecine  |  2025-2026
+Médecin
+généraliste
+⚡ EN URGENCE
+⚡  Arthrite septique (pyogène ou TBC)
+⚡  Connectivite + atteinte viscérale
+⚡  Artérite giganto-cellulaire (Horton)
+⚡  Vascularite systémique (ANCA)
+→
+📋 ≤ 3 MOIS
+✓  Suspicion de PR
+✓  Suspicion de SPA
+✓  Arthropathie microcristalline
+✓  Connectivite sans viscéral grave
+→
+Cas clinique — Appliquez votre démarche
+Évaluer
+UPM · HMA · Rhumatologie — 4ème année médecine  |  2025-2026
+Vignette clinique
+Femme de 45 ans, sans antécédents notables. Depuis 6 semaines : gonflement et douleur bilatérale des MCP et des poignets, raideur matinale de 90 minutes. Absence de fièvre. Pas de psoriasis ni de lombalgies. CRP à 32 mg/L. 
+Q1
+Le caractère est-il inflammatoire ? Quels arguments ?
+Q2
+Faut-il hospitaliser en urgence ? Justifiez.
+Q3
+Quelle est l'hypothèse diagnostique principale et quels examens complémentaires demandez-vous ?
+Q4
+Quel traitement symptomatique initiez-vous et quand orientez-vous vers le rhumatologue ?
+5 messages à retenir
+1
+Raideur matinale > 1h + réveil nocturne = inflammatoire jusqu'à preuve du contraire
+2
+Arthrite septique = urgence absolue — ponction articulaire systématique en cas de doute
+3
+Topographie articulaire + manifestations extra-articulaires orientent le diagnostic étiologique
+4
+Pas de corticoïdes sans diagnostic établi — bilan biologique et élimination d'une infection en priorité
+5
+Tout RIC débutant doit être adressé au rhumatologue dans les 3 mois pour traitement de fond précoce
+Se souvenir
+Comprendre
+Appliquer
+Analyser
+Évaluer

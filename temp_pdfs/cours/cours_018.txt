@@ -1,0 +1,612 @@
+B. Admou
+2025-2026
+COURS D’IMMUNOPATHOLOGIE
+4ème année MEDECINE
+VACCINATION
+
+Historique
+•
+1789 : 
+- La « vaccine » : infection bénigne des vaches (= variole) 
+- Les fermières en contact ne faisaient pas la variole (ou forme mineure)
+- Inoculation de particules de pustules de la vaccine à un enfant : pas de variole
+- 1796 : 1er vaccin contre la variole
+Edward Jenner 
+1749-1823
+1er concept de « vaccination (Edward Jenner : XVIIIème siècle)  
+
+XIXème siècle : Principe général de la vaccination (Louis Pasteur) 
+- 1881 
+« inoculation de virus affaiblis ayant le caractère de ne jamais tuer, 
+de donner une maladie bénigne qui préserve de la maladie mortelle »
+Application de ce principe à la rage = 1ère vaccination anti-rabique 
+humaine administrée avec succès à un enfant (Joseph MEISTER) 
+- 1885
+- Mise au point des anatoxines :
+-
+diphtériques (1923) 
+-
+tétaniques (1926) 
+-
+1927 : Souche atténuée (culture en série) du BCG (Calmette et Guérin) 
+-
+1936 : Souche du virus de la fièvre jaune 
+XXème siècle :
+-    1954 : Vaccin trivalent inactivé contre la poliomyélite (J. SALK)
+-    De nombreux autres suivirent: rougeole, oreillons, rubéole, varicelle
+Jonas SALK
+  1914-1995
+Louis Pasteur
+1822-1895
+
+Définition du vaccin
+Un vaccin est une préparation antigénique conçue pour apprendre au 
+système immunitaire à reconnaître, mémoriser et bloquer en toute 
+sécurité un micro-organisme à l’origine de la maladie visée 
+
+Principe et objectifs de la vaccination 
+• Introduction d’antigènes issus d’un agent infectieux (ou autres) dans un organisme, 
+entraînant une activation du système immunitaire : 
+• Production d’anticorps protecteurs dirigés contre l’agent infectieux ou sa toxine 
+• +/- lymphocytes T cytotoxiques
+• Cellules mémoire
+• La vaccination doit être capable de protéger un organisme contre l’infection naturelle ou d’en 
+atténuer les conséquences
+• La vaccination peut être : 
+• Prophylactique, et donc préventive de l'infection 
+• Thérapeutique : infections chroniques, cancers, autres... 
+
+- Principe  
+- Antigènes vaccinaux 
+- Réponses immunitaires protectrices 
+- Approches vaccinales
+- Adjuvants
+- Facteurs influençant un vaccin
+- Perspectives    
+Sommaire
+
+Vaccination et réactions immunitaires 
+ 
+
+Rôle de l’immunité innée dans l’initiation des réponses post-vaccinales
+✓L’immunité innée conditionne la mise en 
+place de l’immunité adaptative via 
+l’activation des lymphocytes B et T par 
+les cellules dendritiques (DC).
+✓La maturation des DC nécessite des 
+signaux de danger (DAMP) reconnus par 
+des récepteurs PRR
+✓D’autres cellules de l’immunité innée 
+(monocytes, macrophages…) participent 
+à la réponse vaccinale, avec parfois des 
+effets protecteurs non spécifiques de 
+l’antigène.
+✓Ciblage des DC : Stratégies pour délivrer 
+l’antigène directement aux DC (ex : 
+anticorps anti-DEC-205)
+✓Nouveaux adjuvants : Optimiser la 
+maturation des DC 
+ 
+(ex : agonistes TLR).
+
+Plasmocytes
+Producteurs
+d’Ac
+LT
+Peptide-specific
+DC
+LT
+Activés
+LB
+Antigène Vaccinal
+1er contact 
+LB
+Mémoires
+Antigène vaccinal
+2ème contact
+Réponse immunitaire humorale post-vaccinale
+
+Baldysiak et al. 2019
+
+LB Mémoires
+• Les LB du centre germinatif (CG) expriment des BCR de haute affinité
+• Sont sélectionnés positivement et quittent le CG pour entrer dans le 
+compartiment des LB mémoires.
+• Re-circulent dans organes lymphoïdes et dans le sang
+• Support de la réponse humorale secondaire
+
+Sous-population
+Localisation 
+Principales fonctions
+TCM
+Lymphocytes mémoire centraux 
+= Central Memory 
+(CCR7+) 
+Ganglions lymphatiques
+Rate (pulpe blanche > pulpe rouge)
+Amygdales
+Sang et moelle osseuse
+▪Pas de fonctions effectrices
+▪Stimulent les LB et génèrent une 
+nouvelle vague de LT effecteurs.
+ТЕM
+Lymphocytes mémoire 
+périphériques = Effector memory 
+(CCR7-)  
+Rate (pulpe rouge> pulpe blanche) 
+un peu dans les gg lymphatiques, 
+Sang, poumons, tractus intestinal, Rein, 
+tissus adipeux, cœur
+▪Fonctions effectrices ++
+▪Produisent IL4, IL5, IFNγ 
+TRM
+Lymphocytes mémoires résidents 
+(CD69+) 
+CD8: peau, intestin et vagin, Glandes 
+salivaires
+CD4: parenchyme pulmonaire
+▪Muqueuses et tissus 
+périphériques  
+▪Fonctions effectrices 
+Sous populations de LT mémoire, leur distribution et leurs fonctions
+
+2. Vaccins inactivés (ou inertes)
+        Pathogène entier inactivé par un processus physique (chaleur) ou chimique (formol)
+2. Vaccins vivants atténués 
+         Induisent une infection à minima et une protection immunitaire meilleure
+3. Vaccins fractionnés ou sous-unitaires 
+           Antigènes les plus importants et immunodominants  
+ 
+(anatoxines, Ag capsulaires, membranaires, pseudo-particules)
+4. Vaccins polysaccharidiques / conjugués  
+5. Vaccins recombinants 
+           Insertion d’un plasmide contenant le gène codant pour la protéine dans un système d’expression   
+cellulaire (levure, bactérie, eucaryote) permettant l’expression de la protéine d’intérêt
+6. Vaccins utilisant des vecteurs
+7. Vaccins géniques 
+            à ADN (++ animaux, essais pour l’homme : HIV, HCV, HSV, mélanome)
+            à ARNm (SarsCov2) 
+Antigènes vaccinaux et stratégies vaccinales
+
+Vaccins inactivés 
+• Inactivation physique (chaleur, Ultrasons, rayons UV) et/ou chimique 
+ 
+(formol, formaldéhyde, phénol, ether, chloroforme, β-propionolactone) 
+• L’inactivation par la chaleur provoque une dénaturation importante des protéines, avec modification des épitopes 
+conformationnels 
+• Pas de risque infectieux 
+• Réponse humorale prédominante
+• Taux d'anticorps diminuent au cours du temps : 
+• Nécessitent des « boost » : adjuvants et injections de rappel
+• Faible toxicité, stables, facile à stocker et à transporter 
+Ex. 
+• Poliomyélite injectable de Salk 
+• Coqueluche à germe entier 
+• Grippe inactivé 
+• Hépatite A 
+• Choléra 
+• Rage 
+• Encéphalite à tiques 
+• Encéphalite japonaise 
+
+• Certaines bactéries produisent des toxines puissantes, responsables de la maladie 
+(Corynebaterium diphteriae, Clostridium tetani). 
+• Les patients guéris de la maladie développent des anticorps nutralisants dirigés contre la 
+toxine 
+• La toxine est inactivée par la formaline (formol), donnant naissance à une anatoxine, 
+inoffensive, mais immunogène 
+Ex. de Vaccins
+• Vaccin Diphtérie (1923) 
+• Vaccin Tétanos (1926) 
+Anatoxines 
+
+Vaccins vivants atténués 
+par passages répétés sur des milieux cellulaires ou tissulaires différents
+Voie parentérale
+Rougeole, oreillons, rubéole, Varicelle-zona
+Fièvre jaune (souche 17D)
+Encéphalite japonaise (souche SA14-2-14)
+Principe 
+• Le virus ou bactérie sauvage est répliqué dans des 
+conditions de culture défavorables
+• Le processus aboutit à une souche atténuée incapable 
+de reproduire la maladie
+Voie orale
+Polio oral (souches Sabin)
+Rotavirus oral
+Fièvre typhoïde oral (Salmonella typhi souche Ty21a)
+Choléra oral (Vibrio cholerae souche CVD193HgR)
+Voie nasale
+Grippe: 
+LAIV (Live Attenuated Influenza Vaccine) 
+VAVA (vaccin antigrippal vivant atténué)
+Avantages et inconvénients 
+• Procurent une réponse immune proche de celle 
+générée par la maladie:
+o Efficacité
+o Durée de protection longue
+o Nécessité d’un nombre limité d’injections
+• Risque d’effets indésirables infectieux:
+o Chez les patients immunodéprimés 
+o Chez les femmes enceintes (risque théorique)
+
+Vaccins vivants atténués 
+(par génie génétique)
+- entre un virus atténué et un virus sauvage apportant le(s) gène(s) 
+codant pour les Ag induisant une réponse immunitaire protectrice
+                    
+Fig. Conception du vaccin de la grippe  
+atténué par réassortiment
+ex. Grippe, Rotavirus 
+Par mutation on délétion du gène de virulence
+Par réassortiment génétique 
+• Salmonella typhi: 
+délétion de la région aroA du 
+Salmonella Ty2 
+• HSV-1: 
+délétion du gène gH codant 
+pour la glycoprotéine H 
+nécessaire à l’entrée dans la 
+cellule 
+• Vibrio cholera: 
+délétion du gène codant pour 
+la toxine cholérique 
+
+Vaccins protéiques sous unitaires 
+• Ce sont des fractions antigéniques purifiées : 
+➢Particules virales fractionnées 
+➢Toxines naturelles détoxifiées (anatoxines)
+➢Antigènes capsulaires (polysaccharides de pneumocoques ou de méningocoques) 
+➢Antigènes membranaires (protéines bactériennes ou virales). 
+• Procédés de production : 
+➢Par extraction :
+ 
+• Vaccin coquelucheux acellulaire (antigènes purifiés)  
+• Toxine pertussique
+• Choléra 
+➢Par recombinaison génétique :
+• Clonage du gène codant pour l’ Ag HBs (Hépatite B) chez la levure : premier vaccin recombinant (1986)  
+     • Les particules de l’antigène HBs sont immunogènes et non infectieuses. 
+
+Vaccins / protéine recombinante
+➢ Stratégie de choix lorsque la protéine porte les épitopes protecteurs (immunodominants)
+➢ Protéine recombinante : insertion d’un plasmide contenant le gène codant pour la protéine 
+dans un système d’expression cellulaire (levure, bactérie, baculovirus, eucaryote) permettant 
+l’expression de la protéine
+ 
+➢Applications
+• HBV : protéine HBs 
+• SarsCov2 (Spike) 
+• HIV : gp160, gp 120, protéine TAT
+• Lyme, CMV, paludisme, HPV (protéine L1), charbon
+Vibhor M, Protein & Peptide Letters, 2020
+Production de protéine
+
+Vaccins polysaccharidiques
+• La capsule polysaccharidique de certaines 
+bactéries est immunogène : 
+o Vaccin méningococcique A, C (Gotschlich 1970-80) 
+o Vaccin pneumococcique (Austrian 1977),
+o 1ère génération du vaccin Hib (1985) 
+• L’immunogénicité du vaccin capsulaire 
+polysaccharidique est augmentée si liaison à une 
+protéine porteuse - conjugaison 
+
+Vaccins polysaccharidiques non-conjugués et conjugués
+•
+Activation des LB sans activation des LT CD4 
+•
+Plasmocytes à IgM
+•
+Pas de commutation isotypique
+•
+Pas de maturation d’affinité 
+•
+Pas de LB mémoire 
+•
+Pas d’efficacité avant 2 ans 
+•
+Activation des LB + LT CD4 Th2
+•
+Commutation isotypique IgM/IgG
+•
+Plasmocytes IgG
+•
+LB mémoires (+/- T mémoires)
+•
+Efficace avant 2 ans 
+
+LB
+Ag thymo-indépendant 
+IgM ± IgG2
+LB
+signal 1
+signal 2
+IgM, IgG, IgA 
+    + cellules mémoire 
+Coopération
+LB-LT
+CMH-II
+CD40
+LTh
+TCR
+CD40L
+Vaccins polysaccharidiques (polyosidiques) / conjugués
+Meningo A et C, Pneumo, H. influenzae B
+Immunogènes à partir de 15 mois
+Immunogènes dès les 1ères semaines de vie
+          Eviction des infections sévères du nv-né
+         (MNO (A,C,Y,W135), PNO (4,6B,9V,14,18C,19F, 23F), Hib) 
+LPS + protéine porteuse   
+Ag thymo-dépendant 
+
+Vaccins géniques (ADN, ARN)
+Consiste à utiliser :
+- Un fragment d’ADN codant pour un antigène (protéine spécifique d’un 
+agent pathogène)
+- Un ARN contenant une information d’une protéine spécifique qui sera 
+traduite par les ribosomes pour produire la protéine d’intérêt 
+                       
+Un vaccin génique (ou génétique) utilise du matériel génétique 
+pour induire la production d’un antigène viral par les cellules de 
+l'hôte, déclenchant ainsi une réponse immunitaire.
+ADN
+ARNm
+
+Vaccins à ADN 
+Région excisée pour 
+introduire un gène d’intérêt 
+Plasmide vaccinal
+(petites molécules d’ADN utilisées essentiellement 
+par les bactéries afin d’échanger des séquences d’ADN)
+- Introduction de l’ADN codant pour la protéine d’intérêt au sein du plasmide 
+- Utilisation d’un ADN «nu» ou ADN au sein d’un vecteur vivant non pathogène chez l’homme 
+ 
+ 
+ 
+ 
+(ex. chimpanzé, adénovirus)
+ 
+ 
+Régions consensus 
+nécessaire pour la 
+réplication de l’ADN
+Région codant pour 
+la protéine vaccinale
+Codons Stop
+Gène d’intérêt
+
+Vaccin à ARNm (Covid19) 
+Ex. Pfizer-BioNTech et Moderna
+• La séquence génétique codant pour la protéine S (spike) du virus est connue est assimilée à l’ARNm
+• L’ARNm est enveloppé dans une nanoparticule lipidique pour pénétrer les cellules musculaires
+• Une fois dans le cytoplasme, les ribosomes fabriquent la protéine S de façon naturelle traduction). 
+• L'ARN est ensuite rapidement et naturellement détruit
+
+Injection IM
+Plasmide vaccinal
+Gène de la protéine 
+antigénique
+sécrétion
+CMH I
+CPA
+CMH II
+ADN
+ARNm
+Cytotoxiques
+LT CD8 mémoire  
+LB
+Plasmocytes 
+Ac
+LB mémoire
+LT CD8
+Réponse cellulaire 
+Réponse humorale
+LTh mémoire
+LT CD4
+protéasome
+Vaccins géniques et réponses immunitaires 
+
+Vaccins à Vecteur viral
+1- Ebola
+2. Astra-Zeneca 
+3- Johnson & Johnson
+4- Spoutnik V
+Insertion du gène de la protéine S dans le génome de l’adénovirus
+- L’ADN codant pour une protéine vaccinale d’un virus est recombiné avec l’ADN d’un vecteur viral vivant non 
+pathogène chez l’homme. 
+ 
+ 
+(ex. canarypox, chimpanzé, adénovirus) 
+
+Immunogénicité des vaccins
+L’immunogénicité des 
+vaccins est fonction de 
+leur nature et de la 
+nécessité d'un adjuvant
+D’après T. DIAYE. 13ème congrès d’Infectiologie Pédiatrique et de Vaccinologie (SOMIPEV). 2025
+
+Diphtérie
+Tétanos
+Polio
+ROR
+VHB
+VHA
+Pneumococcus
+meningococcus
+Grippe
+VIH
+Taux de 
+réussite
+Pas de 
+changement 
+10 ans
+1 an
+1 jour
+Variabilité antigénique
+Variabilité antigénique et Succès de la vaccination
+100 %
+
+Mécanismes protecteurs selon le type de vaccin 
+Types de vaccin
+Pathogènes cibles 
+Mécanismes protecteurs
+Vivants atténués
+Polio oral, ROR, Varicelle
+Fièvre jaune, 
+BCG
+AC neutralisants + lympho CD4+ et CD8+
+AC neutralisants + lympho CD4+ et CD8+
+Lymphocytes CD4+
+Entiers inactivés 
+Coqueluche
+Polio entier
+Hépatite A
+AC neutralisants + lympho CD4+
+AC neutralisants + lympho CD4+
+AC neutralisants
+Anatoxines
+Tétanos et diphtérie
+AC neutralisants 
+Sous-unités (fractions 
+antigéniques)
+Hépatite B
+Coqueluche acellulaire
+Grippe
+AC neutralisants + lympho CD4+ et CD8+
+AC neutralisants + lympho CD4+
+AC neutralisants + lympho CD4+ effecteurs
+Polysaccharides
+Pneumocoque
+Méningocoque
+Hemophilus (Hib)
+AC opsonisants anti capsule
+AC opsonisants anti capsule
+AC opsonisants anti capsule
+Vaccins conjugués
+Hib conjugué
+Pneumo conjugué
+Méningo conjugué
+AC opsonisants  + Lymph mémoire
+AC opsonisants  + Lymph mémoire
+AC opsonisants  + Lymph mémoire
+Vaccins géniques 
+(ADN, ARN)
+SarsCov2
+CMV
+HSV,…
+AC neutralisants + lympho CD4+ et CD8+
+
+Avantages et inconvénients des principaux types de vaccins
+(Récapitulatif) 
+C. Miot. Vaccins, adjuvants et réponse immunitaire post-vaccinale : bases immunologiques. RFL. 
+2019
+
+Facteurs susceptibles d'influencer l'immunogénicité et/ou l'efficacité d’un vaccin
+D.J. Lynn et al. Modulation of immune responses to vaccination by the microbiota: 
+implications and potential mechanisms. Nature reviews | Immunology 2021
+
+Propriétés 
+- Substances immunostimulantes 
+- Amélioration de l’immunogénicité du vaccin
+- Retard de l’élimination de l’Ag vaccinal
+- Induction d’une réaction inflammatoire (activation des MФ)
+- Action sur les CPA : stimulation des co-signaux d’activation
+- Très utilisés, surtout dans les vaccins inactivés, fractionnés  
+- Sels minéraux (hydroxyde ou phosphate d’aluminium)
+- Bonne réponse Ac mais mauvaise réponse cellulaire
+ 
+   - Risques potentiels de l’aluminium ? (Ex. Myofasciite à macrophages)
+- Adjuvants non alumiques 
+- Phosphate de Calcium (DTPolio)
+- Squalène (Ex. MF59C.1 à base de squalène (vaccin de la grippe)
+Types d’adjuvants
+Les adjuvants
+
+A. Blin, 2019
+Mécanismes d’action des adjuvants vaccinaux
+
+Les immunosomes:
+•
+Virosomes = phospholipides + Ag à la surface
+ 
+ 
+ 
+ 
+      ex. virus de la grippe
+ 
+ 
+•
+ISCOMs (Immuno Stimulating Complexes). Ø 35nm 
+ 
+ 
+= antigène + QuilA (saponine) + lécithine, cholestérol
+ 
+•
+Liposomes : 
+•
+Vésicules sphériques (100 nm) faites d'une bicouche de phospholipides et de cholestérol
+•
+Amphiphile avec une partie hydrophile et hydrophobe.
+•
+Immunostimulants issus d’immunogènes bactériens
+ 
+MDP-A = MDP (muramyl dipeptide) + émulsion squalane-L-121
+ 
+dinucléotides non méthylés 5’-CpG-3’ (ligand de TLR9)
+ 
+ 
+Adjuvants de l’avenir = Immunosomes 
+
+Facteurs influençant la réponse post-vaccinale 
+• Nouveau-nés
+   – Présence d’Ac maternels pouvant inhiber le processus d’immunisation
+   – Très faible réponse aux antigènes thymo-indépendants (Polysacch) avant 2 ans
+• Personnes âgées
+   – La sénescence du système immunitaire diminue la réactivité v-à-v des vaccins
+   – Diminution des titres d’anticorps protecteurs
+• Autres facteurs :
+   – Déficits immunitaires primitifs et acquis 
+                     Risque de réactivation des vaccins vivants atténués
+ 
+ (BCG, rubéole, varicelle, rougeole, oreillons, Polio, Fièvre jaune,…) 
+– Maladies chroniques (insuffisance rénale, hépatopathie, pneumopathie, cardiopathie, diabète…).
+ Ces patients doivent être vaccinés le plus précocement possible avant l’installation d’un état de déficit immunitaire.
+ 
+(virus grippe, pneumocoque, méningocoque, hépatites virales, SarsCov2..)
+ – Facteurs génétiques de l’hôte : bons ou mauvais répondeurs / répertoire LT et LB
+
+Conclusion 
+• La vaccination se base sur une activation spécifique du système immunitaire dont la réussite dépend :
+•
+de l’immunogénicité de l’antigène vaccinal 
+•
+de sa cible : pathogène, autres maladies
+•
+des facteurs liés à l’hôte : statut immunitaire, microbiote, autres
+•
+de l’Ecosystème microbien
+•
+de la stratégie vaccinale à adopter 
+•
+des moyens technologiques  
+• Stratégies vaccinales évolutives et prometteuses  :
+•
+Vaccins géniques (ADN, ARN)
+•
+Vaccins à vecteur / recombinants
+•
+Adjuvants 
+•
+Voies d’administration (nasale, aérosol, transcutanée,..)
+•
+Agonistes TLR
+• Défis et Perspectives :
+• Infections chroniques :
+•
+HCV, HIV, HSV, CMV, …
+•
+Parasites
+• Cancers
+• Maladies chroniques (LES, SEP, Alzheimer Diabète, …)
+

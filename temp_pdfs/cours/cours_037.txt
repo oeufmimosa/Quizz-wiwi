@@ -1,0 +1,295 @@
+La goutte
+Pr. Radouane NIAMANE
+Objectifs
+Distinguer l’hyperuricémie de la goutte.
+Définir la goutte: arthropathie microcristalline.
+Connaître les bases épidémiologiques de l’hyperuricémie et de la goutte.
+Comprendre la physiopathologie de la goutte.
+Diagnostiquer un accès de goutte.
+Diagnostiquer les complications de la goutte.
+Connaitre les bases du traitement.
+
+Introduction
+L’hyper-uricémie est une anomalie biologique secondaire à un trouble du métabolisme des purines. 
+Elle se traduit par un excès d’acide urique:
+L’acide urique (AU) est un catabolite des bases puriques (adénine, guanine).
+L’hyperuricémie est en rapport avec :
+Une hyper-production d’AU.
+Un défaut d’élimination de l’AU.
+La précipitation des cristaux d’urate de sodium au niveau des organes est responsable de la goutte (maladie).
+Les dépôts siègent:
+Articulations, responsable d’accès goutteux: (Goutte aiguë)
+Parties molles (tophus), rein et articulations : (Goutte chronique)
+Goutte= maladie fréquente qui met en jeu le pronostic fonctionnel (articulaire) et vital (rénal).
+Épidémiologie 
+L’hyperuricémie se définit : 
+Homme: uricémie > 70 mg/l  (420 mmol/l) 
+Femme: uricémie > 60 mg/l (360 mmol/l)
+Il faut distinguer:
+L’hyperuricémie: 
+Anomalie biologique fréquente: 
+Prévalence dans la population: 5-15% 
+Elle est souvent asymptomatique.
+Seules 10 % des hyper-uricémies sont symptomatiques (goutte). 
+La goutte: 
+Maladie métabolique avec atteinte articulaire et extra-articulaire.
+Chez 0,5% de la population (2% après 60 ans)
+L’homme jeune dans 90% des cas (30-50 ans)
+La femme âgée dans 10% surtout après la ménopause
+S’intègre dans le syndrome métabolique
+
+La goutte suit classiquement une évolution en 3 étapes :
+Hyper-uricémie asymptomatique
+Goutte aiguë
+Goutte chronique ou tophacée
+
+Physiopathologie
+Modifications observées dans la goutte: 
+Le pool miscible est très augmenté à cause: 
+Excès apport alimentaire +++
+Purinosynthèse de novo accélérée : mécanisme est isolé (30% des cas)
+Elimination urinaire diminuée: ce mécanisme est rarement isolé, il est souvent associé à une purinosynthèse de novo accélérée (70% des cas).
+Physiologie de l’acide urique
+PRPP – Phosphoribosyl-pyrophosphate: Précurseur clé dans la synthèse des nucléotides puriques et pyrimidiques.
+PRPP synthétase – Phosphoribosyl-pyrophosphate synthétase: Enzyme qui catalyse la formation de PRPP à partir du ribose-5-phosphate.
+5’-Nucléotidase: Enzyme qui catalyse la conversion des nucléotides en nucléosides (adénosine, guanosine).
+HGPRT – Hypoxanthine-Guanine Phosphoribosyltransférase: Enzyme impliquée dans la récupération des bases puriques (hypoxanthine et guanine) pour reformer des nucléotides et éviter leur dégradation en acide urique.⚠️ Déficiente dans le syndrome de Lesch-Nyhan, ce qui entraîne une surproduction d’acide urique.
+Xanthine oxydase: Enzyme qui convertit l’hypoxanthine en xanthine puis la xanthine en acide urique.🔹 Cible de l’allopurinol dans le traitement de la goutte.
+Uricase (barrée en rouge): Enzyme qui dégrade l’acide urique en allantoïne.⚠️ Absente chez l’humain, ce qui empêche l’élimination complète de l’acide urique.
+Physiopathologie de l’hyperuricémie
+
+Pathogénie de l’accés goutteux
+a.	Déclenchement de l'accès aigu: provoqué soit par :
+
+le détachement de cristaux d'urate monosodique du cartilage ou de la synoviale dans le  liquide synovial
+une sursaturation du liquide synovial en urate monosodique, ce qui aboutit à sa  cristallisation
+
+La phagocytose de ces cristaux par les monocytes/macrophages entraine une production  des cytokines inflammatoires (TNF-α, IL-6, IL-8, etc.) qui recrutent des polynucléaires  neutrophiles et amplifient ainsi la cascade inflammatoire aiguë.
+L'accès aigu est spontanément résolutif en quelques jours.
+
+Etiologies
+1. LA GOUTTE PRIMITIVE :
+La goutte primitive idiopathique : 98%
+Chez l’homme pléthorique suralimenté (bon vivant).
+Le mécanisme est inconnu.
+La goutte primitive par anomalie enzymatique : 
+Déficit de la HGPRT (3 à 5 % des gouttes primitives):
+Partiel 
+Total : syndrome de Lesh-Nyhan
+Goutte précoce (enfance - homme de 20 ans) et sévère (atteinte rénale et encéphalopathie +++)
+Hyperactivité de la PRPP synthétase
+2. LES GOUTTES SECONDAIRES :
+Défaut d’élimination ou excès de production des purines
+Insuffisance rénale chronique, polykystose rénale
+Hémopathies* 
+Psoriasis étendu*
+HTA gravidique
+Hypothyroïdie
+Iatrogène :
+Diurétiques+ + +  (Goutte féminine)*
+Aspirine à faible dose
+Chimiothérapie* 
+Pyrazinamide*, éthambutol*
+Ciclosporine* 
+*: hyperuricémie avec véritables accès de goutte
+Etude clinique
+A. L’accès goutteux:  Type de description: Monoarthrite aiguë du gros orteil de l'homme de 45-50 ans (podagre : ≪ pris au pied dans un piège ≫)
+Facteurs déclenchant: · 
+ Excès alimentaire (abats); Soda et jus riches en fructose
+ Excès alcoolique (vin);
+ Traumatisme ou microtraumatismes répètes (chaussure trop serrée);
+ Surmenage, émotion vive;
+ Infection;
+ Intervention chirurgicale ++;
+ Prise médicamenteuse.
+Prodromes : 
+La crise de goutte est précédée de prodromes vagues mais souvent identiques chez un même malade, permettant de prévoir l’accès :
+  signes locaux: vague gène, lourdeur, crampes musculaires;
+ signes généraux: nervosité, insomnie, dyspepsie, frissons, fièvre, dysurie
+La douleur : 
+Siège à la base du GO
+Apparaît à la 2ème moitié de la nuit, cède « au chant de coq »
+Pulsatile, lancinante, permanente, augmentée par toute mobilisation
+S’accompagne :
+Impotence fonctionnelle majeure
+Fièvre à 38°- 38,5° avec un faciès vultueux
+Agitation.
+L’examen note des signes inflammatoires importants 
+Œdème local;
+Peau: couleur rougeur vive (mauve pivoine), lisse et sèche;
+Vasodilatation des veines de voisinage.
+L’évolution : 
+Spontanée : crises de 5 à 10 jours évoluant vers la guérison avec desquamation locale (pelure d'oignon);
+Sous traitement par colchicine, la guérison survient en moins de 48h: test diagnostique +++
+Les récidives sont possibles vers les complications (Goutte chronique)
+Examens complémentaires :
+Radiologie : normale au début
+Biologie : 
+VS,CRP élevées !!!, Procalcitonine normale
+NFS : hyperleucocytose (souvent importante)
+L’uricémie:
+peut être normale pendant l’accès (30 %)
+à refaire à distance de l’accès.
+Liquide synovial : 
+très inflammatoire, trouble
+> 5000 GB/mm3 (PNN), (Parfois 50 000 à 100 000)
+Cristaux d’urate de sodium
+Stérile.
+longs cristaux en aiguille, extra- et intracellulaires, 
+très biréfringents en lumière polarisée
+Echographie pendant l’accès goutteux
+Aspect en tempête de neige
+Image en double contour
+ Evolution de la goutte 
+
+
+ 
+B. La goutte chronique:
+1. Les tophus : 			Concrétions (dépôts) sous-cutanées
+Blanc-jaunâtres
+Dures
+Indolores
+Parfois ulcérées donnant une bouillie crayeuse et peuvent s’infecter
+Siège électif : 
+Juxta-articulaire : IPD, IPP et MCP
+Juxta-tendineux : tendon d’Achille
+Bourses séreuses : olécrane
+Parties molles : hélix de l’oreille
+Triste privilège de la goutte négligée et mal traitée.
+2. Les arthropathies uratiques :
+Clinique : 
+Souvent: accès mono - ou oligo-articulaire asymétriques des membres inférieurs		
+Parfois: polyarthrite chronique, déformante et destructrice 
+Apanage des gouttes négligées ou des formes sévères (goutte enzymatiques…)
+Handicap majeur (atteinte des articulations portantes et des articulations des mains)
+De plus en plus rare 
+
+Radiologie :
+
+Signes généraux : pincement, ostéophytose marginale, condensation sous-chondrale et géodes à l’emporte-pièce: aspect en « hallebarde »
+
+Selon la topographie:
+Pieds : 
+Arthropathie géodique du gros orteil,
+Aspect hérissé du tarse, 		
+Mains : lésions irrégulières et asymétriques du carpe
+Genoux : gonarthrose sévère
+
+Hallebarde
+Arthropathie géodique
+Arthropathie géodique
+Aspect en Hallebarde
+Arthropathie géodique
+Erosions réalisant l’image en hallebarde (têtes de flèches) et tophus intraosseux calcifiés (flèches).
+Aspect de «pied hérissé»
+3. Atteinte rénale : 
+ Fait la gravité de la goutte avec le risque d’hémodialyse. 
+Deux tableaux cliniques :
+La lithiase rénale : 20% des gouttes
+Elle est favorisée par l’hyperuraturie et l’acidité des urines
+Elle est améliorée par des urines à pH alcalin
+Calculs de petite taille, radio-transparents +++
+Cliniquement: coliques néphrétiques, hématurie et infections urinaires à répétition
+Evolution: insuffisance rénale obstructive
+La néphropathie goutteuse :
+Dépôts de micro-cristaux dans le parenchyme rénal
+Diagnostic: protéinurie, leucocyturie, hématurie microscopique
+Evolution: insuffisance rénale par atteinte tubulo-interstitielle
+Diagnostic
+A. POSITIF
+Devant des arguments :
+Cliniques 
+Radiologies
+Biologies : 
+Hyperuricémie
+Uraturie variable
+Liquide synovial : cristaux d’urate de sodium ++++
+Aspect échographique
+B. DIFFERENTIEL
+Accès aigu : 
+Arthrite septique
+Autre arthropathie métabolique : 
+Chondrocalcinose (CPPC), 
+Rhumatisme à hydroxyapatite
+Rhumatismes inflammatoires intermittents
+Goutte chronique :
+PR, spondylarthropathies (orteil en saucisse)
+Sarcoïdose (dactylite), Behçet…
+Arthrose des mains
+Rhumatisme 
+à hydroxyapatite
+Chondrocalcinose
+Cristaux de pyrophosphate
+ de calcium (CPPC)
+Orteil en saucisse
+C. TERRAIN
+La goutte s’intègre dans un cadre du SYNDROME METABOLIQUE.
+Il faut faire chez le patient goutteux:
+Une évaluation des facteurs du risque cardio-vasculaire+++
+Recherche de l’obésité
+Evaluation de la fonction rénale.
+Un bilan lipidique complet.
+Une glycémie.
+Traitement
+2 types de traitement:
+– Traitement de la crise: symptomatique
+– Traitement de fond à vie
+
+A. MOYENS
+1. Traitement de l’accès aigu :
+Repos et vessie de glace, antalgiques
+Colchicine : Colchicine cp à 1 mg (ou Colchimax 1mg qui contient des anti-diarrhéiques)
+A titre diagnostique et thérapeutique en 48 H.
+Peut être donnée avant le dosage de l’uricémie		
+Schéma thérapeutique:
+Dose de charge : 1 mg per os immédiatement.
+Dose d’entretien : 0,5 mg, 1 heure après la dose de charge.
+Poursuite du traitement à partir du 2éme jour: 0,5 mg toutes les 8 à 12 heures jusqu'à la disparition des symptômes, sans dépasser une durée totale de 3 à 5 jours.
+
+Limites de posologie :
+Dose maximale en 24 heures : 1,5 mg (anciennement jusqu'à 3 mg, mais réduit pour limiter la toxicité).
+Dose maximale cumulée par cure : 6 mg sur 4 jours.
+Effets secondaires de la colchicine : Diarrhée +++, éruption cutanée
+En cas de diarrhée :  associer un anti-diarrhéique (type Imodium), baisser la posologie, fractionner  les prises.
+Contre-indications de la colchicine: Grossesse, IRénale et Ins.Hep. sévères
+
+
+AINS: en cas d’intolérance ou ce CI à la colchicine 	
+(ex : Etoricoxib - Arcoxia® 120 mg / Diclofénac 150 mg/j)
+Corticoïdes: 
+corticoïdes généraux : 
+30–35 mg/j d’équivalent de prednisolone pendant 3 à 5 jours
+Efficacité rapide mais risque d’automédication++. 
+infiltrations cortisoniques : très efficaces en cas de mono-arthrite répondant mal à la Colchicine ou aux AINS, après élimination préalable d’une arthrite septique.
+Inhibiteurs de l’interleukines 1 (anakinra)
+Traitement biologique couteux, réservé aux crises de goutte sévères, résistantes à tous les traitements.  
+2. Traitement de fond (Hypo-uricémiant): 	
+but : ramener l’uricémie à < 60 mg/l (voire 50 mg/l en cas de tophus ou arthropathies sévères).
+Règles hygièno-diététiques : (baissent l’uricémie de 10 mg/l)
+Régime hypocalorique et hypo-purinique
+Suppression de l’alcool+++
+Activité physique
+Médicaments hypo-uricémiants : 
+Inhibiteurs de la synthèse de l’acide urique (XO) : 
+Allopurinol (Zyloric®) : 100 - 200 -  300 mg/j +++
+Febuxostat (Adenuric®): 80 -120 mg/j. 
+Uricosuriques : Benzbromarone (Désuric®) – utilisation exceptionnelle. 
+Uricolytiques : Uricase (Uricozyme®)-  Rasburicase (Fasturtec®): (Goutte sévères des hémopathies et des transplantés)
+Alcalinisation des urines (eau de Oulmès)
+Diurèse : 2 litres/jour
+B. RÈGLES D’UTILISATION DES HYPO-URICÉMIANTS
+Ne pas traiter les hyperuricémies isolées asymptomatiques (sauf hyperuricémie majeure au cours des chimiothérapies). 
+
+Indications du traitement hypouricémaint: +++
+À partir  du 1er épisode,
+Arthropathie uratique chronique, Tophus, 
+Double contour, 
+Lithiase rénale ou insuffisance rénale,
+Comorbidités: HTA, maladie  cardiaque ischémique, insuffisance cardiaque). 
+B. RÈGLES D’UTILISATION DES HYPO-URICÉMIANTS
+Règles d’utilisation stricte +++
+commencer le traitement 3 semaines après la  guérison de l’accès goutteux  
+Allopurinol à petite dose et augmenter progressivement les doses du traitement hypo-uricémiant 
+sous couvert de colchicine 1 à  ½ mg/j  (3 semaines au préalable et poursuivie au moins les 3 à 6 premiers mois, et jusqu'à disparition des éventuels tophus), pour éviter les crises aiguës de goutte initiales (liées aux  mobilisations des dépôts d’acide urique induites par la baisse de l’uricémie ) +++ 
+Cible thérapeutique: uricémie inférieure à 60 mg/l (<50mg/l dans les formes sévères) 
+Ne jamais arrêter le traitement qui est poursuivi à vie +++ (même en cas de crise de goutte).

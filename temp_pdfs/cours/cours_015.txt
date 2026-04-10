@@ -1,0 +1,368 @@
+Pr. B. ADMOU
+COURS D’IMMUNOPATHOLOGIE 
+3ème année Pharmacie
+2025-2026
+HYPERSENSIBILITE IMMEDIATE ET ALLERGIE 
+
+- Réactions d’Hypersensibilité (HS) = réponses immunitaires spécifiques exagérées ou inappropriées
+- Classification des réactions d’HS selon Gell et Coombs : 
+En fonction :
+- de l’Ag déclenchant
+- de l’effecteur (s) 
+- du délai d’expression clinique
+- du type de manifestations cliniques  
+4 types :
+Type I : Immédiate (HSI) à IgE
+Type II  : HS à anticorps non IgE (IgG ou IgM)
+Type III : HS à complexes immuns
+Type IV : Retardée (HSR) à médiation cellulaire
+Intérêt:    - Implication dans plusieurs maladies
+- Formes cliniques graves
+- Opportunités diagnostiques et thérapeutiques
+Introduction
+
+Adapté de Johansson O et al. Revised nomenclature for allergy for global use : report of the Nomenclature 
+Review Committee of the World Allergy Organization. J Allergy Clin Immunol
+
+CLASSIFICATION DE GELL & COOMBS MODIFIEE
+J-F. Nicolas et al. La revue du praticien 
+
+1-/ HSI
+Réaction spécifique induite par des antigènes dits allergènes chez certains individus,
+caractérisée par la synthèse d’IgE, qui se fixent sur les mastocytes et basophiles
+portant des récepteurs de forte affinité pour le fragment Fc.
+I-/ DEFINITIONS
+3-/ Atopie
+Tendance individuelle ou familiale à produire des IgE spécifiques en réponse à de
+petites doses d’allergènes, et à développer des manifestations d’allergie.
+(Ex. asthme, rhino-conjonctivite, dermatite atopique,….)
+2-/ Allergie
+Expression
+clinique
+d’une
+réaction
+d’HSI
+médiée
+par
+un
+mécanisme
+immunologique IgE dépendant chez un individu souvent atopique.
+
+PLAN
+Introduction
+I-/ Définitions
+II-/ Acteurs de l’HSI
+III-/ Mécanisme de dégranulation des mastocytes
+IV-/ Manifestations cliniques de l’allergie
+V-/ Diagnostic de l’allergie
+VI-/ Principes thérapeutiques de l’allergie
+Conclusion 
+Réactions d’Hypersensibilité immédiate (HSI)
+
+Objectifs
+1. Différencier les concepts d’hypersensibilité, d’allergie et d’atopie
+2. Citer les acteurs et les mécanismes de l’hypersensibilité immédiate
+3. Décrire les modalités d’expression clinique de l’hypersensibilité immédiate
+4. Décrire le principe d’exploration des réactions d’hypersensibilité immédiate
+5. Décrire le principe de l’immunothérapie spécifique allergénique
+
+II-/ ACTEURS DE L’HSI
+1-/ Allergènes 
+- Substances de l’environnement
+- Protéines, glycoprotéines, haptènes
+- Allergènes majeurs : Induisent une réponse allergique chez au moins 80% des sujets allergiques
+- Allergènes mineurs : Entraînent une réaction allergique chez 20 à 30% des sujets allergiques
+- Classification selon la porte d’entrée (utilisée par les cliniciens) :
+✓Pneumallergènes = allergènes inhalés
+✓saisonniers : pollens
+✓péri-annuels : acariens, poils chat, parasites, champignons
+✓Trophallergènes = allergènes alimentaires ingérés
+✓enfant : protéines du lait de vache, œuf, farine, arachide, soja,…
+✓adulte : poissons, crustacés, farines, noix, …
+✓Dermallergènes: ex. latex
+✓Allergènes à pénétration parentérale (piqure) 
+✓venins d’hyménoptères: abeille, guêpe
+✓Médicaments : utilisent toutes les portes d’entrée : pénicillines, anesthésiques,… 
+
+Allergie saisonnière /Calendrier pollinique 
+
+2-/ IgE et Récepteurs aux IgE
+Figure : Structure des IgE et récepteurs aux IgE  
+❖Récepteur de forte affinité
+.  Mastocytes- Basophiles 
+> 50 000 par basophile
+. Chaîne α: 2 domaines extracellulaires.
+. Fixent les IgE 
+. 2 chaînes g liées par pont S-S
+• Possèdent 2 séquences ITAM
+❖Récepteur de faible affinité
+- Mastocytes-Basophiles, PNE, PNN, LyB, LyT
+- Une partie peut être clivée
+par protéolyse                   CD23s
+- Rôle régulateur
+
+- Mastocytes et basophiles : granules cytoplasmiques renfermant les médiateurs majeurs de l’allergie (Histamine, tryptase,
+PAF, autres)
+- Eosinophiles : libèrent des médiateurs de l’inflammation pouvant entretenir ou aggraver les symptômes cliniques (PG, LT, 
+PAF)    
+- Plaquettes: activées par le PAF (platelet activating factor), libèrent des médiateurs chimiotactiques des éosinophiles (ECF-A) 
+et des neutrophiles (NCF-A).
+- Neutrophiles et Mono/MΦ: synthétisent des médiateurs lipidiques d’allergie et d’inflammation : PG, LT, cytokines
+- Cellules dendritiques : 
+-
+Présentent l’allergène aux lymphocytes T CD4 
+-
+Induisent la sécrétion de cytokines de type Th2 et pro-inflammatoires 
+-
+Participent à la régulation de la réaction allergique 
+- Lymphocytes T 
+-
+Produisent des cytokines allergisantes de type Th2 : IL4, IL5, IL9, IL13
+-
+Activent les lymphocytes B producteurs d’IgE
+- Cellules lymphoïdes innées (ILC) : ILC2 +++
+3-/ Cellules effectrices 
+-
+Stimulent la production des IgE lors de l’allergie, 
+-
+Produisent différents profils de cytokines (Th2 like) : IL4, IL5, IL9, IL13
+
+• Granulations violet foncées après coloration 
+au MGG (May Grünwald Giemsa)
+• Nombreux médiateurs
+Mastocyte: tissus (peau), muqueuses, séreuses
+Polynucléaire Basophile :  Sang circulant (< 1% des leucocytes circulants)
+Riche en Granulations 
+contenant des 
+Médiateurs d’HSI
+
+4-/ Médiateurs de l’HSI
+
+Voies COX-1 et COX-2
+Voies de biosynthèse des Eicosanoïdes et du PAF
+
+5-/ Rôle des cytokines Th2 dans les phénomènes d’HSI et allergie 
+Les cellules Th2 produisent des cytokines allergisantes: 
+IL-4, IL5, IL-9, IL-13
+- IL-4 : 
+• Synthèse d’IgE (commutation de classe)
+• Favorise la réponse de type Th2
+• Inhibe les réponses de type Th1
+- IL-5 : Chimiotactisme et activation des éosinophiles (phase tardive) 
+- IL-9 : Différenciation des basophiles en mastocytes
+- IL13 : Favorise la production des IgE et IgG4
+Chez les sujets allergiques, on observe un déséquilibre de 
+la balance Th1/Th2 en faveur de Th2.
+
+D’après B. Evrard. Physiopathologie de l’allergie IgE-dépendante. RFL. 2020
+1-/ Phase de sensibilisation
+III-/ MECANISME DE l’HSI / ALLERGIE
+- L’exposition à l’allergène induit la synthèse d’IgE
+spécifiques.
+- Fixation
+des
+IgE
+sur
+les
+mastocytes
+et
+les
+basophiles (RFceI) : phase de latence
+- Pas de symptômes cliniques
+
+2-/ Phase de déclenchement de l’allergie
+D’après B. Evrard. Physiopathologie de l’allergie IgE-dépendante. RFL. 2020
+- 2ème contact avec l’allergène entraîne le 
+pontage de 2 IgE membranaires 
+- Activation cellulaire et libération des 
+médiateurs
+- Manifestations cliniques de l’allergie
+
+HSI et asthme allergique
+•
+Les allergènes déclenchent la production 
+d'alarmines (IL-33, IL-25, TSLP) par les cellules 
+épithéliales
+•
+L’IL-33 active les ILC2 résidentes qui produisent de 
+l'IL-13, une cytokine clé pour la migration des 
+cellules dendritiques et la génération d'une réponse 
+adaptative Th2 et la production d'IgE. 
+L. Pelletier, J-c Guéry. Asthme et allergie. Larevue du prat 2020
+TSLP : Lymphopoïétine Stromale Thymique
+HDM : House Dust Mite  
+
+3-/ Activation spécifique et non spécifique des mastocytes
+
+1) Dégranulation explosive
+Histamine / Tryptase
+- Hypotension / vasodilatation
+- Œdème, vasoconstriction
+- Conduction auriculo-ventriculaire 
+- Troubles du rythme
+-Bronchospasme
+2) Médiateurs néosynthétisés
+Prolongation de la réaction
+(Réaction inflammatoire)
+Réaction anaphylactique et réaction anaphylactoïde
+(Diagnostic différentiel)
+Le choc anaphylactoïde est lié à un mécanisme non IgE dépendant (non spécifique), 
+induit par des substances histamino-libératrices: anaphylatoxines, autres 
+
+IV-/ MANIFESTATIONS CLINIQUES DE L’HSI (ALLERGIE)
+1-/  Manifestations systémiques anaphylactiques
+Choc anaphylactique : collapsus cardiovasculaire + insuffisance respiratoire aiguë avec
+bronchospasme et œdème laryngé.
+ex : allergie aux venins d’hyménoptères, crustacés, médicaments (curares, pénicilline)
+!!! Urgence vitale : administration d’adrénaline 
+2-/  Manifestations localisées
+- Respiratoires :
+* rhinite allergique : ex : rhume des foins
+* asthme allergique (ou extrinsèque)
+- Oculaires :
+* conjonctivite
+- Cutanées :
+* dermatite atopique
+* urticaire (médicaments, aliments…)
+
+3-/ Allergie croisée
+Si l’IgE se lie à l’épitope
+partagé →réactivité croisée
+Pas de cross-réactivité
+Cross-réactivité
+Allergène 2
+Allergène 1
+= Epitope reconnu par IgE
+Exemples:
+▪Pollens de bouleau         :  Pomme, avocat, pêche, abricot, …
+▪Pollens de graminées     :  Pomme de terre, tomate
+▪Pollens d’armoise           :  Carotte, céleri, persil
+▪Acariens                         :  Crevette, crustacées, escargot 
+▪Latex                              :  Avocat, kiwi, figue, châtaigne
+
+V-/ DIAGNOSTIC DE L’ALLERGIE
+1-/ Diagnostic clinique 
+- La clinique est essentielle
+L’interrogatoire doit être « policier », permettant d’identifier :
+- Antécédents familiaux et/ou personnels d’allergie
+- Facteurs déclenchant : lieu, moment (saison), environnement
+- Type de manifestations cliniques, délai d’apparition
+- Les tests cutanés : 
+- Prick test : Triade de Lewis : papule > 5mm, érythème et prurit local
+- IDR (intradermoréaction) : médicaments
+
+
+• Valeurs normales : 150 kUI/L (à partir de 8 ans)
+• Variables selon: âge, ethnie, saison, tabac, statut immunitaire
+• Augmente dans de nombreuses pathologies: parasitoses, inf. virales, Synd hyper IgE (DIP), néoplasies,..
+• Ce n’est pas un test de dépistage de l’allergie !!
+Sensibilité et spécificité faibles : 
+20% des sujets sains : concentration élevée 
+20% des sujets allergiques : concentration normale
+2-/ Diagnostic immunobiologique
+a- Eosinophilie 
+b- Dosage des IgE totales  
+•
+Indication limitée aux formes rebelles de l’asthme : Asthme éosinophilique
+L’Hyper-éosinophilie peut être associée à différentes situations :
+- Parasitoses
+- Aspergillose Broncho-pulmonaire et sinusienne
+- Syndrome de Churg et Strauss (vascularite)
+Taux des IgE sériques en fonction de l’âge
+• Indications principales :  
+- Polysensibilisation
+- Urticaire chronique
+- Dermatite atopique
+- Avant la mise sous anti-IgE
+
+c- Dosage des IgE spécifiques
+- Discordance entre l’allergène suspecté et le résultat des Prick Tests (PT)
+- Recherche d’une sensibilisation à un allergène rare
+- PT irréalisables ou ininterprétables 
+- Distinguer Mono-sensibilisation et Poly-sensibilisation
+- Evaluer la sévérité de l’allergie
+- Immunothérapie spécifique : indication et suivi 
+- Principe du dosage :
+- RAST (Radio Allergo Sorbent Test) = terme impropre  
+- Méthodes utilisées actuellement:
+FAST (Fluorométrie), chimiluminescence (IMMULITE ) 
+- Indications du dosage 
+- Types de tests :
+- tests multi-allergéniques (dépistage). 
+Ex. Phadiatop, Trophatop, Alatop,….
+- tests mono-allergéniques (identification):
+IgE spécifique à des allergènes natifs, recombinants, et moléculaires
+
+d- Dosages des médiateurs circulants (choc anaphylactique)
+* Histamine : peu utilisé sauf après réaction anaphylactique, ½ vie courte
+* Tryptase mastocytaire, ½ vie plus longue (exploration du choc anaphylactique) 
+- 2 à 3 dosages : H0-15mn, H6  +/- H24
+Figure : Cinétique de la concentration de l’Histaminémie et de la Tryptasémie
+après un choc anaphylactique
+
+e- Test d’activation des basophiles
+Etude de l’expression de surface (ou sur-expression) des marqueurs d’activation des basophiles 
+(CD63 ou CD203c) par cytométrie en flux
+f- Tests de provocation (bronchique) ou de réintroduction orale (TPO) (médicaments, aliments) :
+A réaliser en milieu hospitalier sous surveillance clinique stricte
+
+b- Traitement symptomatique = fonction de l’expression clinique et la gravité
+- Traitement urgent du choc anaphylactique : adrénaline !!!
+- Bronchodilatateurs : asthme (action sur la phase précoce)
+- Corticothérapie : action sur la phase tardive (inflammation)
+- Antihistaminiques (anti-H1)
+VI-/ PRINCIPES THERAPEUTIQUES DE L’HSI
+a- Meilleur traitement = Eviction de l’allergène
+Histamine: produit de l’activation des mastocytes/basophiles
+
+Indications des anti-H1 
+– Rhinite allergique
+o
+Efficacité sur rhinorrhée, éternuements, prurit. Voie orale ou nasale 
+– Conjonctivite allergique
+o
+AntiH1 efficaces sur le prurit, erythème, larmoiement et oedème. Voit orale ou instillation oculaire++ 
+– Urticaire aigue et chronique
+– Mastocytoses: prurit et flush
+– Asthme allergique
+– Toux, vomissements, mal des transports
+– Prurit idiopathique avec troubles de l’humeur 
+
+c- Anticorps anti-IgE : Omalizumab (Xolair®)
+INDICATIONS : 
+•
+Asthme allergique (persistant modéré à grave)
+•
+Rhinosinusite chronique accompagnée de polypose nasale 
+•
+Urticaire chronique idiopathique 
+L’omalizumab se lie à l’IgE et empêche sa 
+liaison avec le récepteur IgE de haute 
+affinité (FcεRI), réduisant ainsi la 
+quantité́ d’IgE libres susceptibles de 
+déclencher la cascade inflammatoire 
+allergique.
+
+- Administration d’une quantité faible et croissante d’allergène jusqu’à l’induction d’une tolérance à l’allergène
+- Vise à réduire l’intensité des symptômes liés à l’exposition à l’allergène sensibilisant
+-
+au niveau de la production d’IgE : immunothérapie spécifique (ITS) allergénique
+- Modes d’action: 
+IgG4
+RFcII
+Après désensibilisation
+IgE
+R1Fc
+Avant désensibilisation
+d- Immunothérapie spécifique = désensibilisation 
+
+Conclusion
+- Allergie = réaction d’HSI médiée par des IgE
+- Toute réaction d’HSI n’est pas toujours une allergie : activation non spécifique des mastocytes-basophiles
+- Rôle important des cytokines dans l’induction et la persistance de l’allergie
+- Rôle de plus en plus reconnu aux ILC2 et alarmines (IL-33, IL-25, TSLP)
+- Diagnostic = clinique, aidé ou confirmé par les Prick tests et le dosage des IgE spécifiques
+- Cause allergénique difficile à établir pour l’allergie alimentaire et médicamenteuse
+- Amélioration du diagnostic par les allergènes moléculaires et les tests ‘’Biopuces’’
+- Immunothérapie spécifique allergénique : espoir d’une meilleure prise en charge de l’allergie
+

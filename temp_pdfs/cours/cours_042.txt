@@ -1,0 +1,297 @@
+OSTÉOPOROSE
+Pr. Radouane Niamane
+OBJECTIFS PEDAGOGIQUES
+Définir l’ostéoporose
+Connaître l’épidémiologie de l’ostéoporose.
+Connaître l’évolution naturelle de la masse osseuse.
+Connaître le remodelage osseux normal et sa variation dans l’ostéoporose.
+Connaître les moyens de diagnostic de l’ostéoporose et en particulier  l’ostéodensitométrie. 
+Connaître les complications de l’ostéoporose: fractures. 
+Connaître les bases du traitement de l’ostéoporose.
+Fonctions physiologiques de l’os
+Les types d’os
+Rappel 
+Structure osseuse
+Structure de l’os spongieux
+Structure de l’os cortical
+Une structure solide mais légère
+Comme les ailes d’un avion ou la charpente d’un bâtiment, les travées de l’os spongieux forment un réseau qui répartit les contraintes mécaniques, assurant à la fois la solidité de l’os et sa légèreté.
+INTRODUCTION
+Etymologie: os poreux.
+Définition : Maladie générale du squelette caractérisée par une masse osseuse basse et des altérations de la micro-architecture de l’os conduisant à une fragilité osseuse accrue responsable de fractures. « Conférence de consensus de Hong Kong 1993. »
+L ’ostéoporose est la plus fréquente des ostéopathies fragilisantes.
+Le risque majeur est la survenue de fractures dont la plus grave est la fracture de l’extrémité supérieur du fémur. 
+Ces fractures surviennent pour un traumatisme bénin.
+Il existe des ostéoporoses primitives et secondaires.
+
+
+Ostéopathies fragilisantes
+PHYSIOPATHOLOGIE
+L’os est renouvelé en continue: c’est le remodelage osseux.
+Deux types de cellules actives qui assurent ce remodelage  :
+Ostéoclastes qui assurent la résorption 
+Ostéoblastes qui assurent l’ostéo-formation	     
+  	         	 
+L’ostéoporose est dû à un découplage du remodelage: baisse de formation et excès de résorption, entrainant, une altération de la microarchitecture osseuse, une perte osseuse et donc une fragilité de l’os.
+A = Recrutement d’ostéoclastes dans l’unité de remodelage - B = Résorption osseuse et formation d’une lacune de résorption
+C = Formation d’une couche d’ostéoblastes dans la lacune de résorption- D = Formation d’un nouveau os par les ostéoblastes
+Remodelage osseux
+EPIDEMIOLOGIE
+Evolution de la masse osseuse au cours de la vie 
+L’ostéoporose concerne 30 à 40 % des femmes après la ménopause et son incidence augmente avec l’âge. 
+à  65 ans: 39 % des femmes sont ostéoporotiques. 
+à  80 ans: 70 % sont ostéoporotiques.
+
+Au Maroc: 
+La prévalence de l’ostéoporose au Maroc est de 35% au-delà de 50 ans.
+Incidence de la fracture du col fémoral au Maroc est de 48/100.000 habitants par an.
+Plusieurs facteurs influencent la survenue de l’ostéoporose:
+Génétiques : (hérédité, sexe, ethnie).
+Facteurs hormonaux: œstrogènes, vitamine D, PTH, cortisol, TSH…. 
+Facteurs environnementaux : alimentation (calcium, protéines) , activité physique, toxiques (alcool et tabac-corticoïdes).
+CIRCONTANCES DE DIAGNOSTIC
+A- PATHOLOGIE SILENCIEUSE AVANT LA SURVENUE DE LA COMPLICATION: LA FRACTURE.
+Au dépistage: recherche de l’ostéoporose (chez une femme ménopausée par exemple).
+Découverte d’une hyper-transparence osseuse à la Rx. 
+Fractures périphériques :
+-Fracture de Pouteau-colles.
+-Fracture de l’extrémité supérieur du fémur.
+-Autres : humérus, bassin, sacrum, cotes ……
+Découverte d’une fracture vertébrale:
+- Fortuite (radiographie faite pour une autre pathologie): FV asymptomatique.
+- Rachialgies aiguës en rapport avec une fracture vertébrale récente.
+2- EXAMEN PHYSIQUE :
+
+L’examen est normal avant la survenue de la fracture. 
+En cas de fracture vertébrale:
+diminution de la taille.
+rapprochement des côtes des crêtes iliaques
+Tardivement surviennent les troubles statiques : cyphose dorsale, hyperlordose lombaire, scoliose.
+Ailleurs, l’examen général est normal.
+A l’âge de 50 ans
+A l’âge de 75 ans
+Fractures ostéoporotiques.
+La fracture de hanche: événement grave
+40%
+Incapable de marcher
+sans aide
+30%
+Incapacité 
+permanente
+20%
+Mortalité
+ dans l’année
+80%
+Patients (%)
+Incapable de faire au moins une activité quotidienne sans aide
+1 an après une fracture de hanche
+DIAGNOSTIC POSITIF
+A - LES RADIOGRAPHIES STANDARD:
+ostéoporose sans fracture:
+La déminéralisation diffuse responsable d’une hyper transparence  osseuse. 
+La déminéralisation diffuse n’apparaît que lorsque la perte osseuse est  30%, d’où l’intérêt de l’ostéodensitométrie.
+Elle est surtout trabéculaire, prédominant au rachis sur les travées transversales donnant l’aspect de vertèbre peignée avec respect des corticales (liseré de deuil). 
+ostéoporose fracturaire:
+Fracture périphérique
+Fracture vertébrale: réduction de plus de 20% de la hauteur du corps vertébral. 			
+Minime : Enfoncement du plateau.
+Plus nette: Vertèbre biconcave ou cunéiforme.
+Importante : Aspect en galette.
+
+Classification des fractures vertébrales
+Méthode de Genant.
+B - OSTÉODENSITOMÉTRIE: 
+Mesure de la densité minérale osseuse (DMO).
+Sites de mesure: surtout rachis lombaire et hanche.
+Examen de REFRENCE pour le diagnostic précoce de l’OP avant la survenue de fracture.
+Résultats  exprimés en (g/cm 2) et rapportés à la valeur moyenne d ’une population (déviation standard).
+			
+T-score: Écart type entre la valeur du patient et la valeur moyenne des adultes jeunes âgés de 20 à 30 ans.
+Z-score: Écart entre la valeur du patient et la valeur moyenne de sujets normaux de même âge et de même sexe. 
+Définition ostéodensitométrique de l’ostéoporose ( OMS 1994).
+C - AUTRES EXPLORATIONS : 
+
+Biologique:
+
+Bilan inflammatoire et phospho-calcique : normaux
+
+Marqueurs de remodelage : Aucun intérêt en pratique courante
+
+Radiologique: (en cas de doute diagnostique devant un fracture pathologique, surtout vertébrale)
+
+IRM
+Scanner
+Scintigraphie
+
+		
+		
+DIAGNOSTIC DIFFERENTIEL
+Les radiographies standard et l’ostéodensitométrie  ne permettent pas de différentier l’ostéoporose des autres ostéopathies raréfiantes +++.
+L’analyse fine des radiographies prend une grande importance, en cas de fracture périphérique. 
+En cas de fracture vertébrale, il faut chercher les signes de bénignité:
+Pas de lacune ostéolytique
+Le corps vertébral fracturé reste homogène
+Le mur postérieur et l’arc postérieur restent intacts.
+Les parties molles sont normales
+Localisation jamais au-dessus de D4
+
+
+
+
+
+Fracture bénigne
+Fracture maligne
+(Recul du mur postérieur)
+DIAGNOSTIC DIFFERENTIEL
+Ostéopathies 
+fragilisantes
+DIAGNOSTIC – BILAN BIOLOGIQUE
+VS, CRP, NFS
+Calcémie / Calciurie 24h
+Phosphorémie
+EPP
+Fonction rénale
+Bilan hépatique
+
+
+
+Testostérone chez l’homme   
+25 OH Vit D
+PTH 1-84
+Dosage du cortisol 8H
+Hormones thyroïdiennes.
+1ère intention
+2ème intention
+L’ostéoporose est un diagnostic d’élimination
+DIAGNOSTIC – BILAN BIOLOGIQUE
+ETIOLOGIES DE L’OSTEOPOROSE
+Il existe 2 groupes d’ostéoporoses : 
+  Ostéoporoses primitives survenant de façon physiologique. L’OP primitive a été divisée par Riggs et Melton en deux 2 types :
+ Type I : de la femme en post-ménopause. C’est l’ostéoporose post-ménopausique de loin la plus fréquente. 
+ Type II: de l’homme et la femme très âgée. C’est l’ostéoporose sénile.
+ Ostéoporoses secondaires à un processus pathologique bien définit
+  
+OSTÉOPOROSES SECONDAIRES:
+
+
+A- Les endocrinopathies: 
+	1 - Hypercorticisme : 
+Endogène: maladie de Cushing
+Exogène: ostéoporose cortisonique +++
+	2 - L’insuffisance gonadique:
+Femme :
+Aménorrhée précoce, anorexie mentale. 
+Traitement antagoniste de la gonadotrophin releasing factor 
+Homme : 
+Enolisme +++
+Traitements anti-androgènes
+Hypoandrogénie: exemple hyperprolactinémie
+	3 - L ’hyperthyroïdie 							
+B- Origine toxique ou médicamenteuse : 
+Alcoolisme –Tabagisme
+Corticothérapie +++
+Fluor
+Anti-convulsivants - Héparine
+Chimiothérapie -antiaromatases. 
+C- Les maladies rhumatismales : 
+L’ostéoporose est multifactorielle dans la PR, SPA et autres.
+D- Hypercalciurie idiopathique :
+Homme jeune - parfois familiale 
+Augmentation de l’absorption intestinale du calcium
+Hypercalciurie 7,5 mmol/24 h.
+Ostéoporose précoce avec lithiases récidivantes.
+
+E- Causes rares:
+Mastocytose systémique 
+Maladies du collagène et du tissu élastique (Marfan, Ehlers-Danlos)
+Ostéogenèse imparfaite (Lobstein)
+Hépatopathies chroniques non alcooliques 
+Entérocolopathies 
+F - Cas particulier : 
+Ostéoporose de la grossesse
+Ostéoporose de l’enfant.
+A retenir
+Si l’ostéoporose (OP) est souvent post-ménopausique et primitive, elle peut parfois être multifactorielle.
+
+Quelques profils cliniques:
+Cas 1: femme de 58 ans ayant une OP post-ménopausique – Ostéodensitométrie (T score = -3,4) - Reste du bilan normal.
+
+Cas 2: femme de 62 ans ayant une OP post-ménopausique – suivie pour polyarthrite rhumatoïde et prenant les corticoïdes au long cours.
+
+Cas 3: femme de 44 ans, ménopause précoce, T score = -3,6 - bilan biologique en faveur d’un syndrome de malabsorption (maladie cœliaque de découverte fortuite).
+
+TRAITEMENT
+BUTS DES TRAITEMENTS:
+Prévention primaire: (avant la fracture)
+Optimiser le pic de masse osseuse à la fin de la croissance.
+Réduire la perte osseuse, surtout celle liée à la ménopause.
+Prévention secondaire:
+Prévenir la survenue d’autres fractures, après la première fracture.
+
+
+1 - OPTIMISATION DU PIC DE MASSE OSSEUSE
+A / La prévention de l’ostéoporose commence dès l’enfance 
+Apport calcique et en vitamine D suffisant 
+Apport adapté en protéines (matrice collagénique)
+Exercice physique chez l’enfant : les exercices en charge avec impact au sol .
+Eviter les toxiques: tabac, coca, glaces. 
+
+B / Chez la femme, après l’acquisition du pic de MO : 
+éviter tout ce qui pourrait accélérer la perte physiologique du capital osseux : 
+Traiter les aménorrhées secondaires
+Lutter contre la sédentarité et conseiller un exercice régulier en charge.
+Apport calcique suffisant (1000 mg/j) de préférence alimentaire.
+Apport optimal de vitamine D.
+Le tabac doit être évité.
+Eviter la prise non justifiée des corticoïdes. 
+2- PRÉVENIR LA PERTE OSSEUSE LIÉE À LA MÉNOPAUSE
+A / Les agents inhibant la résorption (anti-ostéoclastiques) : 
+THS
+Bisphosphonates
+SERM (selective estrogen receptor modulator)
+Dénosumab: anticorps monoclonal anti Rank ligand.
+Romosozumab: anticorps monoclonal anti sclérostine.
+B / Les agents stimulants la formation osseuse :
+L’hormone parathyroïdienne (tériparatide – PTH 1-34)
+Abaloparatide (PTH-rp).
+2- PRÉVENIR LA PERTE OSSEUSE LIÉE À LA MÉNOPAUSE
+A- Biphosphonates: 
+Respecter les modalités d’administration de ces médicaments +++
+Alendronate (Fosamax- Fosavance 5600): prise hebdomadaire per os. 	
+Risédronate (Actonel): prise hebdomadaire per os. 
+Zolédronate (Aclasta): prise annuelle en IV. 
+Ibandronate (Bonfix): prise mensuelle per os. 
+B- Dénosumab: anticorps monoclonal (Prolia) : prise semestrielle en sous cutané.  
+C - Traitement hormonal substitutif : 
+Jamais de première intention pour l’indication OP.
+Surveillance gynécologique régulière: frottis vaginal et mammographies. 
+Contre-indication  aux bisphosphonates +++
+D - Autres mesures: 
+Apport en Ca, vitamine D, traiter les facteurs de risques, éviter les chutes.
+Cette liste est limitée aux traitements commercialisés au Maroc.
+Les outils de prédiction du risque fracturaire
+Dépistage des sujets à risque de chutes
+Facteurs intrinsèques
+Age (plus de 80 ans)
+Antécédent de chute dans l'année précédente
+Troubles locomoteurs et neuromusculaires
+Diminution de la force musculaire
+Difficultés a la marche
+Troubles de l’équilibre
+Baisse de l’acuité visuelle
+Prise de psychotropes ou Poly médication
+Pathologies spécifiques
+Maladie de Parkinson
+Démences - Dépression
+Séquelles d’AVC
+Carence en vitamine D
+Facteurs extrinsèques
+Consommation d’alcool
+Sédentarité -  Malnutrition
+Facteurs environnementaux
+Habitat mal adapté (escaliers tapis)
+Utilisation ou non utilisation d’une aide à la marche
+Environnement public (trottoirs irréguliers, surfaces glissantes..)
+Mauvaise utilisation ou non utilisation d'une canne.
+Indications thérapeutiques:1- Diagnostic certain d’ostéoporose.2- On traite les patientes qui ont déjà eu une fracture, même avec un T-score ≥ -2,5: C’est la prévention secondaire (colonne 1 et 2).3- On traite les patientes qui n’ont pas de fractures si elles ont l’une des deux conditions suivantes: T score  - 3 ou en présence de facteurs de risque. C’est la prévention primaire (colonne 3).
+Indications thérapeutiques

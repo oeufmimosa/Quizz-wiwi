@@ -1,0 +1,695 @@
+ 
+ 
+ 
+                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Pr. B. ADMOU
+COURS D’IMMUNOPATHOLOGIE 
+4ème année MEDECINE
+2025-2026
+AUTO-IMMUNITE 
+&
+MALADIES AUTO-IMMUNES
+
+Auto-immunité (AI) = Réaction spécifique médiée par des Lymphocytes B et/ou T
+auto-réactifs dirigée contre des Ag du soi (auto-Ag)
+Conditions physiologiques : 
+ 
+Reconnaissance auto-Ag                      R° délétère tissus
+  
+ 
+ 
+     = AI naturelle ou physiologique
+Conditions pathologiques multifactorielles :
+ 
+Reconnaissance auto-Ag                      R° délétère tissus
+ 
+ 
+      = AI pathologique
+Intérêt :
+ 
+- Fréquence de maladies auto-immunes (MAI) +++
+ 
+- Auto-Ac = marqueurs diagnostiques
+ 
+- Progrès : diagnostic et traitement 
+INTRODUCTION-DEFINITION
+
+- Décrire les mécanismes de tolérance et de rupture de tolérance au soi
+- Reconnaître les facteurs favorisant l’auto-immunité
+- Distinguer les principales maladies auto-immunes et leur classification
+- Décrire les modalités d’exploration des maladies auto-immunes
+- Décrire les principes d’immunothérapie en auto-immunité
+ 
+Objectifs
+
+Introduction-définition
+I-/  Mécanismes de tolérance au soi
+1. Tolérance T
+2. Tolérance B
+II-/ Mécanismes de rupture de tolérance au soi
+1. Reconnaissance d’autoantigènes modifiés
+2. Activation des lymphocytes auto-réactifs anergiques
+3. Reconnaissance d’auto-Ag méconnus 
+4. Dérégulation du système immunitaire
+III-/ Phénomènes lésionnels d’auto-immunité
+1. Pathogénicité des auto-anticorps
+2. Pathogénicité des lymphocytes T auto-réactifs
+IV-/ Facteurs favorisant l’auto-immunité
+1. Prédisposition génétique
+2. Facteurs immunologiques
+3. Facteurs hormonaux
+4. Facteurs de l’environnement
+V-/ Maladies auto-immunes chez l’homme
+1. Maladies auto-immunes spécifiques d’organes
+2. Maladies auto-immunes spécifiques d’organes
+VI-/ Principe d’exploration des MAI
+1. Intérêt clinique des auto-anticorps
+2. Détection et identification des auto-anticorps
+ VII-/ Principes thérapeutiques des MAI
+ Conclusion
+PLAN
+
+Définition: 
+ Tolérance au soi = état de non réponse immunitaire à un antigène 
+ 
+ 
+Ensemble de mécanismes mis en jeu par le système immunitaire 
+   
+pour protéger le soi : 
+ 
+ 
+ 
+- par élimination des clones B et/ou T auto-réactifs 
+ 
+ 
+ 
+- ou inactivation des clones B et/ou T auto-réactifs
+      
+ 
+ 
+             Tolérance centrale 
+     Tolérance périphérique
+I- MECANISMES DE TOLERANCE AU SOI
+
+Mécanismes de tolérance des lymphocytes T et B 
+                          
+Tolérance
+Centrale 
+Périphérique 
+(Tolérance orale)
+Tolérance au soi
+dans la moelle pour LB auto-réactifs
+dans le thymus pour LT auto-réactifs
+Sélection négative
+Elimination des cellules matures reconnaissant des Ag 
+du soi dans les organes lymphoïdes secondaires
+Elimination des cellules immatures reconnaissant le soi dans 
+les organes lymphoïdes primaires
+Tolérance au soi
+Antigènes du non soi
++
+
+I-1/ Tolérance centrale T
+Figure : 
+Etape de maturation des 
+lymphocytes T au sein du thymus 
+Sélection négative des clones auto-
+réactifs (Délétion clonale ) 
+ayant une forte affinité/avidité V-à-
+V des Ag soi 
+ (présentés par les cellules dendritiques 
+de la région cortico-médullaire) 
+
+a-1/ Anergie par absence du signal de co-stimulation (CD80/86)
+a-2/ Anergie par inhibition de CD28 par CTLA4 (Cytotoxic T-Lymphocyte-Associated protein 4)
+- Absence de réponse spécifique à l’Ag (auto-Ag)
+- Réversible sous l’action de l’IL-2
+a./ Anergie
+I-2-/ Tolérance périphérique T
+Concerne les LT auto-réactifs ayant échappé à la délétion clonale thymique
+-
+Anergie
+-
+Suppression par  des LTreg
+-
+Apoptose par AICD (Activation Induced Cell Death)
+-
+Ignorance immunologique
+
+Cellules suppressives (Lymphocytes T régulateurs (T reg) produits au cours de la maturation thymique  
+ 
+     LT régulateurs = CD4+ CD25+/Foxp3+  
+ 
+          IL-10
+ 
+ 
+ 
+  
+ 
+                          TGF-β 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+                                                       Inhibition de IL-2
+ 
+ 
+ 
+ 
+        
+b-/ Immunosuppression
+
+- Activation induced cell death (AICD)
+ = mort cellulaire induite par activation / Ag persistant
+ 
+            contrôle de l’homéostasie des LT
+ 
+c-/ Délétion clonale périphérique
+
+Peptides non exprimés dans le thymus ou la MO: auto-Ag séquestrés ou insolubles 
+ 
+ 
+ 
+d-/ Ignorance immunologique
+Système nerveux central
+Chambre antérieure 
+de l’oeil
+Glande Testicule
+TT
+LT auto-réactifs 
+
+Récapitulatif des phénomènes de tolérance périphérique des lymphocytes T 
+
+a./ Délétion clonale (apoptose)
+Concerne les LB auto-réactifs            auto-Ag multivalents : Avidité +++ 
+ b./ Modification du BCR : ‘’Receptor editing’’
+ 
+  Disparition de l’auto-réactivité du LB
+- Centrale (MO) et périphérique  (Organes Lymphoïdes Secondaires)
+- Moins efficace que la tolérance T
+I-3-/ Tolérance B
+Le LB échappe à la délétion clonale 
+par effacement du BCR auto-réactif 
+
+Sélection négative des lymphocytes B dans la moelle osseuse 
+Les bases de l’immunologie fondamentale et clinique, 2nd Ed. 2005.
+
+II-1/  Reconnaissance d’auto-antigènes modifiés
+- Modification physico-chimique            nouveaux déterminants antigénique
+- Modification conformationnelle (structurale)
+ 
+Ex. Catabolite aldomet                Modification des Ag Rh des groupes sanguins
+ 
+ 
+ 
+  
+                                            auto-Ac anti-Rh 
+ 
+ 
+ 
+         
+ 
+ 
+ 
+    
+ 
+ 
+Auto-Ag modifié  
+ 
+                   Lyse du GR          
+ 
+ 
+ 
+ 
+ 
+ 
+II-/ MECANISMES DE RUPTURE DE LA TOLERANCE AU SOI
+GR
+Ag-Rh
+
+II-2/ Activation des cellules auto-réactives anergiques
+a- Mimétisme moléculaire
+Des Ag d’un agent infectieux (virus, bactéries, parasites) partagent des épitopes communs 
+avec des antigènes du soi, induisant des réactions croisées. 
+   Ex: - Diabète auto-immun : Virus Coxsakie B4
+         - RAA: R° croisées entre sérotypes du streptocoque et auto-Ag de l’endocarde
+b- Activation polyclonale 
+Stimulation non spécifique des lymphocytes auto-réactifs.
+Ex. - IFNα (Ttt HCV) : activation des LT (Thyroïdite AI chez 2-10% des patients s/ IFNα)
+      - IL-6 induit par l’infection à EBV : activation polyclonale des LB (Lupus)
+
+Figure: Mécanisme de l’Ophtalmie sympathique
+II-3/ Reconnaissance d’auto-antigènes ignorés
+- Auto-Ag dans des sites privilégiés 
+ 
+ 
+- Myéline du SNC
+ 
+ 
+-  Cellules gonadiques (testicule)
+ 
+ 
+-  Antigènes du cristallin : Chambre antérieure de l’œil
+ 
+ 
+
+II-4/ Dérégulation du système immunitaire
+Schéma de l’équilibre 
+cytokinique TH1/TH2
+- Perte de la fonction suppressive des LT régulateurs
+- Activation excessive des LT helper (cytokines)
+ 
+ 
+ 
+ 
+   
+   
+                                                     
+- Déséquilibre de la balance cytokinique TH1/TH2
+- Hyper réactivité des LB 
+Intrinsèque : IL-6 
+Extrinsèque: polyclonale / super-Ag, EBV,…
+
+III-/ MECANISMES LESIONNELS DES MALADIES AUTO-IMMUNES
+III-1/ Mécanismes lésionnels induits par des auto-anticorps
+- Cytotoxicité Ac dépendante : ADCC
+- Cytotoxicité complément- dépendante
+Cytopénies auto-immunes
+ Ex. - Anémie hémolytique auto-immune (AHAI)
+ 
+ 
+  - Thrombopénique auto-immune (TAI)
+Lyse GR-Pq-GB : médiée par FcγR/ Macrophages
+Lyse globules rouges / CAM: activation voie classique C’ 
+a-/ Cytotoxicité médiée par les anticorps ou le complément 
+
+- Au niveau des vaisseaux : 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+b-/ Formation et dépôt de complexes immuns circulants (CIC)
+Vascularites
+- Au niveau des glomérules rénaux : Lupus
+c-/ Anticorps anti-récepteurs
+Anticorps stimulants (agonistes)  
+Maladie de basedow
+Anticorps bloquants (antagonistes) 
+Myasthénie 
+
+Hypothèse :
+- S’agit-il de LT auxiliaires : stimulation de la production d’auto-Ac 
+Ou
+- de LT effecteurs 
+III-2/ Mécanismes lésionnels induits par des LT auto-réactifs
+Suggérés par :
+- Existence d’infiltrats cellulaires mononuclées dans les tissus malades 
+- Réponse à médiation cellulaire coexistant avec des auto-Ac
+Cytotoxicité CTL auto-réactifs 
+
+Déficit C1q, C4, C2 
+2. Facteurs immunologiques
+Rupture de Tolérance
+3. Facteurs hormonaux 
+(Sexe Féminin)
+HLA
+1. Polymorphisme génétique
+AIRE
+Phénomènes d’auto-
+immunité
+4. Facteurs environnementaux
+     Virus, Bactéries, toxiques, .. 
+Maladies auto-immunes
+IV-/ FACTEURS FAVORISANT L’AUTOIMMUNITE
+Auto-immunité = Origine multifactorielle
+PTPN22, FOXP3, PD-1
+CTLA-4, CD25, CD28
+
+    
+     =  
+ 
+ 
+   
+ 
+ =
+R° AI dirigée contre des auto-Ag  
+ 
+R° AI dirigée contre des auto-Ag
+  limités à un tissu ou un organe 
+      
+ 
+      de distribution ubiquitaire 
+ 
+ 
+V-/ CLASSIFICATION DES MALADIES AUTOIMMUNES (MAI)
+MAI spécifiques 
+    d’organe
+MAI = 2 catégories
+MAI non spécifiques 
+d’organe = systémiques
+
+Organe
+Maladie auto-immune
+Auto-Ac associés
+Estomac
+Gastrite AI,  Anémie de Biermer
+APCA, anti-FI
+Intestin
+Maladie cœliaque
+tTGA (TG2), EMA 
+Foie
+Hépatites AI, cholangéite biliaire Ive (CBP)
+Anti-ML (anti-actine), LKMI, LC1, SLA,  anti-M2 (anti-
+mitochondrie), …  
+Thyroïde
+Basedow, Thyroïdite de Hashimoto
+Anti-TPO, anti-TG, anti-RTSH
+Pancréas
+Diabète type I
+Anti-ilôts de Langerhans, anti-insuline, GAD65, 
+anti-IA2 (Islet Antigen 2)
+Peau
+Pemphigus, pemphigoïde bulleuse
+Anti-peau : anti-MBE, anti-SIC, anti-BP
+Surrénale
+Maladie d’Addison
+Anti-surrénale
+Muscle
+Myasthénie
+Anti-R-acétylcholine 
+Système nerveux
+Neuro-Myélite optique /NMO
+Spectre des MOGAD
+Neuropathies périphériques
+Ac anti-NMO (anti-Aquaporine4)
+Ac anti-MOG (Myelin oligodendrocyte glycoprotein) 
+Ac Anti-gangliosides, anti-MAG (Myelin Associated Glycoprotein), 
+V-1/ MAI spécifiques d’organe
+
+Maladies de système
+Auto-Ac associés
+Lupus érythémateux systémique (LES)
+AAN (anticorps anti-nucléaires), Anti-Sm, anti-DNA natif, anti-
+nucléosome
+Syndrome de Gougerot Sjögren
+AAN, Anti-SSA, anti-SSB
+Polyarthrite Rhumatoïde
+FR (facteur rhumatoïde), 
+anti-CCP (peptides cycliques citrullinés)
+AAN
+Sclérodermie systémique 
+AAN, ACA (anti-centromère), anti-Scl70,  
+anti-fibrillarin, anti-ARN polymérase,…
+Connectivite mixte/ Sd de Sharp
+AAN, Anti-RNP, anti-PM/Scl
+Myosites inflammatoires : Dermato/Polymyosite,…
+AAN, anti-synthétases (Jo1, PL7, PL12), anti-SRP, anti-MDA5,…
+Vascularites: 
+Granulomatose avec polyangéite (Wegener), 
+Chaurg et Strauss, polyangéite microscopique
+Sd de Goodpasture (syndrome pneumo-rénal)
+ANCA (anti-cytoplasme des polynucléaires neutrophiles), 
+Spécificité anti-PR3, anti-MPO
+Ac anti-MBG
+Syndrome des anti-phospholipides (SAPL)
+Ac anti-phospholipides (APL), 
+Anti-β2-GP1, aCL, LA (lupus anticoagulant)
+V-2/ MAI non spécifiques d’organe = Maladies de système 
+
+a-/ Spécificité
+Ex. Ac anti-Sm et anti-DNAnatif    
+         LES
+ 
+Ac anti-Scl70, ACA 
+ 
+Sclérodermie
+ 
+Ac anti-CCP 
+         Polyarthrite Rhumatoïde
+ 
+Ac anti-synthétases (Jo1, PL7, PL12, ….)                Myosites
+ 
+Ac anti-ilôts de Langerhans 
+        Diabète
+ 
+Ac anti-TPO, TG 
+      Thyroïdite
+ 
+Ac anti-PR3                 granulomateuse avec Polyangéite (ancien Wegener)
+ 
+ 
+ 
+ 
+b-/ Corrélation avec des formes cliniques
+       Ex.  ACA 
+      Sclérodermie limitée
+ 
+        Ac anti-Scl70, anti-ARN pol   
+     Sclérodermie diffuse 
+VI-/ PRINCIPE DE L’EXPLORATION DES MAI
+VI-1/ Intérêt clinique des auto-Ac
+Valeur pronostique 
+Valeur diagnostique +++
++/- suivi (DNAn, PR3)
+
+Etape 1: Dépistage par Immunofluorescence indirecte (IFI)
+Principe :
+VI-2/ Détection des auto-Ac
+Notions importantes pour la recherche d’AAN par IFI:  
+ 
+- Seuil de positivité (Age)
+ 
+- Intensité de la fluorescence = titre de l’AAN
+ 
+- Aspect de la Fluorescence (Oriente vers la spécificité de l’auto-Ac) 
+a-/ Recherche d’anticorps anti-nucléaires (AAN) 
+              2 étapes : dépistage + Identification
+Détection d’AAN sur substrat cellulaire à l’aide d’un conjugué fluoromarqué 
+
+Démarche diagnostique pour la recherche des AAN et leur signification clinique 
+
+- Techniques ELISA : 
+ Ag purifiés fixés sur un support solide révélés par un Anticorps conjugué à une enzyme 
+- Technique d’immunodot ou Immunoblot : 
+Transfert d’Ag sur bandelette de nitrocellulose + immuno-détection par Ac conjugué 
+- Technique de Chimiluminescence : 
+ Emission de lumière par excitation de particules magnétiques recouvertes d’auto-antigènes  
+- Technique de fluorométrie (Luminex, Immunocap) : 
+  Mesure de la fluorescence après interaction rayon laser et microsphères marquées par des Ag
+Etape 2 :  Identification par des méthodes spécifiques
+NB !!!: 
+-
+Le bilan immunologique (auto-Ac) est orienté par la suspicion clinique
+-
+La relevance clinique des auto-Ac dépend du titre et de l’âge du patient
+-
+Un auto-Ac seul ne signifie pas une MAI : critères diagnostiques !!
+-
+Un bilan d’auto-immunité négatif n’élimine pas une MAI 
+-
+Nécessité d’une collaboration étroite entre clinicien et biologiste   
+
+Corrections des désordres métaboliques et fonctionnels
+ 
+ 
+ 
+ 
+Ex. Insuline : diabète
+ 
+ 
+      Hormones thyroïdiennes : Hypothyroïdie
+ 
+  
+      Vitamine B12 : Anémie de Biermer
+ 
+ 
+      Inhibiteurs  cholinesthérasiques : Myasthénie
+ 
+ 
+ 
+                     Traitement symptomatique et non curatif 
+ 
+ 
+ 
+VII-/ PRINCIPES THERAPEUTIQUES DES MAI
+VII-1/ MAI spécifiques d’organes
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VII-2/ MAI systémiques
+a- Traitement immunosuppresseur
+b- Immunothérapie visant les auto-anticorps
+Y
+I
+I
+Fab
+Fab
+Fc  
+- Corticothérapie : anti-inflammatoires stéroïdiens
+- Immunosuppresseurs : Méthotrexate, Azathioprine, ….
+Immunoglobulines intraveineuses : Ig IV (ou s/ cutanée)
+Fab : Fixation Ag, Idiotypie
+Fc : - Cytophilie
+- Fixation complément
+- Catabolisme
+- Passage trans-placentaire
+
+Y
+Y
+Y
+Y
+- Actions médiées par le fragment Fc  
+Y
+Y
+Cellule cible
+Ag
+Ac
+Y
+Y
+Y
+Y
+Y
+Fixation des protéines du C ’
+ protection organes cibles des auto-AC
+ 
+ ex: Dermatomyosite
+Saturation des FcγR des MΦ
+  ex: cytopénies auto-immunes: 
+ 
+TAI , AHAI
+C’
+MΦ
+GR,Pq
+b-/ Modes d’action du traitement par des Ig
+
+Action anti-idiotype Fab 
+ neutralisation des autoAc pathogènes
+Y
+FVIII 
+Y
+autoAc 
+Ac anti-anti-idiotype
+Y
+FVIII 
+Y Y
+- Actions médiées par le fragment Fab
+- Actions médiées par les fragments Fc et Fab
+ down régulation des IL1, IL6, TNF
+ 
+ 
+ex: Kawasaki, PR 
+ 
+ 
+ 
+ 
+Y
+Y
+Y
+Y
+Modulation des cytokines 
+pro-inflammatoires (Fc+Fab) 
+ 
+ ex auto-Ac anti-FVIII 
+
+- Modulation de l’inflammation 
+- Anergie des LT auto-réactifs
+- Modulation du profil cytokinique
+- Induction de la tolérance / Treg 
+Stratégies
+- Anticorps monoclonaux anti-Cytokines (inflammation) : anti-TNF⍺, anti-IL6, anti-IL17, …
+- Agonistes du CTLA4 (antagoniste du CD28)   
+ 
+Ex. Abatacept (Orencia), bélatacept (Nulojix) 
+               = Protéines de fusion qui miment l'action de CTLA-4 en se liant à CD80/CD86 
+- Anti-IL2 (ou IL2 à faibles doses) : induction de la tolérance via les  L Treg  
+ 
+ex. Basiliximab (Simulect) : AMC humanisé qui bloque la s/-unité ⍺ du IL-2R (CD25), empêchant la prolifération des 
+lymphocytes T activés.
+             Ciclosporine, tacrolimus (anti-calcineurine) : mécanisme apparenté en diminuant la synthèse d'IL-2 par lesLT 
+- Vaccination thérapeutique par des peptides CDR3 des chaînes α et β des clones auto-Réactifs pour induire une 
+réponse TCD8+ anti-idiotypique du TCR  auto-réactif
+VII-3/ Immuno-intervention sur les clones auto-réactifs
+Buts 
+
+- La connaissance des mécanismes de la rupture de tolérance au soi
+  permet de comprendre les mécanismes lésionnels des MAI
+- La classification des MAI = basée sur la localisation de la cible (s) antigénique
+- Le diagnostic des MAI = d’abord clinique 
+ 
+- Auto-anticorps = intérêt diagnostique considérable
+- Immunothérapie par Ig injectables = indication validée pour beaucoup de MAI
+- Nouvelles approches immunothérapiques =  intervention sur les LT auto-réactifs
+Conclusion
+

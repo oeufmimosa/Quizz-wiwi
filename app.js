@@ -252,7 +252,6 @@ function finishQuiz() {
 
 // ─── Results ───
 function showResults() {
-  const total = state.questions.length;
   const answeredWithCorrection = state.questions.filter(q => q.reponses.length > 0).length;
   const pct = answeredWithCorrection > 0 ? Math.round((state.score / answeredWithCorrection) * 100) : 0;
 
@@ -304,6 +303,7 @@ function showResults() {
       <div class="review-enonce">${q.enonce}</div>
       <div class="review-options">${optionsHtml}</div>
       ${hasCorrection ? `<div class="review-answer">Réponse${correctAnswers.size > 1 ? 's' : ''} : ${q.reponses.join(', ')}</div>` : '<div class="review-answer no-correction">Pas de correction disponible</div>'}
+      ${q.cours_extrait ? `<details class="review-cours-details"><summary class="review-cours-toggle">Voir l'extrait du cours</summary><div class="review-cours">${q.cours_extrait}</div></details>` : ''}
     `;
     reviewContainer.appendChild(div);
   }

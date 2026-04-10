@@ -1,0 +1,436 @@
+[
+  {
+    "id": 1,
+    "file": "Anatomie pathologie II et III.pdf",
+    "path": ".",
+    "txt": "cours_001.txt",
+    "chars": 8
+  },
+  {
+    "id": 2,
+    "file": "Immuno- Pathologie et G‚n‚tique m‚dicale.pdf",
+    "path": ".",
+    "txt": "cours_002.txt",
+    "chars": 10
+  },
+  {
+    "id": 3,
+    "file": "Maladies de l'appareil locomoteur.pdf",
+    "path": ".",
+    "txt": "cours_003.txt",
+    "chars": 10
+  },
+  {
+    "id": 4,
+    "file": "Chapitre 2 - Tumeurs Prostatiques.pdf",
+    "path": "ANATOMIE PATHOLOGIQUE II\\PR BELBACHIR",
+    "txt": "cours_004.txt",
+    "chars": 12325
+  },
+  {
+    "id": 5,
+    "file": "Chapitre 4 - Tumeurs du testicule.pdf",
+    "path": "ANATOMIE PATHOLOGIQUE II\\PR BELBACHIR",
+    "txt": "cours_005.txt",
+    "chars": 16083
+  },
+  {
+    "id": 6,
+    "file": "LES TUMEURS DE L_OESOPHAGE ET E L_ESTOMAC.pptx",
+    "path": "ANATOMIE PATHOLOGIQUE II\\PR BELBACHIR",
+    "txt": "cours_006.txt",
+    "chars": 22375
+  },
+  {
+    "id": 7,
+    "file": "METH ETUDE LESIONS ELEM GG.pptx",
+    "path": "ANATOMIE PATHOLOGIQUE II\\PR BELBACHIR",
+    "txt": "cours_007.txt",
+    "chars": 11009
+  },
+  {
+    "id": 8,
+    "file": "1 cancer du sein 4eme annee Pr Rais 2026 anatomie pathologique cours complet.pptx",
+    "path": "ANATOMIE PATHOLOGIQUE II\\PR RAIS",
+    "txt": "cours_008.txt",
+    "chars": 27046
+  },
+  {
+    "id": 9,
+    "file": "2 mastopathies benignes final 2025 4EME ANNEE Pr rais anatomie pathologique.pptx",
+    "path": "ANATOMIE PATHOLOGIQUE II\\PR RAIS",
+    "txt": "cours_009.txt",
+    "chars": 7889
+  },
+  {
+    "id": 10,
+    "file": "3  TUMEURS DE L’OVAIRE 2026 Pr Rais anatomie pathologique 4eme annee.pptx",
+    "path": "ANATOMIE PATHOLOGIQUE II\\PR RAIS",
+    "txt": "cours_010.txt",
+    "chars": 12105
+  },
+  {
+    "id": 11,
+    "file": "6 tumeurs hépatiques Pr RAIS anatomie pathologique 4eme annee 2025.pptx",
+    "path": "ANATOMIE PATHOLOGIQUE II\\PR RAIS",
+    "txt": "cours_011.txt",
+    "chars": 12348
+  },
+  {
+    "id": 12,
+    "file": "8 lymphome d_hodgkin Pr Rais anatomie pathologique 4eme annee.pptx",
+    "path": "ANATOMIE PATHOLOGIQUE II\\PR RAIS",
+    "txt": "cours_012.txt",
+    "chars": 9235
+  },
+  {
+    "id": 13,
+    "file": "AI & MAI UPM 2026 .pdf",
+    "path": "IMMUNO - GÉNÉTIQUE - MÉDECINE INTERNE\\IMMUNOLOGIE",
+    "txt": "cours_013.txt",
+    "chars": 15566
+  },
+  {
+    "id": 14,
+    "file": "DEFICITS IMMUNITAIRES UPM 2026 SP.pdf",
+    "path": "IMMUNO - GÉNÉTIQUE - MÉDECINE INTERNE\\IMMUNOLOGIE",
+    "txt": "cours_014.txt",
+    "chars": 9651
+  },
+  {
+    "id": 15,
+    "file": "HYPERSENSIBILITE IMMEDIATE & ALLERGIE 2026  UPM SP.pdf",
+    "path": "IMMUNO - GÉNÉTIQUE - MÉDECINE INTERNE\\IMMUNOLOGIE",
+    "txt": "cours_015.txt",
+    "chars": 13528
+  },
+  {
+    "id": 16,
+    "file": "IMMUNITE ANTI-INFECTIEUSE UPM 2026 .pdf",
+    "path": "IMMUNO - GÉNÉTIQUE - MÉDECINE INTERNE\\IMMUNOLOGIE",
+    "txt": "cours_016.txt",
+    "chars": 14660
+  },
+  {
+    "id": 17,
+    "file": "LES HYPERSENSIBILITES TYPES II, III & IV 2026 UPM.pdf",
+    "path": "IMMUNO - GÉNÉTIQUE - MÉDECINE INTERNE\\IMMUNOLOGIE",
+    "txt": "cours_017.txt",
+    "chars": 19058
+  },
+  {
+    "id": 18,
+    "file": "VACCINATION- MED4 UPM 2026.pdf",
+    "path": "IMMUNO - GÉNÉTIQUE - MÉDECINE INTERNE\\IMMUNOLOGIE",
+    "txt": "cours_018.txt",
+    "chars": 17271
+  },
+  {
+    "id": 19,
+    "file": "Chapitre 1 - Lupus érythémateux systémique.pdf",
+    "path": "IMMUNO - GÉNÉTIQUE - MÉDECINE INTERNE\\MÉDECINE INTERNE",
+    "txt": "cours_019.txt",
+    "chars": 15272
+  },
+  {
+    "id": 20,
+    "file": "Chapitre 3 - Sclérodermie.pdf",
+    "path": "IMMUNO - GÉNÉTIQUE - MÉDECINE INTERNE\\MÉDECINE INTERNE",
+    "txt": "cours_020.txt",
+    "chars": 11605
+  },
+  {
+    "id": 21,
+    "file": "POLYMYOSITE ET DERMATOMYOSITE.pptx",
+    "path": "IMMUNO - GÉNÉTIQUE - MÉDECINE INTERNE\\MÉDECINE INTERNE",
+    "txt": "cours_021.txt",
+    "chars": 7369
+  },
+  {
+    "id": 22,
+    "file": "Syndrome de Gougerot-SjÃ¶gren (1).pptx",
+    "path": "IMMUNO - GÉNÉTIQUE - MÉDECINE INTERNE\\MÉDECINE INTERNE",
+    "txt": "cours_022.txt",
+    "chars": 11788
+  },
+  {
+    "id": 23,
+    "file": "Syndrome primaire des antiphospholipides.pptx",
+    "path": "IMMUNO - GÉNÉTIQUE - MÉDECINE INTERNE\\MÉDECINE INTERNE",
+    "txt": "cours_023.txt",
+    "chars": 5033
+  },
+  {
+    "id": 24,
+    "file": "Chapitre 1 - Généralité et évolution du handicap.pdf",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\MÉDECINE PHYSIQUE ET RÉADAPTATION\\PR ABDELFATTAH",
+    "txt": "cours_024.txt",
+    "chars": 19072
+  },
+  {
+    "id": 25,
+    "file": "Chapitre 2 - Principaux intervenants et techniques de rééducation et de réadaptation.pdf",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\MÉDECINE PHYSIQUE ET RÉADAPTATION\\PR ABDELFATTAH",
+    "txt": "cours_025.txt",
+    "chars": 15484
+  },
+  {
+    "id": 26,
+    "file": "Chapitre 3 - Appareillages et technologies pour la rééducation et la réadaptation.pdf",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\MÉDECINE PHYSIQUE ET RÉADAPTATION\\PR ABDELFATTAH",
+    "txt": "cours_026.txt",
+    "chars": 19362
+  },
+  {
+    "id": 27,
+    "file": "Chapitre 4 -  MPR et affections de l’appareil locomoteur.pdf",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\MÉDECINE PHYSIQUE ET RÉADAPTATION\\PR ABDELFATTAH",
+    "txt": "cours_027.txt",
+    "chars": 16910
+  },
+  {
+    "id": 28,
+    "file": "Chapitre 5 - Activité physique et sport.pdf",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\MÉDECINE PHYSIQUE ET RÉADAPTATION\\PR ABDELFATTAH",
+    "txt": "cours_028.txt",
+    "chars": 20674
+  },
+  {
+    "id": 29,
+    "file": "Chapitre 6 - Trouble de la marche.pdf",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\MÉDECINE PHYSIQUE ET RÉADAPTATION\\PR ABDELFATTAH",
+    "txt": "cours_029.txt",
+    "chars": 12744
+  },
+  {
+    "id": 30,
+    "file": "Chapitre 7 - La MPR et les affections neurologiques.pdf",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\MÉDECINE PHYSIQUE ET RÉADAPTATION\\PR ABDELFATTAH",
+    "txt": "cours_030.txt",
+    "chars": 13070
+  },
+  {
+    "id": 31,
+    "file": "Arthrose UPM 2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR EL HASSANI",
+    "txt": "cours_031.txt",
+    "chars": 10704
+  },
+  {
+    "id": 32,
+    "file": "PR UPM 2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR EL HASSANI",
+    "txt": "cours_032.txt",
+    "chars": 20641
+  },
+  {
+    "id": 33,
+    "file": "Radiculalgies 2026.pdf",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR EL HASSANI",
+    "txt": "cours_033.txt",
+    "chars": 12458
+  },
+  {
+    "id": 34,
+    "file": "SPA UPM 2025.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR EL HASSANI",
+    "txt": "cours_034.txt",
+    "chars": 18134
+  },
+  {
+    "id": 35,
+    "file": "Algoneurodystrophie 2025-2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR NIAMANE",
+    "txt": "cours_035.txt",
+    "chars": 8507
+  },
+  {
+    "id": 36,
+    "file": "Epaule douloureuse 2025-2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR NIAMANE",
+    "txt": "cours_036.txt",
+    "chars": 8282
+  },
+  {
+    "id": 37,
+    "file": "Goutte 2025-2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR NIAMANE",
+    "txt": "cours_037.txt",
+    "chars": 12901
+  },
+  {
+    "id": 38,
+    "file": "Hypercalcémie 2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR NIAMANE",
+    "txt": "cours_038.txt",
+    "chars": 9209
+  },
+  {
+    "id": 39,
+    "file": "Introduction 2025-2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR NIAMANE",
+    "txt": "cours_039.txt",
+    "chars": 17549
+  },
+  {
+    "id": 40,
+    "file": "Monoarthrite 2025-2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR NIAMANE",
+    "txt": "cours_040.txt",
+    "chars": 12806
+  },
+  {
+    "id": 41,
+    "file": "Ostéomalacie 2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR NIAMANE",
+    "txt": "cours_041.txt",
+    "chars": 6993
+  },
+  {
+    "id": 42,
+    "file": "Ostéoporose.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR NIAMANE",
+    "txt": "cours_042.txt",
+    "chars": 12204
+  },
+  {
+    "id": 43,
+    "file": "QCM Algodystrophie.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR NIAMANE",
+    "txt": "cours_043.txt",
+    "chars": 2766
+  },
+  {
+    "id": 44,
+    "file": "QCM Douleur de l’épaule et hanche.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR NIAMANE",
+    "txt": "cours_044.txt",
+    "chars": 7894
+  },
+  {
+    "id": 45,
+    "file": "RIC_debutant_2025_2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR NIAMANE",
+    "txt": "cours_045.txt",
+    "chars": 7418
+  },
+  {
+    "id": 46,
+    "file": "Tuberculose OA 2025-2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\RHUMATOLOGIE\\PR NIAMANE",
+    "txt": "cours_046.txt",
+    "chars": 6751
+  },
+  {
+    "id": 47,
+    "file": "10 - Fractures de la main_compressed.pdf",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR EL HAOURY",
+    "txt": "cours_047.txt",
+    "chars": 11112
+  },
+  {
+    "id": 48,
+    "file": "cours 4 année  UPM Les TNP 2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR EL HAOURY",
+    "txt": "cours_048.txt",
+    "chars": 10949
+  },
+  {
+    "id": 49,
+    "file": "cours 4année traumatisme du coude upm 2.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR EL HAOURY",
+    "txt": "cours_049.txt",
+    "chars": 11587
+  },
+  {
+    "id": 50,
+    "file": "cours 4année traumatisme du coude upm.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR EL HAOURY",
+    "txt": "cours_050.txt",
+    "chars": 4965
+  },
+  {
+    "id": 51,
+    "file": "cours 4ème année plaies de la main UPM 2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR EL HAOURY",
+    "txt": "cours_051.txt",
+    "chars": 7937
+  },
+  {
+    "id": 52,
+    "file": "cours 4ème année traumatismes vasculaires des membres UPM 2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR EL HAOURY",
+    "txt": "cours_052.txt",
+    "chars": 5857
+  },
+  {
+    "id": 53,
+    "file": "cours UPM tr epaule 2026 .pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR EL HAOURY",
+    "txt": "cours_053.txt",
+    "chars": 11124
+  },
+  {
+    "id": 54,
+    "file": "cours upm sd de loge.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR EL HAOURY",
+    "txt": "cours_054.txt",
+    "chars": 5834
+  },
+  {
+    "id": 55,
+    "file": "les fractures des os du carpe UPM 2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR EL HAOURY",
+    "txt": "cours_055.txt",
+    "chars": 2786
+  },
+  {
+    "id": 56,
+    "file": "les fractures diaphysaires dres eux os de l_avant bras UPM 2026 2.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR EL HAOURY",
+    "txt": "cours_056.txt",
+    "chars": 3545
+  },
+  {
+    "id": 57,
+    "file": "les fractures diaphysaires du membre superieur UPM 2026.pdf",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR EL HAOURY",
+    "txt": "cours_057.txt",
+    "chars": 3136
+  },
+  {
+    "id": 58,
+    "file": "les fractures duradius distal UPM 2026.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR EL HAOURY",
+    "txt": "cours_058.txt",
+    "chars": 4672
+  },
+  {
+    "id": 59,
+    "file": "les infectioms de la main cours UPM 2026.pdf",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR EL HAOURY",
+    "txt": "cours_059.txt",
+    "chars": 4833
+  },
+  {
+    "id": 60,
+    "file": "Fractures de la jambe.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR KOULALI",
+    "txt": "cours_060.txt",
+    "chars": 10466
+  },
+  {
+    "id": 61,
+    "file": "LES FRACTURES DE LA DIAPHYSE FEMORALE.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR KOULALI",
+    "txt": "cours_061.txt",
+    "chars": 8700
+  },
+  {
+    "id": 62,
+    "file": "Les fractures du bassin.pptx",
+    "path": "MALADIES DE L’APPAREIL LOCOMOTEUR\\TRAUMATOLOGIE\\PR KOULALI",
+    "txt": "cours_062.txt",
+    "chars": 8937
+  }
+]

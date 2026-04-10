@@ -1,0 +1,645 @@
+ 
+ 
+ 
+                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pr. B. ADMOU
+COURS D’IMMUNOPATHOLOGIE 
+4ème année - MEDECINE
+2025-2026
+LES HYPERSENSIBILITES TYPES II, III & IV  
+
+Objectifs
+1. Définir les hypersensibilités de type II, III et IV
+2. Différencier les acteurs des 3 types d’hypersensibilités
+3. Décrire le mécanisme immunopathologique des 3 types d’hypersensibilité 
+4. Distinguer les maladies associées aux 3 types d’hypersensibilités
+5. Décrire les modalités d’exploration des 3 types d’hypersensibilités
+ 
+
+CLASSIFICATION DE GELL & COOMBS MODIFIEE
+J-F. Nicolas et al. Hypersensibilité aux médicaments. La revue du praticien. 2015 
+ 
+ 
+
+I-/ DEFINITION
+- Réaction spécifique médiée par des anticorps IgG et/ou IgM dirigés contre un Ag fixé à la 
+surface d’une cellule ((Hématies, Plaquettes, PNN) ou d’un tissu 
+- Lyse cellulaire par cytotoxicité médiée par les anticorps (± système du complément)
+- Manifestations cliniques: 5 à 8 Heures après le contact avec l’Ag
+A-/ HYPERSENSIBILITE DE TYPE II OU CYTOTOXIQUE
+ 
+ 
+
+II-/ EFFECTEURS
+Anticorps :
+- IgG, IgM
+Complément :
+- Activation par les complexes immuns formés à la surface des cellules
+- CAM : complexe d’attaque membranaire
+- Opsonines (C3b++, C4b, C3bi) : favorise la phagocytose par les MΦ et les PNN
+- Anaphylatoxines (C3a, C5a, C4a) : chimiotactisme des phagocytes
+ 
+Cellules :
+- Monoc-MΦ    :  RFcγ, RFcμ, CR1, CR3
+- PNN 
+          : CR1, CR3, RFcγ, RFcμ, dérivés actifs d’O2, Enzymes lysosomiales  
+- Cellules NK   : RFcγ, Perforine, granzymes 
+ 
+ 
+
+- Recrutement des phagocytes : anaphylatoxines (C3a, C5a, C4a) et cytophilie (FcyR)
+- Phagocytose et Lyse cellulaire Ac-dépendante (ADCC) : PNN, Mn/MΦ
+- Lyse cellulaire par les NK par libération de molécules cytotoxiques (perforine, granzymes)
+- Opsonisation par le complément : C3b, C4b, C3bi
+- Lyse cellulaire par le CAM = Cytotoxicité-complément dépendante (CDCC)
+III-/ MECANISMES LESIONNELS
+
+•  Anticorps d’isotype IgM et IgG, 
+• Opsonisation des cellules par les Ac 
+et le C’ (C3b, C4b)
+• Phagocytose par les macrophages
+Phénomène d’opsonisation (Ac et C’)
+de phagocytose des cellules cibles
+Cytotoxicité complément-dépendante 
+(CDCC)
+Activation de la voie classique, 
+formation du complexe 
+d’attaque membranaire (C5b-9) 
+et destruction de la cellule cible
+Phénomène d’ADCC par les cellules NK
+Les cellules NK reconnaissent des 
+cellules cibles recouvertes d'IgG et 
+les détruisent par cytolyse directe 
+Figures: Mécanismes de destruction des cellules cibles par hypersensibilité cytotoxique 
+
+HS type II et pathologies associées 
+- Allo-immunisation post-transfusionnelle
+- Maladie hémolytique du nouveau-né (incompatibilité fœto-maternelle Rhésus)
+- Anémie hémolytique auto-immune
+- Thrombopénie auto-immune 
+- Neutropénie auto-immune 
+- Cytopénie d’origine médicamenteuse
+- Maladie de Basedow
+- Myasthénie
+- Dermatoses bulleuses auto-immunes 
+- Syndrome de Goodpasture
+
+Mécanisme de l’incompatibilité fœto-maternelle dans le système Rhésus 
+Prophylaxie anti-
+Rhésus (anti-D)
+Administrée 
+immédiatement 
+après le 1er 
+accouchement  
+Lyse des GR-Rh+ 
+empêchant 
+l’immunisation 
+anti-Rhésus
+Mère Rh-
+Fœtus Rh+
+
+Hypersensibilité type II médicamenteuse 
+✓
+Le médicament se lie aux protéines de la 
+membrane cellulaire, puis un anticorps anti-
+médicament (IgM ou IgG) se lie au complexe 
+médicament-membrane cellulaire, ce qui entraîne 
+l'activation du complément et la lyse de la 
+membrane cellulaire. 
+✓
+L'IgG peut se lier au FcγR sur les Mφ et les NEU, ce 
+qui active la phagocytose, la production de ROS et 
+d'enzymes. 
+✓
+L'IgG peut également se lier au FcγR sur les EOS et 
+provoquer la libération de MBP ou de ROS.
+✓
+Les complexes antigène-anticorps-activent la voie 
+classique 
+du 
+complément 
+aboutissant 
+à  
+destruction de la cellule cible via le CAM
+EOS, eosinophil; FcγR, Fc fragment gamma receptor; MAC, membrane- attack complex; Mφ, macrophage; 
+MBP, major basic protein; NEU, neutrophil; NK, natural killer cell; ROS, reactive oxygen species. 
+M. Jutel et al. Nomenclature of allergic diseases and hypersensitivity reactions: 
+Adapted to modern needs: An EAACI position paper. Allergy. 2023 
+
+- Immunisation provoquée par un médicament (ou son métabolite)
+- L’anticorps induit la destruction de la cellule sanguine préalablement sensibilisée par un médicament
+Mécanismes possibles:
+- Formation d’anticorps anti-médicament (ou anti-haptène), fixé par liaison covalente sur la membrane 
+d’une cellule sanguine
+- Complexe immun circulant (Médicament-Ac) se forme dans la circulation puis se fixe sur la cellule sanguine 
+- Auto-Anticorps : dirigés contre un néo-Ag apparu sur la cellule suite à une interférence  médicamenteuse. 
+Cytopénies médicamenteuses
+Exemples (voir tableau) : 
+– Antithyroïdiens de synthèse (néo-mercazole) : Neutropénie
+– AINS : Neutropénie
+– Anti-bacillaires : Thrombopénie
+– α-méthyldopa (aldomet) : AHAI
+
+Exemples de cytopénies médicamenteuses selon le mécanisme
+
+V-/ Exploration
+Figure:  Principe du test de Coombs direct
+3. Recherche d’Ac anti-membrane basale glomérulaire (Sd Goodpasture)
+1- Test de Coombs Direct 
+Recherche d’Ig ou de C3 fixé sur le GR d’un patient à l’aide d’un test d’agglutination (figure)
+2. Test de Coombs Indirect
+Recherche d’Ig anti-GR au niveau du sérum du patient
+4. Recherche d’Ac anti-Récepteurs (R-TSH, R-Acetylcholine) 
+ 
+Pas d’agglutination
+Anti-Ig
+Agglutination 
++
+
+CLASSIFICATION DE GELL & COOMBS MODIFIEE
+J-F. Nicolas et al. Hypersensibilité aux médicaments. La revue du praticien. 2015 
+ 
+ 
+
+I-/ DEFINITION 
+- Réaction de précipitation de complexes immuns (CI) sur la parois des vaisseaux  
+ ou sur des membranes basales tissulaires :
+•
+CI formés au site d’entrée de l’Ag: réaction localisée
+•
+CI circulants se déposent dans divers sites = R° généralisée
+REACTION D’HS DE TYPE III
+- Délai d’apparition des manifestations cliniques : 2-8 heures
+- Peut survenir lors du premier contact avec l’Ag, 
+
+II-/ ACTEURS
+- CI : complexes immuns 
+- PNN, PNB, Plaquettes
+- Complément (C3a, C5a, C4a) 
+- Facteurs de coagulation
+ A-/ Facteurs déclenchant
+    Infections persistantes +++ 
+     Antigènes issus d’agents infectieux non contrôlés par la réponse immunitaire ou
+     par le traitement ATB ou autre
+ 
+ 
+ 
+  
+ 
+III-/ MECANISME IMMUNOPATHOGIQUE
+
+Robbins. Pathologic Basis of Disease 6th Edition 
+B-/ Mécanismes lésionnels
+
+HS de type III 
+à CI circulants
+HS de type III 
+à CI formés in situ (localisé) 
+HS de type III
+
+• Alvéolite allergique extrinsèque 
+• Poumons des éleveurs d'oiseaux
+• Maladie des éleveurs de pigeons: poussière de fiente séchée 
+• Poumon de fermier: poussière de foin moisi: actinomyces
+• Maladie des manipulateurs de rats: protéines éliminées dans l’urine
+• Maladie des laveurs de fromages: spores de penicillum casei
+• Maladie des fourreurs: protéines de la fourrure de renard
+• Maladie des écorceurs d’érable: spores de cryptostroma
+Alvéolites allergiques : antigènes inhalés 
+Hypersensibilité de type III localisée et pathologies associées  
+
+A- HS de type III par CI formés in situ (phénomène d’Arthus)
+L'exposition professionnelle à la poussière, aux moisissures et à d'autres allergènes peut entraîner une 
+pneumopathie d’hypersensibilité localisée, par formation de précipitines 
+Ex. Poumons des éleveurs d'oiseaux.
+Pneumopathies d’hypersensibilité 
+
+Membrane basale glomérulaire 
+Podocytes
+Epithélium 
+Espace urinaire
+Immuns 
+complexes
+Endothélium
+Polynucléaire 
+neutrophile
+Figure: Mécanisme de migration des CI à travers la membrane basale glomérulaire 
+et leur dépôt au niveau des néphrons (glomérulonéphrite) 
+B- HS de type III par CI circulants
+
+Néphropathie lupique avec dépôts de CIC (anti-DNAn)
+
+Cas de LES avec dépôts cutanés des CIC
+
+✓
+Manifestations systémiques : Fièvre - Eruption cutanée – Adénopathies – Arthrite – Glomérulonéphrite - Neuropathie,…
+✓
+Evolution favorable qq jours après arrêt du TTT 
+Médicaments et Maladie sérique (vascularite à CI circulants)
+D’après M. Jutel et al. Nomenclature of allergic diseases and hypersensitivity 
+reactions: Adapted to modern needs: An EAACI position paper. Allergy. 2023 
+(Biothérapies, sérums hétérologues, certains vaccins) 
+✓
+Dépôt de CI au niveau : vaisseaux 
+sanguins, synoviale articulaire, glomérules 
+rénaux et alvéoles pulmonaires
+✓
+Activation du système du complément, 
+qui augmente la perméabilité vasculaire, 
+avec recrutement de NEU et MO 
+✓
+La libération d'enzymes et de ROS (NEU) 
+et de médiateurs (BASO et MC) par le 
+biais de C5a/C5aR provoque une 
+inflammation
+✓
+Installation d’une nécrose fibrinoïde 
+locale, une thrombose et une vascularite. 
+
+EXPLORATION
+A-/ Dosage de CI circulants (précipitines)
+-
+Pathologies respiratoires à CI (alvéolites)
+-
+Intérêt diagnostique relativement limité
+-
+Techniques de dosage difficiles 
+B-/ Mise en évidence de CI fixés sur des tissus
+Immuno-histochimie: technique d’immunofluorescence directe (IFD) sur biopsie tissulaire. 
+ 
+ 
+ 
+    - Déterminer le site de dépôt des CI 
+ 
+ 
+ 
+ 
+    
+   - Identifier le type d’Ig ou de C’ fixé
+IFD
+= Ag tissulaire (Ig ou C’) 
+Fluorochrome
+Ac
+Tissu (ex. rein, peau)
+: immun-sérum anti-IgG, anti-IgM, anti-C1q, anti-C3
+
+CLASSIFICATION DE GELL & COOMBS MODIFIEE
+J-F. Nicolas et al. Hypersensibilité aux médicaments. La revue du praticien. 2015 
+
+HYPERSENSIBILITE RETARDEE (Type IV)
+•
+Réponse immunitaire exagérée ou excessive, mécanismes lésionnels médiés par des acteurs de l’immunité cellulaire.
+•
+Installation des lésions 24 à 72 heures après contact avec le même antigène à l’origine de la sensibilisation 
+•
+Développement en 2 étapes:
+–
+1- Etape de sensibilisation : 
+• Silencieuse, absence de signes cliniques ou de lésions
+• Présentation de l'antigène à des LTh naïves; 
+• Différenciation des LT avec polarisation en différents profils : Th1 ou Th2 ou Th17   
+–
+2- Etape effectrice
+• Activation des lymphocytes Th sensibilisés, avec sécrétion de :
+–
+Chimiokines 
+–
+Cytokines 
+• Activation des cellules effectrices :
+–
+Macrophages 
+–
+PNE
+–
+PNN 
+–
+LTCD8 (CTL) 
+• Phénomènes immunopathologiques : maladies
+
+I- Formes cliniques de l’HSR
+•
+Dermatite (allergique) de contact : Cosmétiques, Nickel, ….
+•
+Infections bactériennes chroniques intracellulaires: tuberculose, lèpre, brucellose
+•
+Infections fongiques: histoplasmose, blastomycose
+•
+Infections virales: herpès, oreillons
+•
+Maladies inflammatoires granulomateuses : sarcoïdose, lèpre 
+•
+Maladies auto-immunes : 
+•
+Polyarthrite rhumatoïde, thyroïdite de Hashimoto, DT1, maladie cœliaque…
+•
+Toxidermies médicamenteuses 
+
+1. Allergènes et Dermatites de contact 
+Produits
+Allergène responsable de HS de contact
+Métaux
+Sels de chrome (ciment), nickel, cobalt, mercure
+Matières plastiques
+Résine époxy, résine acryliques et phénoliques
+Solvant organiques
+Colles, térébenthine, pesticides, teintures et produits cosmétiques
+Médicaments
+pénicillines, les sulfamides, l'allopurinol et les antiépileptiques
+Produits végétaux
+Poison ivy, poison aok, bulbe du tulipe,
+caoutchouc
+A. Hypersensibilité de contact (Dermatite / Eczéma de contact) 
+
+2. Mécanisme de l’Eczéma de contact
+D’après M. Vocanson et al., Médecine sciences
+
+3. Expression clinique des dermatites de contact (Eczéma) 
+Dermite de contact aux cosmétiques
+Nickel de la montre
+Dermatite de contact /tatouage
+
+Dermatite atopique
+•
+Nourrisson : prévalence de 10 à 20%
+•
+Prédisposition génétique (famille allergique), avec taux 
+élevé d’IgE (atopie)
+•
+Mutations de la filaggrine 
+•
+Allergie mixte combinant l’hypersensibilité immédiate (IgE) 
+et retardée (Eczéma)
+
+Facteurs étiopathogéniques de la dermatite atopique 
+AD: atopic dermatitis 
+PDE-4: phosphodiesterase-4 
+TEWL: transepidermal water loss
+K-Y Sayaseng et al. Pathophysiology and Management of Mild to Moderate Pediatric Atopic Dermatitis. Journal of Pediatric Health Care. 
+2018
+
+1. Rôle des macrophages dans l’immunité anti-tuberculeuse
+D’après M. Haoues et al. Le macrophage: chef d'orchestre de l'immunite anti-tuberculeuse.
+B- Hypersensibilité tuberculinique
+- ROS (reactive oxygen species)
+- NO (Nitric oxyde)
+
+D’après M. Haoues et al. Le macrophage: chef d'orchestre de l'immunite anti-tuberculeuse
+2. Réponses immunitaires anti-tuberculeuse et formation de granulome 
+
+C. Hypersensibilité retardée médicamenteuse
+J-F. Nicolas et al. Hypersensibilité aux médicaments. Revue du praticien. 
+
+▪
+Physiopathologie: apoptose kératinocytaire médiée par les CTL
+▪
+Délai : 1 à 21 jours
+▪
+Clinique: 
+▪Altération de l’état général, fièvre
+▪Erosions muqueuses (>2 sites) 
+▪Décollements cutanés superficiels (Signe de Nikolski+)
+▪Biologie: lymphopénie fréquente
+▪Atteinte viscérale: rénale, pulmonaire, digestive, foie
+▪Histologie: Nécrolyse épidermique totale
+▪
+Médicaments: 
+▪allopurinol+++, lamotrigine, carbamazépine, sulfamethoxazole, 
+AINS (oxicams), nevirapine,…
+▪
+Mortalité: 30-35%
+3. Formes graves des toxidermie médicamenteuse :  HSR cytotoxique 
+                Nécrolyse épidermique toxique, Sd de Stevens-Johnson, Sd de Lyell
+
+Phénotype
+Manifestations cutanées 
+Autres signes 
+cliniques 
+Délai d’apparition
+Exanthème
+maculo-papuleux
+Éruption érythémateuse maculopapuleuse polymorphe (scarlatiforme voire 
+rubilliforme)
+Atteinte du tronc avec extension symétrique vers les membres
+Sub-fébricule (< 38,5 °C)
+Prurit parfois intense
+Éruption du 9e jour
+(4-14 jours)
+2-3 jours après réintroduction
+SDRIFE
+Symetrical Drug Prelated
+Intertriginous and Flexural 
+Exantheme
+Érythème maculopapuleux, délimité, souvent symétrique, localisé au niveau des plis 
+de flexions, interfessiers,
+inguinaux et périgénitaux
+Fièvre inconstante 
+5 à 10 jours après
+initiation du traitement
+Quelques heures
+à quelques jours
+après réintroduction
+AGEP
+Acute Generalized 
+Exanthematous Pustulosis
+Érythème, rouge vif, œdémateux, diffus en nappe (scarlatiniforme) d’éruption brutale.
+Associé à l’apparition rapide (heures) de nombreuses petites pustules stériles non 
+folliculaires, blanches
+Localisation majoritaire dans les grands plis.
+Fièvre, Prurit +/- AEG
+1 à 5 jours
+(jusqu’à 3 semaines)
+DRESS 
+(Drug reaction with 
+eosinophilia and systemic 
+symptoms)
+3 des 4 critères obligatoires 
+signalés en gras
+Exanthème maculeux inflammatoire, diffus avec prurit, polymorphe et variable
+Enanthème possible
+Œdème facial
+Fièvre > 38 °C
+Lymph-adénopathies
+Atteinte d’un organe :
+hépatite (+++) pneumopathie
+interstitielles, néphropathies
+interstitielles, myocardite
+2 à 6 semaines
+FDE
+Fixed Drug Erythema
+Lésion(s) maculeuse(s), rouge-brune(s), +/- bulleuse(s)
+Récidive de la ou des lésions au même endroit
+après réexposition
++/- syndrome pseudo-grippal
+Quelques jours
+à quelques semaines
+Quelques heures
+après réintroduction
+SJS (syndrome de 
+Stevens-Johnson)
+(< 10 % de la surface
+corporelle)
+TEN (Toxic Epidermal 
+Necrolysis)
+(> 30 %)
+Syndrome transitoire
+(10-30 %)
+Macules érythémateuses étendues et diffuses
+Puis érosion et bulles multifocales avec décollement cutané en lambeaux à la 
+moindre pression (syndrome de Nikolski en doigt de gant) due à nécrose de 
+l’épiderme
+Mise à nu du derme sur une grande surface corporelle
+Érosion des muqueuses : oculaire, orale, génitale, anale,
+urinaire, trachéale, bronchique…
+Fièvre
+AEG
+Brûlures oculaires
+Atteintes respiratoires
+4 à 28 jours
+J. Serrier et al. Diagnostic de l’hypersensibilité retardée :des mécanismes immunologiques aux tests de diagnostic in vivo et in vitro. RFL. 2020
+
+ 1 – Exploration des dermatites /eczémas de contact
+Patch tests (in vivo)
+ 
+- Utilisation d’une batterie d’allergènes (Cosmétiques, médicaments, ….) 
+ 
+  
+Exploration de l’HSR
+Lecture des patch tests après 48-72h
+Répartition des antigènes identifiés à tester
+  et leur application sur les patchs
+
+a- IDR à la tuberculine (in vivo)
+ 
+- Utilise des peptides extraits du BK
+ 
+- Coût faible 
+ 
+- Maîtrise technique 
+ 
+- Faux positifs avec le BCG 
+- Test IGRA : dosage de l’IFNy
+ 
+- Test ELISPOT (ELISA-SPOT) : quantification des cellules productrices d’IFNy
+b. Tests biologiques (in vitro)
+- Tests de libération de l’IFN-γ (IGRA : IFN-γ release assay) 
+Principe : Mesure de la production d’IFN par des lymphocytes T mémoires stimulés par des Ag spécifiques : 
+1 – Exploration de l’HSR tuberculinique (TBK Latente/Maladie)
+
+c. Principe du test de libération du test IGRA 
+Lymphocytes T Mémoire (contact avec le Mycobacterium)
+- Stimulés in vitro par des peptides spécifiques (ESAT6, CFP-10, Tb7.7)
+- Libération d’IFN-y dans le surnageant 
+ 
+IFN-γ
+- ESAT6 (6 kDa Early Secretory Antigenic Target)
+- CFP-10 (culture filtrate protein 10 )
+Peptides spécifiques du Complexe Mycobacterium  
+(M. tuberculosis, M. africanum, M.Kunsashi, M.Bovis) 
+IGRA
+
+d. Principales indications du test IGRA
+• Dépistage de la tuberculose (TBK) latente
+• Aide au diagnostic des formes de TBK extra-pulmonaire
+• Avant démarrage d’un traitement anti-TNFα (et autres biothérapies)
+• Visite d’embauche de professionnels de santé ou travaillant dans des services à risque
+
+Récapitulatif
+Effecteurs
+Délai
+Mécanismes
+Manifestations cliniques
+Type I
+HS 
+à IgE
+immédiat
+5-30 min
+Allergènes → Pontage IgE fixées sur 
+mastocytes-basophiles → 
+médiateurs
+• Asthme, rhinite, conjonctivite,….
+• Anaphylaxie
+Type II
+HS
+à IgM, IgG
+semi-retardé
+5-8 h
+AC dirigés contre Ag 
+cellulaires  destruction cellulaire 
+(CDCC ou ADCC)
+• Accidents transfusionnels
+• Incompatibilité fœto-maternelle Rh ou autres
+• Cytopénies auto-immunes
+• Cytopénie immuno-allergique (médicament)
+• Rejet de greffe (humoral) 
+Type III
+HS
+à immuns 
+complexes
+semi-retardé
+2-8 h
+Dépôt tissulaire
+d’immuns complexes
+ Activation des PN
+et réponse inflammatoire
+• Alvéolites allergiques 
+• Vascularites 
+• Glomérulonéphrites lupiques et autres
+• Maladie sérique : Réaction post-vaccinale, 
+sérothérapie, autre médicament
+Type IV
+- IVa
+- IVb
+- IVc
+- IVd
+HS
+cellulaire
+retardé
+24-72 h
+LT sensibilisés à l’Ag libèrent des 
+cytokines qui activent des 
+macrophages, des PNE, des CTL, des 
+PNN
+• HS tuberculinique, HS granulomateuse
+• Dermatite de contact, Eczéma
+• Toxidermies médicamenteuses
+• Asthme et rhinite allergiques chroniques
+• Rejet de greffe (cellulaire),….
+• Maladies inflammatoires chroniques : 
+
+Conclusion 
+• Les états d’hypersensibilité I, II, III et IV impliquent des effecteurs et des mécanismes 
+immunologiques distincts    
+• Un éventail large de maladies fréquentes en pratique clinique, potentiellement 
+graves, avec une expression polymorphe, dominées par  
+- Anaphylaxie, asthme, rhino-conjonctivite allergique pour l’hypersensibilité de type I
+- Cytopénies pour l’hypersensibilité de type II 
+- Vascularites et maladie sérique pour l’hypersensibilité de type III
+- Dermatites de contact, toxidermies, allergies chroniques, infections mycobactériennes, pour le type IV
+• La classification de Gell et Coombs révisée a permis :
+– De faire intégrer d’autres types de pathologies avec des acteurs propres 
+–
+de mieux comprendre le mécanisme des hypersensibilités médicamenteuses
+• L’évolution des concepts d’hypersensibilité et d’allergie (nouvelle classification)
+– Perspectives immunothérapeutiques nouvelles ciblant différents acteurs: Eosinophile, ILC, cytokines, …) 
+– Meilleure prise en charge du patient allergique à l’ère de la Médecine de Précision (3P)
+

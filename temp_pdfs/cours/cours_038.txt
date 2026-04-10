@@ -1,0 +1,198 @@
+Hypercalcémies
+Pr. Radouane NIAMANE.
+Hôpital Militaire Avicenne.
+OBJECTIFS PEDAGOGIQUES
+Connaître la définition biologique d’une hypercalcémie et connaître ses signes cliniques
+Connaître le bilan para-clinique à effectuer devant une hypercalcémie (démarche diagnostique et thérapeutique)
+Connaitre les étiologies d’une hypercalcémie
+Connaître les complications des hypercalcémies majeures 
+Connaitre les principes du traitement d’urgence d’une hypercalcémie 
+DÉFINITION 
+Le taux de calcium sérique est régulé de manière étroite.
+Sa valeur est très stable: 2,2 à 2,6 mmol/l. 
+Le Calcium total est fortement complexé aux protéines pour 40 %.
+Son taux est influencé par le taux d’albumine.
+Une formule permet de corriger le calcium total, en tenant du taux de l’albumine : 
+
+Calcium corrigé = calcium mesuré (mmol/l) + (40 – albumine)/40. 
+L’hypercalcémie est définie par un taux de calcium total > à 2,6 mmol/l (105 mg/l). 
+
+L’hypercalcémie peut être: asymptomatique, symptomatique ou majeure.
+
+L’hypercalcémie est dite majeure quand la calcémie > à 3,5 mmol/l (140 mg/l)
+
+Lorsqu’elle est symptomatique, l’hypercalcémie est une urgence médicale dont le degré de la gravité est fonction  de la rapidité de son installation et du retentissement clinique.
+
+ La découverte d’une hypercalcémie impose la réalisation d’un second dosage de confirmation, sans retarder le traitement s’il existe des signes menaçants.
+
+
+MANIFEASTIONS CLINIQUES 
+1.  Hypercalcémie asymptomatique: 40%
+découverte fortuite sur un ionogramme fait à titre systématique. 
+2 . Hypercalcémie symptomatique:
+Symptômes très variés dans leur gravité et dans leur présentation clinique: les signes sont souvent peu spécifiques. 
+
+D’autant plus sévères que l’hypercalcémie est d’installation rapide et/ou qu’elle est élevée. 
+
+Parfois, les signes d’hypercalcémie sont en second plan par rapport aux signes propre de la maladie causale.
+Les signes de l’hypercalcémie 
+Signes généraux:
+Amaigrissement avec déshydratation extracellulaire. 
+Fièvre. 
+Signes digestifs:
+Douleurs épigastriques
+Anorexie, nausée, vomissements (parfois incoercibles)
+Constipation (évocatrice)
+Signes neurologiques et psychiatriques:
+Céphalées, asthénie physique ou psychique. 
+Symptôme « pseudo-polynévritique »: abolition des ROT-paralysie distale. 
+Symptôme « pseudo-myopathique »: hypotonie.
+Symptôme psychiatrique: agitation, syndrome dépressif… 
+Les signes de l’hypercalcémie 
+Manifestations cardiovasculaires:
+HTA. 
+Manifestations rénales:
+Syndrome polyuro-polydypsique. 
+Insuffisance rénale aigue. 
+En cas d’hypercalcémie chronique : 
+Lithiases rénales (phosphates ou d’oxalate de calcium) avec des épisodes de coliques néphrétiques, d’hématurie ou d’infection urinaire. 
+ Néphrocalcinose. 
+Insuffisance rénale obstructive ou chronique.
+
+Néphrocalcinose
+Lithiase rénale
+Hypercalcémie majeure: Calcémie > à 3,5 mmol/l (140 mg/l)
+Déshydratation; 
+Fièvre; 
+Douleurs abdominales pseudo-chirurgicales et vomissements ; 
+Troubles du rythme et de la conduction cardiaque.
+Confusion mentale, somnolence voire coma.  
+Raccourcissement de l’intervalle QT par raccourcissement du segment ST (signe le plus caractéristique)
+Autres:
+Onde T parfois élargie ou aplatie
+Bradycardie sinusale possible
+Troubles du rythme dans les formes sévères (extrasystoles, bloc AV, arythmies ventriculaires) +++
+Troubles de la conduction
+ÉTIOLOGIES
+Affections néoplasiques (50 %) 
+Métastases osseuses: 
+20 % des patients ayant des métastases osseuses ont une hypercalcémie. 
+L’hypercalcémie peut être révélatrice de la métastase (rarement) ou apparaît au cours de l’évolution d’une néoplasie connue,
+Essentiellement au cours du cancers du sein (30 %), poumon (30 %) et rein, etc. 
+Myélome multiple:
+ L’hypercalcémie est présente dans environ 30 % des cas. 
+Autres hémopathies: plus rares
+Lymphomes et autres hémopathies. 
+Hyperparathyroïdie primitive (HPP) 
+Définition: sécrétion de parathormone inadaptée à la valeur de la calcémie
+Incidence: 30 cas pour 100 000 personnes/ an
+Prédominance féminine (sex-ratio: 2 à 3)
+Age moyen lors du diagnostic: 60 ans. 
+Manifestations propre de l’HPP 
+Hypercalcémie de découverte fortuite: le plus souvent, il n’y a aucune manifestation clinique propre à l’HPP.
+
+Les manifestations osseuses sont devenues très rares: 
+Douleurs osseuses: bassin, rachis lombaire……; 
+Fractures osseuses spontanées: col fémoral, os longs,…; 
+Ostéite fibrokystique de Von Recklinghausen dans les formes historiques: 
+tuméfactions et déformations osseuses des os: tibias, avant-bras, mâchoires,
+résorption de l’os alvéolaire avec chute des dents. 
+On l’observe encore au Maroc. 
+Signes radiologiques (formes anciennes): 
+Corticales amincies et festonnées, résorption sous-périostée des phalanges ; 
+Érosion des houppes phalangiennes (aspect sucé) ; 
+Aspect granuleux du crâne (poivre et sel), 
+Résorption de l’os alvéolaire ; 
+ Tumeurs osseuses lytiques soufflantes (rares, dénommées « tumeurs brunes ») 
+Géodes ovalaires disséminées (ostéite fibrokystique). 
+
+L’ostéodensitométrie est utile pour évaluer le retentissement osseux: ostéoporose surtout corticale (mesure à l’avant-bras).
+Résorption de l’os alvéolaire
+Résorption des houppes phalangiennes
+Crâne: aspect en poivre et sel
+Ostéite fibrokystique
+Manifestations extra-osseuses (également devenues rares): 
+Lithiase rénale bilatérale avec néphrocalcinose ; 
+Ulcère gastro-duodénal ; 
+Pancréatite calcifiante aiguë ; 
+HTA; 
+Chondrocalcinose articulaire.
+Chondrocalcinose articulaire
+Manifestations biologiques de l’HPP 
+Hypercalcémie fluctuante, souvent modérée mais évoluant depuis plusieurs mois ou années; 
+Hypophosphatémie; 
+Hypercalciurie; 
+Taux de PTH 1-84 augmenté (dans 90 % des cas) ou inapproprié en regard de la valeur de la calcémie. 
+Acidose métabolique avec hyperchlorémie ; 
+
+Étiologies de l’HPP 
+L’hyperparathyroïdie primitive est liée à : 
+Adénome parathyroïdien (80 % des cas environ), le plus souvent unique, de localisation cervicale, parfois multiple ou ectopique (notamment médiastinal). 
+Hyperplasie diffuse des glandes (10 % à 15 %); 
+Carcinome parathyroïdien (moins de 2 %), de mauvais pronostic
+
+Adénome parathyroïdien
+Comment mettre en évidence l'adénome ou l'hyperplasie ? 
+→ But: guider le choix de la technique chirurgicale. 
+Echographie cervicale: ss=50 % - sp= 93 % 
+Scanner cervical: ss= 30 % – sp= 90 %; 
+Scintigraphie au MIBI (1-méthoxy-isobutyl-isonitrile): 
+Sensibilité = 80 %,
+localisations ectopiques +++ 
+IRM:
+interprétation difficile,
+utile pour les localisations ectopiques. 
+→ Il faut deux examens concordants. 
+→  Habituellement c’est l’échographie et la scintigraphie au MIBI, qui sont recommandés. 
+Traitement de l’HPP
+Le traitement repose essentiellement sur la chirurgie. Les indications sont les suivantes: 
+Tout patient présentant des complications cliniques de l’hyperparathyroïdie primitive (lithiase rénale, fractures de fragilité, syndrome neuromusculaire) devrait être opéré. 
+
+En cas d’hyperparathyroïdie asymptomatique, on propose la chirurgie en cas de: 
+Âge < 50 ans
+Calcémie >  2,5 mmol/l
+Calciurie > 10 mmol/24H
+Clairance de la créatinine < 30 ml/min 
+T-score < – 2,5 à l’ostéodensitometrie, quel que soit le site mesuré  
+Traitement de l’HPP
+La technique chirurgicale: 
+En cas d’adénome: exérèse de l’adénome.
+En cas d’hyperplasie: exérèse subtotale des glandes (3 glandes sur 4).
+ En cas de carcinome: exérèse large, carcinologique.
+Suites opératoires: 
+survenue d’une hypocalcémie post opératoire transitoire à contrôler et à  normaliser par un apport calcique en IV .
+Autres étiologies (10%)
+Médicaments: 
+Intoxication par la vitamine D, 
+Autres: Rétinoïdes, Lithium, diurétiques thiazidiques. 
+Granulomatoses:
+Production extrarénale par le granulome de 1,25 (OH)2- D3.
+Sarcoïdose , tuberculose, lèpre…….. 
+Syndrome du lait et des alcalins:
+Traitement de l’ulcère gastroduodénal par l’ingestion massive de sels alcalins de calcium ou de lait (syndrome de Burnett).
+Rarissime depuis l’avènement des IPP.
+Hypercalcémies d'immobilisation:
+Hypercalciurie survenant lors des comas prolongés ou chez les patients paraplégiques, souvent aggravée par la nutrition parentérale exclusive. 
+Résolutive à la verticalisation. 
+Hypercalcémies endocriniennes:
+Hyperthyroïdie, surtout chez le malade âgé. 
+Insuffisance surrénalienne aiguë. 
+Phéochromocytome 
+Acromégalie. 
+Insuffisance rénale chronique:
+Habituellement hypocalcémie.
+Hypercalcémie tardive par hyperparathyroïdie tertiaire ou utilisation de carbonate de calcium à forte dose, comme chélateur du phosphore.
+PRINCIPES DU TRAITEMENT D'URGENCE
+La découverte d’une hypercalcémie impose une hospitalisation pour réaliser le traitement d’urgence. 
+Arrêt des traitements potentialisateurs : digitaliques, calcium et vitamine D. 
+Voie veineuse 
+Équilibration hydro-électrolytique: sérum salé, 3 à 6 l / 24H (avec surveillance étroite de la diurèse)
+Furosémide: 40 à 60 mg/j en cas d’insuffisance rénale fonctionnelle ou d’insuffisance cardiaque associée.
+Traitement intensif de l’hypercalcémie sévère
+Zolédronate 5mg en perfusion de 15 minutes
+Prise en charge de la maladie causale:
+Exemple:
+Traitement chirurgical d’un adénome parathyroïdien.
+Chimiothérapie en cas de cancer.
+Arrêt de la vitamine D en d’intoxication.
+

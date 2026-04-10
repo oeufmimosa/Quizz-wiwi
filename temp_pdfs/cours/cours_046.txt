@@ -1,0 +1,108 @@
+Tuberculose ostéo-articulaire.
+Pr. R. Niamane
+OBJECTIFS 
+
+Connaitre les facteurs favorisants de la tuberculose ostéoarticulaire (TOA).
+Connaître les arguments cliniques, biologiques, radiologiques, bactériologiques et histologiques permettant de porter le diagnostic de TOA.
+Connaître les spécificités radiologiques de la TAO. 
+Connaître les complications neurologiques possibles d'une spondylodiscite tuberculeuse (compressions radiculaires et/ou médullaires). 
+Connaitre les moyens thérapeutiques de la TOA.
+
+Introduction
+Epidémiologie
+Diagnostic positif
+NB: On parle de spondylite lorsque l’infection se développe au centre d’un corps vertébral, et de spondylodiscite (mal de Pott) lorsque l’atteinte vertébrale initiale s’étend au disque intervertébral voire à la vertèbre adjacente. 
+1.1 Tuberculose rachidienne
+Image en fuseau
+Géodes en miroir
+Spondylodiscite D11-D12
+Pincement du disque
+Géodes en miroir
+Déminéralisation des plateaux
+Abcès des parties molles 
+NB: une spondylite peut prendre l’aspect d’une condensation diffuse du corps vertébral (« vertèbre ivoire »), lésion ostéolytique d’un corps vertébral, pouvant s’étendre au massif articulaire postérieur ou s’associer à un pincement discal et à des remaniements du corps vertébral adjacent en cas de spondylodiscite; 
+Spondylite Vertèbre L1: Rx, TDM et IRM
+1.2 Tuberculose articulaire périphériqueTDD: mono-arthrite chronique destructrice
+Elles affectent le plus souvent le genou ou la hanche. 
+L’évolution est volontiers torpide. 
+Les signes inflammatoires locaux sont discrets ou absents. 
+On parle souvent de « tumeur blanche du genou » ou de « coxalgie à la hanche ». 
+La clinique est superposable à celui d’une mono-arthrite subaiguë dans le cadre d’un rhumatisme inflammatoire. 
+Tuberculose OA du genou
+L’arthrite peut être très destructrice : aspect dit « en trognon de pomme » à l’épaule.
+1.3 Ostéite et ostéomyélite tuberculeuse
+Les ostéites périphériques se présentent comme des lésions ostéolytiques, parfois associées à une réaction périostée qui peut donner à l’os un aspect soufflé.
+1.4 Tuberculose abarticulaire (rare)
+Explorations
+Étude bactériologique :
+L’examen direct :Recherche du bacille acido-alcoolo-résistant (BAAR) après coloration de Ziehl-Neelsen.
+Culture sur milieu de Loewenstein-Jensen + antibiogramme ++
+Recherche dans :
+Le liquide synovial, le pus.
+D'autres localisations :
+Crachats (recherche d’atteinte concomitante TPM+).
+Tubages, aspiration bronchique, urines ou ponction d’une adénopathie superficielle.
+IDR à la tuberculine: 
+Faible rentabilité
+Elle a de la valeur si elle est flycténulaire. 
+Tests de biologie moléculaire
+IGRA : Interferon Gamma Release Assays (QuantiFERON-TB),
+Non recommandés pour le diagnostic de la tuberculose maladie chez l’adulte.
+Leur négativité permet d’écarter le diagnostic de TOA.
+Gene Xpert dans les prélèvements infectés.
+Résultat rapide (2 H).
+
+Examen anatomopathologique
+En cas de tuberculose vertébrale :
+Ponction-biopsie disco-vertébrale scannoguidée.
+En cas de tuberculose articulaire :
+Biopsie synoviale percutanée ou chirurgicale.
+En cas d’ostéite :
+Biopsie osseuse.
+Résultat caractéristique :
+Granulome épithélioïde et gigantocellulaire avec nécrose caséeuse+++
+
+Diagnostic différentiel
+Traitement
+Pronostic et surveillance 
+Le pronostic dépend très largement:
+du stade auquel le diagnostic est effectué
+et du terrain sur lequel survient l’infection (recherche d’une immunodépression associée). 
+Les résistances aux antituberculeux sont très rares au Maroc. Elles posent de difficiles problèmes thérapeutiques.
+Un dépistage doit systématiquement être effectué dans l’entourage du patient, comprenant une IDR et une radiographie pulmonaire. 
+QCM 1
+Un patient de 45 ans, consulte pour des douleurs dorsales évoluant depuis 3 mois, associées à une altération de l’état général. L’examen clinique révèle une raideur rachidienne et une douleur à la percussion des apophyses épineuses dorsales. Une radiographie standard et une IRM rachidienne sont réalisées. Quelle est la combinaison de signes radiologiques évocateurs du mal de Pott ?
+Géodes en miroir des plateaux vertébraux
+Formation d’un abcès paravertébral
+Ostéophytose marquée des corps vertébraux
+Atteinte asymétrique des articulations interapophysaires postérieures
+Calcifications intra-discales précoces
+
+QCM 1
+Un patient de 45 ans, consulte pour des douleurs dorsales évoluant depuis 3 mois, associées à une altération de l’état général. L’examen clinique révèle une raideur rachidienne et une douleur à la percussion des apophyses épineuses dorsales. Une radiographie standard et une IRM rachidienne sont réalisées. Quelle est la combinaison de signes radiologiques évocateurs du mal de Pott ?
+Géodes en miroir des plateaux vertébraux
+Formation d’un abcès paravertébral
+Ostéophytose marquée des corps vertébraux
+Atteinte asymétrique des articulations interapophysaires postérieures
+Calcifications intra-discales précoces
+
+QCM 2
+Un patient de 32 ans, consulte pour une tuméfaction douloureuse du genou droit évoluant depuis 6 mois. L’examen montre un épanchement articulaire modéré et une raideur progressive. Une ponction articulaire est réalisée.Quelle(s) technique(s) diagnostique(s) permet(ent) de confirmer l’étiologie tuberculeuse ?
+Mise en culture sur milieu de Löwenstein-Jensen
+PCR spécifique du complexe Mycobacterium tuberculosis
+Dosage du Quantiferon® dans le liquide articulaire
+Dosage du TNF-alpha dans le liquide articulaire
+Recherche de cristaux d’urate par microscopie à lumière polarisée
+
+QCM 2
+Un patient de 32 ans, consulte pour une tuméfaction douloureuse du genou droit évoluant depuis 6 mois. L’examen montre un épanchement articulaire modéré et une raideur progressive. Une ponction articulaire est réalisée.Quelle(s) technique(s) diagnostique(s) permet(ent) de confirmer l’étiologie tuberculeuse ?
+Mise en culture sur milieu de Löwenstein-Jensen
+PCR spécifique du complexe Mycobacterium tuberculosis
+Dosage du Quantiferon® dans le liquide articulaire
+Dosage du TNF-alpha dans le liquide articulaire
+Recherche de cristaux d’urate par microscopie à lumière polarisée
+
+QCM 3
+Le traitement standard de la tuberculose ostéo-articulaire est basé sur :A. 6 mois de quadrithérapie antituberculeuseB. 2 mois de quadrithérapie suivis de 7 mois de bithérapieC. 4 mois de bithérapie suivis de 2 mois de quadrithérapieD. Un traitement uniquement chirurgicalE. Une corticothérapie systématique associée 
+QCM 3
+Le traitement standard de la tuberculose ostéo-articulaire est basé sur :A. 6 mois de quadrithérapie antituberculeuseB. 2 mois de quadrithérapie suivis de 7 mois de bithérapieC. 4 mois de bithérapie suivis de 2 mois de quadrithérapieD. Un traitement uniquement chirurgicalE. Une corticothérapie systématique associée 

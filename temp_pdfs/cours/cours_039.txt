@@ -1,0 +1,316 @@
+Introduction en Rhumatologie.
+Pr. Radouane NIAMANE.
+Hôpital Militaire Avicenne.
+Enseignement en cours magistral
+Evaluation par QCM 20+20+10
+Programme des cours de rhumatologie
+Objectifs pédagogiques
+Mener l’anamnèse d’une personne consultant pour une affection de l’appareil locomoteur.
+Examiner les différents segments de l’appareil locomoteur.
+Regrouper les symptômes et les classer en syndromes rhumatologiques. 
+
+
+I- Introduction
+Rhumatisme: mot rheuma signifie fluxion, écoulement.
+La rhumatologie étudie les affections médicales de l’appareil locomoteur qui comprennent les articulations, les os, les muscles et les tendons. 
+Les maladies rhumatismales représentent un problème de santé publique :
+Les rhumatismes constituent le premier motif de consultation auprès du médecin (15 %).
+Les rhumatismes sont la première cause d’handicap. 
+Les rhumatismes sont source d’invalidité et donc de millions de  journées de travail perdues. 
+Le vieillissement de la population ne peut qu'aggraver cette situation.
+
+Évolution de la structure de la population totale (%) du Maroc, 1960, 2004, 2014 et 2024* 
+Haut-Commissariat au Plan (HCP)
+Recensements Généraux de la Population et de l’Habitat
+Évolution projetée de l’effectif des personnes âgées et de leur poids par rapport à la population totale selon le milieu de résidence, 2024-2050
+II- Anatomie normale d’une articulation.
+Le corps humain compte 206 os reliés par plus de 100 articulations, mobilisées par 570 muscles. 
+Les articulations sont conçues pour permettre une grande amplitude de mouvement. 
+Appareil locomoteur assure la posture et la mobilité.
+Le cartilage articulaire : tissu conjonctif  lisse, non vascularisé, qui recouvre les extrémités osseuses de toutes les articulations mobiles.
+L’os épiphysaire: extrémité itnra-articulaire des os.
+La membrane synoviale : membrane qui tapisse la face interne de la capsule des articulations mobiles. La synoviale a pour fonction de nourrir et lubrifier les surfaces articulaires en produisant le liquide synovial.
+La capsule articulaire : enveloppe fibreuse et élastique qui entoure les articulations mobiles. La capsule articulaire contribue à assurer la stabilité de l’articulation.
+Les ligaments articulaires : tissu conjonctif fibreux, très résistant et élastique. Les ligaments unissent les os entre eux.
+Les tendons : bandelettes de tissus fibreux qui relient les muscles aux os qu’ils doivent mouvoir.
+Les bourses séreuses : petites poches closes constituées de tissu conjonctif remplies de liquide synovial. Les bourses sont fixées aux os à proximité des articulations et empêchent le contact direct entre un os et un tendon. Elles facilitent le glissement des tendons.
+
+III- ANAMNESE
+Caractéristiques sémiologiques de la douleur
+A- Où? Siège exact de la douleur.
+
+
+A- Où? Siège exact de la douleur.
+A- Douleur articulaire:
+Douleur en regard de l’articulation.
+L’articulation est douloureuse à la mobilisation passive et active.
+Limitation de la mobilité articulaire = raideur.
+Exemple: arthrose, arthrite.
+B- Douleur osseuse:
+Douleur de siège épiphysaire, métaphysaire ou diaphysaire.
+L’articulation n’est pas douloureuse à la mobilisation.
+Douleur à l’appui sur l’os.
+Parfois: tuméfaction, déformation, fracture.
+Exemple: 
+Tumeur osseuse juxta-articulaire.
+Ostéomyélite.
+C- Douleur musculaire:
+Douleur à la palpation et à la pression des masses musculaires.
+Mobilisation douce de l’articulation non douloureuse.
+Parfois amyotrophie ou œdème.
+Exemple: myosite, tumeur musculaire, hématome.
+D- Douleur neurologique:
+Siège: trajet nerveux.
+Sensations non douloureuses (paresthésies).
+Sensations douloureuses (brûlures, décharges électriques…) 
+Examen: troubles de la sensibilité, déficit moteur, abolition des réflexes.
+Articulations libres.
+Exemples: 
+lombo-sciatique, névralgie cervico-brachiale.
+Neuropathie diabétique.
+
+E- Douleur projetée ou référée:
+lésions viscérales s'exprimant par des douleurs articulaires (exemple) : 
+Cœur : douleur de l’épaule gauche.
+Vésicule biliaire : douleur de l’épaule droite.
+Ulcère bulbaire : douleur dorsale.
+Rein : douleur lombaire. 
+Atteinte de la hanche s'exprimant par des douleurs du genou.
+
+B- Depuis quand? 
+Une douleur récente, aiguë, ayant débuté il y a deux ou trois jours n'a pas la même signification qu'une douleur ancienne (chronique) évoluant depuis 10 ans. 
+
+Douleur aigue vs douleur chronique
+C- Comment?
+Douleur mécanique+++ :
+douleur apparaissant au cours ou après l'effort;
+douleur calmée par le repos ;
+elle n’apparaît au début que pour des efforts importants;
+peu ou pas de dérouillage matinal (< 30 minutes) ;
+se manifeste en fin de journée;
+habituellement, il n'y a pas de réveil nocturne mais le patient peut ressentir une douleur aux changements de position. 
+Douleur inflammatoire+++ :
+Douleur sans rapport avec l’effort;
+douleur présente le matin au réveil.
+dérouillage matinal > 30 min ;
+amélioration voire disparition dans la journée;
+réveils nocturnes notamment en deuxième partie de nuit.
+Douleur psychogène:
+Manifestations douloureuses sans substratum organique traduisant des problèmes psychologiques plus ou moins sévères.
+Peuvent être très trompeuses
+A ne retenir que si tout a été fait pour éliminer un problème organique +++
+
+Autres types de douleurs:
+Douleur de l’algodystrophie:
+permanente et nocturne
+à la mise en charge et ne s’améliore pas après un temps de dérouillage
+la douleur dépasse les structures articulaires
+
+Absence de douleur sur une articulation manifestement pathologique : 
+Arthropathie nerveuse (Tabès, diabète….).
+D- Intensité de la douleur:
+La douleur est subjective elle est alors difficile à évaluer. 
+L'intensité sera exprimée par des termes parfois particuliers : en coup de poignard, pulsatile, crampe, torsion, étau…. 
+Il faut essayer de la quantifier par:
+L'échelle visuelle analogique (EVA).
+L’échelle verbale simple (EVS).
+Echelle numérique.
+La quantité de comprimés d'antalgiques ou d'anti-inflammatoires nécessaire pour soulager le malade.
+C'est une réglette qui présente d'un côté une ligne 
+subjective et de l'autre côté une réglette de 100 mm. 
+Le patient avance le curseur en fonction de l'intensité  de la douleur allant de "pas de douleur" à "douleur  maximale imaginable". 
+L’intensité de la douleur est mesurée en mm (0-100).  
+L’échelle visuelle analogique (EVA).
+0:   Pas de douleur 1:   Faible 2:   Modérée 3:   Intense 4:   Très intense 
+Echelle verbale simple
+Il s'agit de demander verbalement 
+au patient d'évaluer sa douleur:
+Quel est le niveau de votre douleur
+ à l'instant présent entre 0 et 100 ? 
+Echelle numérique en 5 points 
+E- Retentissement fonctionnel
+C’est la résultante de :
+la douleur (signe fonctionnel).
+la raideur articulaire (signe d’examen).
+II faut apprécier les conséquences sur:
+les activités de la vie quotidienne (marche, montée des escaliers, habillage, activités de loisirs ou sportives)
+les conséquences socioprofessionnelles (arrêt de travail, invalidité...). 
+Il peut être évalué par des échelles ou indices adaptés (exemple: indice de Lequesne à la hanche ou au genou, SF36, HAQ……).
+IV- Examen clinique
+Principe:
+Le patient est déshabillé, toisé et pesé. 
+On examine dans l’ordre: la marche, le squelette axial (debout), les articulations périphériques et les enthèses puis on réalise un examen somatique complet.
+L’examen de l’articulation pathologique doit être comparatif avec l’articulation symétrique présumée saine.
+Inspection:
+On cherche: 
+Trouble de la marche,
+Anomalie articulaire: gonflement, rougeur, déformation ou attitude vicieuse (flessum).
+Genu varum
+Gonflement articulaire
+Rougeur articulaire
+ 
+Palpation:
+Points douloureux en regard des repères anatomiques.
+Chaleur locale.
+Existence d’une synovite.
+Distension articulaire par un épanchement.
+Nombre des articulations atteintes: monoarthrite - oligoarthrite – polyarthrite.
+Mobilisation:
+Avec douceur, en commençant par les articulations saines
+Passive, active et contrariée 
+Mesure des angles par goniomètre (raideur)
+Laxité articulaire: lésion ligamentaire.
+Blocage: corps étranger intra-articulaire. 
+
+Déformation articulaire 
+Gonflement articulaire 
+Synovites
+Mesure amplitude par goniomètre
+Schématiquement, il s’agit :
+Affection touchant exclusivement un seul élément de l’appareil locomoteur se traduisant par une lésion isolée:
+Articulaire: gonarthrose, monoarthrite… 
+Tendineuse: tendinopathie de l’épaule…. 
+Musculaire: hématome 
+Osseuse: fracture, ostéite….. 
+Affection généralisée appelées aussi « systémiques »:
+Affection touchant plusieurs organes,
+S’exprimant préférentiellement par une atteinte de l’appareil locomoteur,
+Exemple: polyarthrite rhumatoïde, spondyloarthrite, lupus…..
+
+31
+V- Examens complémentaires
+Hiérarchiser les examens les plus utiles au diagnostic:
+Vitesse de sédimentation (VS).
+C réactive protéine (CRP).
+Examen du liquide synovial (ponction articulaire).
+Radiographie de l’articulation douloureuse.
+
+Les autres examens complémentaires ne seront demandés qu’en fonction de l’orientation étiologique, et font parfois l’objet de recommandations dans certaines pathologies.
+Arthrose fémoro-tibiale
+Arthrite des genoux
+Polyarthrite rhumatoïde
+VI- Classification des affections rhumatologiques
+A- Affections mécaniques 
+1- Au niveau des articulations périphériques:
+L’anatomie est la clé du diagnostic.
+Exemples de pathologies
+Cartilage:  chondromalacie, arthrose
+Os : ostéonécrose
+Tendons : tendinopathie
+Capsule articulaire : capsulite rétractile
+Synoviale:  chondromatose
+Fibrocartilage intra-articulaires:  ménisques
+
+2- Au niveau du rachis :
+Os : fracture- tassement vertébral,...
+Disque intervertébral: arthrose lombaire
+Articulations inter-apophysaires
+Ligaments vertébraux…..
+Arthrose lombaire
+Ostéoporose 
+(Fracture vertébrale)
+B- Affections inflammatoires 
+Trois grands groupes: 
+Les infections ostéo-articulaires
+Les inflammations micro-cristallines
+Les rhumatismes inflammatoires
+D’abord, éliminer ce qui est urgent ou de diagnostic facile.
+Puis
+Chercher les autres causes selon la TOPOGRAPHIE des atteintes et la MANIFESTATIONS EXTRA-ARTICULAIRES.
+B 1- Eliminer d’abord les affections urgentes ou pour lesquelles le diagnostic peut être rapide
+Arthrites et polyarthrites infectieuses: (pronostic local / pronostic vital)
+Germes non spécifiques : staphylocoque, streptocoque, gonocoque…
+Germes spécifiques: tuberculose, brucellose...
+Arthrites micro-cristallines:
+ Accès de goutte (cristaux d’urates de sodium)
+Chondrocalcinose articulaire (cristaux de pyrophosphates de calcium).
+Dans cette situation d’urgence l’étude du liquide articulaire est l’élément clés pour le raisonnement.  Il permet la : 
+a- Mise en évidence du germe par : 
+examen direct
+culture : 
+milieu ordinaire 
+milieu spécifique: (BK = LOWENSTEIN, Gonocoque = THAYER et  MARTIN)
+Ensemencement direct du liquide articulaire dans le bouillon d’hémoculture (permet d’augmenter les chances de détections des germes).
+Nouvelles techniques comme le PCR Multiplex (détecte les gènes bactériens ou viraux par amplification génique)
+Recherche du germe au niveau d’une porte d’entrée.
+Hémocultures.
+
+b- Mise en évidence de micro-cristaux :
+Acide urique: goutte 
+Pyrophosphate de calcium: chondrocalcinose articulaire.
+
+En dehors de ces deux étiologies (infection et métabolique), il ne  faut pas méconnaître  les affections inflammatoires ayant un pronostic sévère :
+
+Connectivites majeures en poussée (LEAD, polymyosite …): risque d’atteinte viscérale.
+
+Polyarthrite rhumatoïde: érosions articulaires irréversibles.
+
+B 2 - Affections de diagnostic moins urgent: 
+Le dénombrement se fait selon plusieurs modes :
+1- Selon la TOPOGRAPHIE des atteintes: 
+Les articulations périphériques  (mais et pieds):  polyarthrite rhumatoïde
+L ’axe pelvi-rachidien :  spondyloarthrites
+Les ceintures :  pseudo-polyarthrite rhizomélique.
+IPD: rhumatisme psoriasique. 
+2- Les signes EXTRA-ARTICULAIRES:
+
+ARTHRITE OU POLYARTHRITE +:
+ Fièvre ou AEG
+ Lésions cutanées
+ Signes digestifs
+ Signes oculaires
+ Protéinurie 
+etc
+Voir cours: Polyarthrite d’évolution récente (moins de trois mois)
+C- Autres
+Algodystrophie: (voir cours)
+Caractérisée par la discordance entre l ’intensité de la symptomatologie clinique évoquant une affection inflammatoire et la normalité des paramètres biologiques de l’inflammation en particulier la VS est normale.
+Arthropathies nerveuses:
+Le caractère est l’absence de douleur sur une articulation manifestement pathologique (déformée ou hypertrophiée mais INDOLENTE).
+La topographie sert de guide pour l’orientation étiologique :
+Membres inférieurs (genou):  Tabès
+Membres supérieurs (épaule): Syringomyélie
+Extrémités  : Lèpre
+Avant-pieds: Acropathie ulcéro-mutilante
+Médio-pieds : Diabète
+
+Une femme de 22 ans consulte pour des douleurs articulaires des deux poignets évoluant depuis 3 semaines. Les douleurs sont plus marquées le matin, avec une raideur d’environ 45 minutes, et s’améliorent au cours de la journée.
+Quel élément oriente le plus vers une douleur inflammatoire ?
+
+A. Douleur augmentée à l’effortB. Douleur soulagée par le reposC. Absence de gonflement articulaireD. Raideur matinale prolongéeE. Douleur prédominant le soir
+Une femme de 22 ans consulte pour des douleurs articulaires des deux poignets évoluant depuis 3 semaines. Les douleurs sont plus marquées le matin, avec une raideur d’environ 45 minutes, et s’améliorent au cours de la journée.
+Quel élément oriente le plus vers une douleur inflammatoire ?
+
+A. Douleur augmentée à l’effortB. Douleur soulagée par le reposC. Absence de gonflement articulaireD. Raideur matinale prolongéeE. Douleur prédominant le soir
+Un homme de 35 ans se plaint de lombalgies évoluant depuis 6 mois. La douleur le réveille en deuxième partie de nuit. Il se sent mieux après s’être levé et avoir marché quelques minutes.
+Quel argument clinique est le plus évocateur d’une lombalgie inflammatoire ?
+
+A. Douleur déclenchée par le port de chargesB. Soulagement en position allongéeC. Amélioration à l’exerciceD. Début brutal après un effortE. Irradiation mécanique dans le membre inférieur
+Un homme de 35 ans se plaint de lombalgies évoluant depuis 6 mois. La douleur le réveille en deuxième partie de nuit. Il se sent mieux après s’être levé et avoir marché quelques minutes.
+Quel argument clinique est le plus évocateur d’une lombalgie inflammatoire ?
+
+A. Douleur déclenchée par le port de chargesB. Soulagement en position allongéeC. Amélioration à l’exerciceD. Début brutal après un effortE. Irradiation mécanique dans le membre inférieur
+Une patiente de 48 ans consulte pour des douleurs des mains. L’examen retrouve une tuméfaction des MCP 2 et 3 bilatérales, douloureuse à la pression latérale, avec chaleur locale modérée.
+Quel signe correspond à une synovite clinique vraie ?
+
+A. Douleur provoquée à la mobilisation active seuleB. Sensibilité cutanée diffuseC. Craquement à la mobilisationD. Déformation articulaire ancienneE. Gonflement articulaire fusiforme avec douleur à la pression
+Une patiente de 48 ans consulte pour des douleurs des mains. L’examen retrouve une tuméfaction des MCP 2 et 3 bilatérales, douloureuse à la pression latérale, avec chaleur locale modérée.
+Quel signe correspond à une synovite clinique vraie ?
+
+A. Douleur provoquée à la mobilisation active seuleB. Sensibilité cutanée diffuseC. Craquement à la mobilisationD. Déformation articulaire ancienneE. Gonflement articulaire fusiforme avec douleur à la pression
+Un homme de 55 ans présente une douleur aiguë du genou droit apparue brutalement la nuit, avec impotence fonctionnelle et genou très inflammatoire. Il n’a jamais eu d’épisode similaire.
+Quel élément sémiologique oriente en priorité vers une arthrite aiguë microcristalline ?
+
+A. Douleur mécanique progressiveB. Atteinte symétriqueC. Absence de fièvreD. Évolution chroniqueE. Début brutal nocturne avec inflammation intense
+Un homme de 55 ans présente une douleur aiguë du genou droit apparue brutalement la nuit, avec impotence fonctionnelle et genou très inflammatoire. Il n’a jamais eu d’épisode similaire.
+Quel élément sémiologique oriente en priorité vers une arthrite aiguë microcristalline ?
+
+A. Douleur mécanique progressiveB. Atteinte symétriqueC. Absence de fièvreD. Évolution chroniqueE. Début brutal nocturne avec inflammation intense
+Un homme de 58 ans consulte pour une augmentation progressive du volume du genou droit évoluant depuis plusieurs mois. Il marche presque normalement malgré une importante déformation articulaire. Il décrit peu de douleur. L’examen retrouve une articulation volumineuse, chaude, instable, avec crépitations grossières. La sensibilité profonde est diminuée aux membres inférieurs.
+Quel(s) élément(s) oriente(nt) le plus vers un arthro-tabès ?
+
+A. Douleur intense disproportionnée aux lésionsB. Début brutal fébrileC. Atteinte inflammatoire symétriqueD. Discordance entre lésions articulaires majeures et douleur faibleE. Trouble de la sensibilité profonde
+Un homme de 58 ans consulte pour une augmentation progressive du volume du genou droit évoluant depuis plusieurs mois. Il marche presque normalement malgré une importante déformation articulaire. Il décrit peu de douleur. L’examen retrouve une articulation volumineuse, chaude, instable, avec crépitations grossières. La sensibilité profonde est diminuée aux membres inférieurs.
+Quel(s) élément(s) oriente(nt) le plus vers un arthro-tabès ?
+
+A. Douleur intense disproportionnée aux lésionsB. Début brutal fébrileC. Atteinte inflammatoire symétriqueD. Discordance entre lésions articulaires majeures et douleur faibleE. Trouble de la sensibilité profonde

@@ -1,0 +1,445 @@
+COURS D’IMMUNOPATHOLOGIE 
+4ème année
+2025-2026
+Pr. B. ADMOU
+L’IMMUNITE ANTI-INFECTIEUSE 
+
+INTRODUCTION 
+•
+L’immunité anti-infectieuse = ensemble de réactions immunitaires déployées par le 
+système immunitaire (SI) pour faire face à des agents infectieux pathogènes   
+(bactéries, virus, parasites, champignons)
+•
+Le type de réponse immunitaire mis en jeu par l’organisme est déterminé par :
+– des facteurs liés à l'agent infectieux :
+• sa structure
+• sa voie de pénétration 
+• son mode de développement
+• sa virulence 
+– des facteurs liés à l’hôte :
+• récepteurs cellulaires 
+• système HLA
+• intégrité du SI (Immunité innée / adaptative) 
+•
+Stratégies d’échappement au SI, développées par plusieurs agents infectieux 
+•
+Possibilité de phénomènes immunopathologiques délétères pour l’organisme 
+
+OBJECTIFS PEDAGOGIQUES
+1. Décrire les mécanismes de l’immunité antibactérienne, antivirale, antiparasitaire et antifongique
+2. Citer les principales stratégies d’échappement des agents pathogènes au système immunitaire par
+3. Distinguer les phénomènes immunopathologiques liés aux différents agents pathogènes
+4. Décrire le mécanisme immunopathologique du sepsis 
+5. Prescrire les examens nécessaires à l’exploration de l’immunité anti-infectieuse 
+
+PLAN 
+INTRODUCTION
+I- MECANISMES GENERAUX DE L’IMMUNITE ANTI-INFECTIEUSE 
+A. Immunité innée
+1. Acteurs de l’immunité innée
+2. Reconnaissance des pathogènes par les PRR 
+3. Mécanismes d’action de l’immunité innée  
+B. Immunité adaptative
+1. Induction de la réponse immunitaire adaptative
+2. Rôle des cytokines dans la réponse immunitaire anti-infectieuse
+II - REPONSES IMMUNITAIRES CONTRE LES INFECTIONS BACTERIENNES
+III - REPONSES IMMUNITAIRES CONTRE LES INFECTIONS VIRALES
+IV  - REPONSES IMMUNITAIRES CONTRE LES INFECTIONS PARASITAIRES
+V  - REPONSES IMMUNITAIRES CONTRE LES INFECTIONS FONGIQUES
+VI - STRATEGIES D’ECHAPPEMENT AU SYSTEME IMMUNITAIRE 
+VII - PHENOMENES IMMUNOPATHOLOGIQUES 
+VIII – IMMUNOPATHOLOGIE DU SEPSIS 
+IX - EXPLORATION DE L’IMMUNITE ANTI-INFECTIEUSE
+CONCLUSION 
+
+Figure: Organisation globale de l’immunité anti-infectieuse
+
+I- MECANISMES GENERAUX DE L’IMMUNITE ANTI-INFECTIEUSE 
+1. Acteurs
+• Rôle majeur lors de la primo-infection  
+• Permet d'éliminer la majorité des agents infectieux
+• Peut être sollicitée par l’immunité adaptative 
+• Barrières naturelles (peau-muqueuses, substances chimiques, enzymes)
+• Système du Complément 
+• Cellules : Phagocytes, Cellules dendritiques, Cellules NK
+• Cytokines, interférons, chimiokines
+• ROS (reactive oxygen species), NO (Nitric oxid)
+• Médiateurs de l’inflammation (opsonines, PG, LK,…)
+A- Immunité innée
+
+2. Reconnaissance des pathogènes par des récepteurs non spécifiques
+
+- Les cellules épithéliales (activées par l’agent infectieux), produisent des peptides bactériolytiques
+- Les macrophages, activés par l’agent infectieux produisent :
+- des cytokines pro-inflammatoires (IL-1, IL6, TNFα) 
+- des chimiokines (IL-8, RANTES, MIP-1…) : attraction et activation des phagocytes 
+- Les cellules infectées produisent de l’IFN α/β : inhibition de la réplication virale
+- L’activation du complément génère: 
+- C3a, C5a (anaphylatoxines) : activation des mastocytes, chimiotactisme, inflammation aigüe
+- C3b, C4b (opsonines) : facilitent la phagocytose 
+- CAM (Complexe d’attaque membranaire): lyse osmotique des membranes bactériennes 
+- Les cellules NK : Nécrose des cellules infectées par des virus (ADCC)
+3. Mécanismes d’action de l’immunité innée  
+
+- Intervient après échec de l’immunité innée ou en complément de celle-ci  
+- Activation des lymphocytes B par des cytokines (IL-6) ou par le complément (CR2)
+- Surexpression des molécules HLA à la surface des MФ et des DC, facilitant la présentation des Ag aux LT
+- Recrutement orienté des lymphocytes T et polarisation en réponses Th1, Th2, ou Th17 (selon la nature du µorg)
+B- Immunité adaptative
+1. Induction de la réponse adaptative 
+
+2. Rôle des cytokines dans la réponse immunitaire adaptative   
+
+II – REPONSES IMMUNITAIRES CONTRE    
+LES INFECTIONS BACTERIENNES
+
+Plasmocyte
+Anticorps
+Ly B
+Neutralisation
+Opsonisation
+Activation du 
+complément
+Destruction de 
+la bactérie
+Ly Th
+a- Bactéries extracellulaires 
+Bactérie
+b- Bactéries intracellulaires
+Ly Th
+CPA / 
+cellule 
+infectée
+IFN-γ
+Activation des MØ: 
+phagocytose destruction 
+des µorganismes
+CTL
+Lyse des cellules 
+infectées
+Activation des MØ: 
+phagocytose destruction 
+1- Mécanisme selon le mode de développement des bactéries 
+Apoptose
+Nécrose
+
+Bactérie
+Pathogénie
+Principaux mécanismes de défense
+C. diphteriae
+Pharyngite non invasive - toxine
+AC neutralisants
+V. cholerae
+Entérite non invasive - toxine
+N. meningitidis
+Nasopharynx
+- Bactériémie
+- Méningite
+- Endotoxémie
+AC, complément
+phagocytes
+S. aureus
+Infection locale, effet toxique au 
+niveau de la peau, etc…
+M. tuberculosis 
+Invasion (dissémination),
+Granulome tuberculoïde
+Action des LTh1 (IFN-y) 
+Activation des MØ
+2- Mécanismes selon la pathogénie de la bactérie
+
+III – REPONSES IMMUNITAIRES CONTRE 
+LES INFECTIONS VIRALES
+
+IFN-α/β
+Cellules 
+infectées
+Protéger les cellules 
+voisines non infectées
+Induction d’une 
+résistance à l’infection
+Apoptose
+(caspases)
+Blocage de la 
+synthèse des 
+protéines 
+virales
+Blocage de la 
+transcription 
+virale
+Dégradation de 
+l’ARN viral
+Défenses intracellulaires
+Protéine Mx
+(guanosine triphosphatases : intracellular
+vesicle trafficking)
+2’5’ oligoadénylate
+synthétase 
+PKR
+(protéine kinase)
+a- Actions des IFNα/β
+1- Immunité innée 
+
+IFN α/β
+Réponse immunitaire 
+adaptative plus efficace
+Expression de CMH-I et II
+Processus d’apprêtement
+Cytotoxicité
+Phagocytose
+CPA
+Activation des NK et MØ 
+b- Action des cellules :  
+Macrophage
+Cellule NK
+Cellule dendritique
+Action antivirale
+
+• Production d’AC contre les protéines de surface, 
+surtout les GP (glycoprotéines). Ex VIH
+• AC neutralisants. Ex. HVB, SarsCov2, …
+• La réponse AC réduit la diffusion des virus, et 
+leur pouvoir infectieux et prévient la réinfection
+2- Réponse adaptative antivirale  
+Réponse humorale contre les virions
+Réponse cellulaire contre les 
+cellules infectées
+Deux types de réponse immunitaire
+• Lyse des cellules infectées via les 
+LT cytotoxiques :
+• Nécrose
+• Apoptose
+
+IV – REPONSES IMMUNITAIRES CONTRE 
+LES INFECTIONS PARASITAIRES
+
+Site infectieux
+EXTRACELLULAIRE
+INTRACELLULAIRE
+Espace interstitiel
+Sang – Lymphe
+Surfaces épithéliales
+Cytoplasme
+Vésicules intra-
+cytoplasmiques
+Parasites
+Filaire
+Trichinella (spiralis)
+Trypanosome
+Schistosome
+Plasmodium
+Ascaris
+Schistosome
+Plasmodium
+Toxoplasme
+Leishmania
+Trypanosome
+Pneumocystis jirovecii
+Type 
+d’acteurs
+Anticorps
+Complément
+Phagocytose
+Anticorps (IgA)
+Peptides
+antimicrobiens
+CTL
+NK
+Activation
+des
+MP
+(métalloprotéinases)
+Rep. immun Innée et Humorale
+Rep. à Médiation Cellulaire
+1- Réponse immunitaire selon la localisation du parasite
+
+Neutralisation des parasites
+Plasmodium - Toxoplasmes - Trypanosomes
+Protection des cellules cibles en camouflant le 
+site d'attachement du parasite à la cellule
+(compétition)
+Opsonisation des parasites
+2- Action des anticorps
+Fixation des parasites et facilitation de 
+leur phagocytose
+Plasmodium - Trypanosomes 
+
+• L’immunité innée : principal acteur contre les infections fongiques
+• Rôle du Microbiote (flore commensale) pour limiter la croissance des champignons
+opportunistes comme le Candida albicans, qui peuvent émerger lors de l’ATB-thérapie
+prolongée ou du Ttt immunosuppresseur
+• Phagocytose et production de médiateurs cytotoxiques par les PNN
+• Activation du complément : voie MBL et alterne
+• Immunité adaptative : surtout de type humorale.
+V – REPONSES IMMUNITAIRES ANTI-FONGIQUES 
+
+VI- MECANISMES D’ECHAPPEMENT  
+AU SYSTEME IMMUNITAIRE 
+
+1. Phénomènes d’échappement des bactéries 
+✓Diversité antigénique 
+• Sérotypes du pneumocoque, du streptocoque, autres 
+✓Effraction des barrières cutanéo-muqueuses
+• Induction de sa propre pinocytose à la suite de la perforation de la barrière épithéliale: 
+Bactéries entéro-invasives: Shigella
+✓Inhibition du complément
+• Maintien à distance du CAM : staphylocoque coagulase +
+• Inactivation par enzyme bactérienne : Serratia, Pseudomonas
+(voir figure)
+✓Inhibition de la phagocytose
+• Neutralisation des dérivés oxygénés : M. Leprae
+• Inhibition de la fusion phagosome-lyzosome : M. Tuberculosis
+✓Destruction des macrophages. Shigella
+
+2. Phénomènes d’échappement des virus 
+✓Variabilité (mutation) antigénique 
+• mutation lors de la réplication : VIH, Grippe  
+✓Latence
+• latence des HSV dans les neurones sensitifs
+• latence de l’EBV dans les cellules B lui permettant d’échapper aux CTL
+✓Inhibition de la présentation antigénique
+• Inhibition de la présentation par les molécules HLA classe I
+- blocage du protéasome : EBV
+- blocage de TAP du cytosol vers le RE : CMV
+- perturbation de la circulation des molécules HLA classe I : VIH
+• Inhibition de la présentation par les molécules HLA classe II
+- perturbation de la circulation des molécules HLA classe II : HPV
+- diminution de l’expression des molécules HLA classe II : adénovirus
+✓Inhibition de l’activité NK
+• production de molécules homologues à HLA classe I : CMV
+✓Modulation de l'inflammation
+• production de molécules anti-inflammatoires : EBV
+• production de leurres pour les chimiokines : CMV
+✓Destruction des cellules immunitaires
+• destruction des cellules T CD4+ : VIH
+• destruction des PNN : CMV
+
+Mutations dans les gènes du Virus 
+Petites variations de la structure (HN) de surface du virus
+Protection par les anticorps = réduite
+Fig. Phénomène Drift 
+Ex. Virus de la grippe
+humaine
+Y
+Virus Influenzae
+a- Phénomène Drift (Dérive antigénique)
+✓Modification des antigènes 
+• Phénomènes Drift / Shift : virus de la grippe
+• Modification de la structure de la Neuraminidase et de l’Hémagglutinine
+
+Bird cell
+Grandes variations génomiques après échange entre deux souches du Virus 
+Structures de surface du virus (Ag H et N) = complètement différentes
+Pas de protection par les anticorps
+Fig. Phénomène Shift
+Ex. Virus de la grippe
+aviaire
+b- Phénomène Shift (Substitution antigénique
+Hum cell
+
+3. Phénomènes d’échappement des parasites
+✓Leurres antigéniques
+• antigènes immunodominants n'induisant pas de protection (Plasmodium).
+• relargage antigénique (Trypanosoma Africans).
+✓Escamotage (effacement) antigénique
+• internalisation des complexes Ag/Ac formés à la surface des amibes.
+✓Camouflage antigénique
+• les schistosomes se recouvrent d’antigènes de l’hôte (HLA, Ag de groupe sanguin) lors de leur pénétration 
+dans l’organisme humain
+✓Séquestration 
+• kyste hydatidique
+• abcès toxoplasmique
+✓Inhibition du complément
+• régulation négative par production d’un homologue (Trypanosoma Cruzii) ou d’inhibiteur de l’activation du 
+complément (Schistosoma) 
+✓Destruction des anticorps
+• Trypanosoma Cruzii
+
+1. Toxi-infection alimentaire : 
+L’activation T polyclonale par un Superantigène bactérien (ex. entérotoxine staphylococcique), induit un larguage massif d’IL-2, 
+entraînant fièvre, frisson, diarrhée, œdème cérébral, œdème pulmonaire, ...
+2. Purpura fulminans : 
+Nécrose hémorragique secondaire à la libération locale d'antigènes méningococciques et de 
+cytokines pro-inflammatoires (TNFα et IL-1) circulantes.
+3. Nécrose caséeuse : 
+Destruction tissulaire par le granulome inflammatoire entourant M. Tuberculosis.
+VII - PHENOMENES IMMUNOPATHOLOGIQUES DE LA REPONSE IMMUNITAIRE ANTI-INFECTIEUSE    
+4. Granulome chronique  :
+Certaines infections (bilharziose, lèpre tuberculoïde) peuvent aboutir à une compression tissulaire.
+6. Réactions croisées (mimétisme moléculaire) : 
+• Syndrome de Guillain et Barré : réaction croisée entre un antigène bactérien (Campylobacter Jejuni) et des gangliosides, 
+aboutissant à une polyradiculonévrite
+• Rhumatisme articulaire aigu : réaction croisée entre Ag Streptococcus et une structure articulaire : polyarthrite.
+5. Hypersensibilité de type III : 
+Dépôts de CI formés (agents pathogènes- anticorps spécifiques), aboutissant à des dégâts tissulaires : GNA, Vascularite, …
+7. Syndrome hyper-inflammatoire aigu
+Covid-19 : Syndrome de Détresse respiratoire aigu : libération massive de cytok pro-inflammatoires : IL-6, IL-1β, TNFα,…  
+
+Syndrome de réponse inflammatoire systémique (SRIS) secondaire à une infection
+1. Définitions du sepsis :  
+(SDRA)
+(CIVD)
+VIII – IMMUNOPATHOLOGIE DU SEPSIS 
+
+2. Phénomènes immunopathologiques et processus évolutif du sepsis 
+
+•
+Reconnaissance des PAMPs par des phagocytes 
+mononucléés (DC, M⏀) induit l’expression de 
+gènes codant pour des cytokines pro-inflammat
+(TNF-a, IL-1beta). 
+•
+Lésions tissulaires avec libération de DAMPs qui 
+vont aggraver l’inflammation. 
+•
+Le retard de l’ATB, la virulence du pathogène ou la 
+susceptibilité de l’hôte peuvent entraîner des 
+décès par une inflammation excessive. 
+•
+Développement simultané d’une réaction anti-
+inflammatoire systémique destinée à favoriser la 
+réparation tissulaire, avec expression de molécules 
+anti-inflammatoires (IL-10, TGF-beta, indoléamine
+2,3-dioxygénase [IDO]), apoptose des lymphocytes 
+et DC, dysfonction monocytaire et granulocytaire 
+et développement de MDSC
+•
+Résultat: immunodépression profonde et 
+prolongée responsable d’infections nosocomiales 
+et d’une mortalité tardive. 
+F. Uhel et al. Choc septique : mécanismes du décès. Réanimation 2015 
+3. Mécanisme de dérégulation des réponses immunitaires au cours du sepsis
+
+IX- Exploration
+2. Sérodiagnostic : Etude de la réponse anticorps : 
+- Recherche d’anticorps spécifiques (IgM et IgG, IgA)  
+- Mesure de l’avidité des anticorps (dater l’infection)
+3. Exploration de l’immunité de l’hôte :
+- NFS (diagnostic et étiologie)
+- Marqueurs de l’inflammation
+- Dosage du complément 
+- Dosage des immunoglobulines IgG, A, M
+- Etude des s/ populations lymphocytaires T, B et NK
+- Sérologies post-vaccinales (réponses immunitaires) 
+- Test IGRA, et autres
+1. Diagnostic direct  (microbiologique): mise en évidence de l’agent pathogène ou ses antigènes
+-
+Examen direct 
+-
+Culture 
+-
+Antigènes solubles
+-
+Amplification par biologie moléculaire
+
+CONCLUSION
+• Les réponses immunitaires anti-infectieuses dépendent de la nature de l’agent pathogène, de 
+son mode de développement, des modalités de sa reconnaissance et de sa virulence
+• Les phénomènes d’échappement sont fréquents et variés et représentent un défi majeur pour le système 
+immunitaire 
+• L’exploration de l’immunité anti-infectieuse se base essentiellement sur les sérologies, et 
+l’exploration du système immunitaire de l’hôte
+• La gravité de certaines infections (sepsis ++++) et des phénomènes immunopathologiques associés 
+soulignent l’importance de la prévention (vaccination), et d’une prise en charge adaptée au type de 
+l’infection et des conditions de l’hôte.
+
