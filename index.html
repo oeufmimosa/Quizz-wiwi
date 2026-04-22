@@ -33,13 +33,18 @@
         </button>
         <button class="mode-btn" onclick="startRandom()">
           <div class="mode-icon">🎲</div>
-          <div class="mode-label">20 questions aléatoires</div>
+          <div class="mode-label">20 aléatoires</div>
           <div class="mode-desc">Mix de tous les examens</div>
         </button>
         <button class="mode-btn" onclick="showCoursList()">
           <div class="mode-icon">📖</div>
           <div class="mode-label">Par cours</div>
           <div class="mode-desc">Révise un chapitre précis</div>
+        </button>
+        <button class="mode-btn" onclick="showFichesList()">
+          <div class="mode-icon">📝</div>
+          <div class="mode-label">Fiches de cours</div>
+          <div class="mode-desc">Résumés à lire</div>
         </button>
       </div>
     </div>
@@ -49,6 +54,24 @@
       <button class="back-btn" onclick="goBackToMode()">← Retour</button>
       <h2 id="cours-subject-name" style="font-size:1.1rem; margin-bottom:1rem;"></h2>
       <div id="cours-list" class="exam-list"></div>
+    </div>
+
+    <!-- FICHES LIST -->
+    <div id="screen-fiches" class="screen">
+      <button class="back-btn" onclick="goBackToMode()">← Retour</button>
+      <h2 id="fiches-subject-name" style="font-size:1.1rem; margin-bottom:1rem;"></h2>
+      <div id="fiches-list" class="exam-list"></div>
+    </div>
+
+    <!-- FICHE VIEW -->
+    <div id="screen-fiche-view" class="screen">
+      <button class="back-btn" onclick="goBackToFiches()">← Retour aux fiches</button>
+      <div class="fiche-header">
+        <h1 id="fiche-title"></h1>
+        <p id="fiche-prof" class="fiche-prof"></p>
+      </div>
+      <div id="fiche-content" class="fiche-content"></div>
+      <div id="fiche-quiz-links" class="fiche-quiz-links"></div>
     </div>
 
     <!-- EXAM LIST -->
@@ -62,24 +85,15 @@
     <div id="screen-quiz" class="screen">
       <button class="back-btn" onclick="goHome()">← Quitter</button>
       <div class="quiz-exam-name" id="quiz-exam-name"></div>
-      <div class="progress-bar">
-        <div class="fill" id="progress-fill"></div>
-      </div>
+      <div class="progress-bar"><div class="fill" id="progress-fill"></div></div>
       <div class="question-counter" id="question-counter"></div>
       <div class="question-context" id="question-context" style="display:none;"></div>
       <div class="question-text" id="question-text"></div>
       <div class="options-list" id="options-list"></div>
-
       <div class="quiz-nav">
-        <button class="btn btn-secondary" id="btn-prev" onclick="prevQuestion()" style="display:none;">
-          ← Précédent
-        </button>
-        <button class="btn btn-primary" id="btn-next" onclick="nextQuestion()">
-          Suivant →
-        </button>
-        <button class="btn btn-finish" id="btn-finish" onclick="finishQuiz()" style="display:none;">
-          Terminer & Corriger
-        </button>
+        <button class="btn btn-secondary" id="btn-prev" onclick="prevQuestion()" style="display:none;">← Précédent</button>
+        <button class="btn btn-primary" id="btn-next" onclick="nextQuestion()">Suivant →</button>
+        <button class="btn btn-finish" id="btn-finish" onclick="finishQuiz()" style="display:none;">Terminer & Corriger</button>
       </div>
     </div>
 
@@ -103,7 +117,6 @@
           <button class="btn btn-secondary" onclick="goHome()">Accueil</button>
         </div>
       </div>
-
       <h3 style="margin:1.5rem 0 1rem; font-size:1rem;">Correction détaillée</h3>
       <div id="correction-review"></div>
     </div>
