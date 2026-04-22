@@ -17,6 +17,9 @@
 
     <!-- HOME -->
     <div id="screen-home" class="screen active">
+      <div class="home-actions">
+        <button class="home-progression-btn" onclick="showProgression()">📈 Ma progression</button>
+      </div>
       <h2 style="margin-top:1rem; font-size:1.1rem;">Choisis une matière</h2>
       <div id="subject-grid" class="subject-grid"></div>
     </div>
@@ -25,6 +28,22 @@
     <div id="screen-mode" class="screen">
       <button class="back-btn" onclick="goHome()">← Retour</button>
       <h2 id="mode-subject-name" style="font-size:1.1rem;"></h2>
+
+      <h3 class="mode-section-title">🔥 Mode examen chronométré</h3>
+      <div class="mode-selector timed-modes">
+        <button class="mode-btn mode-btn-primary" onclick="startTimedExam()">
+          <div class="mode-icon">⏱️</div>
+          <div class="mode-label">Examen blanc</div>
+          <div class="mode-desc">50 questions · 1 heure</div>
+        </button>
+        <button class="mode-btn mode-btn-primary" onclick="showCoursExamList()">
+          <div class="mode-icon">⏱️</div>
+          <div class="mode-label">Examen par cours</div>
+          <div class="mode-desc">10 questions · 12 min</div>
+        </button>
+      </div>
+
+      <h3 class="mode-section-title">📚 Mode entraînement</h3>
       <div class="mode-selector">
         <button class="mode-btn" onclick="showExamList()">
           <div class="mode-icon">📋</div>
@@ -39,7 +58,7 @@
         <button class="mode-btn" onclick="showCoursList()">
           <div class="mode-icon">📖</div>
           <div class="mode-label">Par cours</div>
-          <div class="mode-desc">Révise un chapitre précis</div>
+          <div class="mode-desc">Révise un chapitre</div>
         </button>
         <button class="mode-btn" onclick="showFichesList()">
           <div class="mode-icon">📝</div>
@@ -54,6 +73,14 @@
       <button class="back-btn" onclick="goBackToMode()">← Retour</button>
       <h2 id="cours-subject-name" style="font-size:1.1rem; margin-bottom:1rem;"></h2>
       <div id="cours-list" class="exam-list"></div>
+    </div>
+
+    <!-- COURS EXAM LIST -->
+    <div id="screen-cours-exam" class="screen">
+      <button class="back-btn" onclick="goBackToMode()">← Retour</button>
+      <h2 id="cours-exam-subject-name" style="font-size:1.1rem; margin-bottom:1rem;"></h2>
+      <p style="color:var(--text-light); font-size:0.85rem; margin-bottom:1rem;">Choisis un cours - 10 questions en 12 minutes.</p>
+      <div id="cours-exam-list" class="exam-list"></div>
     </div>
 
     <!-- FICHES LIST -->
@@ -83,7 +110,10 @@
 
     <!-- QUIZ -->
     <div id="screen-quiz" class="screen">
-      <button class="back-btn" onclick="goHome()">← Quitter</button>
+      <div class="quiz-top">
+        <button class="back-btn" onclick="quitQuiz()">← Quitter</button>
+        <div id="timer" class="timer" style="display:none;"></div>
+      </div>
       <div class="quiz-exam-name" id="quiz-exam-name"></div>
       <div class="progress-bar"><div class="fill" id="progress-fill"></div></div>
       <div class="question-counter" id="question-counter"></div>
@@ -102,6 +132,7 @@
       <div class="results-card">
         <div class="score" id="score-pct"></div>
         <div class="score-label" id="score-total"></div>
+        <div id="score-time" class="score-time" style="display:none;"></div>
         <div class="stats">
           <div class="stat">
             <div class="stat-value green" id="score-correct"></div>
@@ -117,8 +148,19 @@
           <button class="btn btn-secondary" onclick="goHome()">Accueil</button>
         </div>
       </div>
+
+      <div id="analysis-container" class="analysis-container"></div>
+
       <h3 style="margin:1.5rem 0 1rem; font-size:1rem;">Correction détaillée</h3>
       <div id="correction-review"></div>
+    </div>
+
+    <!-- PROGRESSION -->
+    <div id="screen-progression" class="screen">
+      <button class="back-btn" onclick="goHome()">← Retour</button>
+      <h2 style="font-size:1.2rem; margin-bottom:0.5rem;">📈 Ma progression</h2>
+      <p style="color:var(--text-light); font-size:0.85rem; margin-bottom:1rem;">Historique de tes examens chronométrés.</p>
+      <div id="progression-content"></div>
     </div>
 
   </div>
