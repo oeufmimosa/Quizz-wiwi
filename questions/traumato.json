@@ -78,7 +78,7 @@
         {
           "id": "trau-norm-2022-q3",
           "enonce": "Quelle(s) est la conduite thérapeutique chez cette patiente ?",
-          "contexte": null,
+          "contexte": "Vous êtes interne de garde aux urgences ; vous recevez une dame de 65 ans diabétique qui a des douleurs du membre supérieur droit. L'examen initial retrouve une patiente consciente sans signes de détresse cardio respiratoire, qui se plaint de douleurs au niveau de la main s'étendant à l'avant-bras avec la notion d'une plaie par objet tranchant de l'index survenu il y a quelques jours. L'inspection retrouve un membre tuméfié avec impotence fonctionnelle. La patiente se plaint aussi d'asthénie et d'insomnie. [QCM 1 à 5]",
           "options": [
             {
               "label": "A",
@@ -111,7 +111,7 @@
         {
           "id": "trau-norm-2022-q4",
           "enonce": "Quelle est la complication redoutable que risque cette patiente ?",
-          "contexte": null,
+          "contexte": "Vous êtes interne de garde aux urgences ; vous recevez une dame de 65 ans diabétique qui a des douleurs du membre supérieur droit. L'examen initial retrouve une patiente consciente sans signes de détresse cardio respiratoire, qui se plaint de douleurs au niveau de la main s'étendant à l'avant-bras avec la notion d'une plaie par objet tranchant de l'index survenu il y a quelques jours. L'inspection retrouve un membre tuméfié avec impotence fonctionnelle. La patiente se plaint aussi d'asthénie et d'insomnie. [QCM 1 à 5]",
           "options": [
             {
               "label": "A",
@@ -144,7 +144,7 @@
         {
           "id": "trau-norm-2022-q5",
           "enonce": "A posteriori ; des erreurs ont été commises lors de la première consultation. Lesquelles ?",
-          "contexte": null,
+          "contexte": "Vous êtes interne de garde aux urgences ; vous recevez une dame de 65 ans diabétique qui a des douleurs du membre supérieur droit. L'examen initial retrouve une patiente consciente sans signes de détresse cardio respiratoire, qui se plaint de douleurs au niveau de la main s'étendant à l'avant-bras avec la notion d'une plaie par objet tranchant de l'index survenu il y a quelques jours. L'inspection retrouve un membre tuméfié avec impotence fonctionnelle. La patiente se plaint aussi d'asthénie et d'insomnie. [QCM 1 à 5]",
           "options": [
             {
               "label": "A",
@@ -623,7 +623,7 @@
         {
           "id": "trau-norm-2022-q19",
           "enonce": "Le patient n'arrive pas à décoller son talon du plan du lit. Ce signe clinique s'appelle :",
-          "contexte": null,
+          "contexte": "Un patient âgé de 75 ans présente suite à une chute de sa hauteur un traumatisme de la hanche droite occasionnant douleur et impotence fonctionnelle. [QCM 18 à 20]",
           "options": [
             {
               "label": "A",
@@ -656,7 +656,7 @@
         {
           "id": "trau-norm-2022-q20",
           "enonce": "La palpation révèle une douleur du pli de l'aine et un massif trochantérien indolore. Le diagnostic le plus probable est :",
-          "contexte": null,
+          "contexte": "Un patient âgé de 75 ans présente suite à une chute de sa hauteur un traumatisme de la hanche droite occasionnant douleur et impotence fonctionnelle. [QCM 18 à 20]",
           "options": [
             {
               "label": "A",
@@ -1586,7 +1586,7 @@
         {
           "id": "trau-norm-2022-q47",
           "enonce": "Les limitations d'activité possibles chez cette patiente :",
-          "contexte": null,
+          "contexte": "Une patiente de 65 ans souffre de son genou droit. Vous diagnostiquez, chez elle, une gonarthrose droite modérée. [QCM 46 à 50]",
           "options": [
             {
               "label": "A",
@@ -1621,7 +1621,7 @@
         {
           "id": "trau-norm-2022-q48",
           "enonce": "Les restrictions de participation possible chez cette patiente :",
-          "contexte": null,
+          "contexte": "Une patiente de 65 ans souffre de son genou droit. Vous diagnostiquez, chez elle, une gonarthrose droite modérée. [QCM 46 à 50]",
           "options": [
             {
               "label": "A",
@@ -1654,7 +1654,7 @@
         {
           "id": "trau-norm-2022-q49",
           "enonce": "Pour complément de prise en charge, vous adressez cette patiente chez :",
-          "contexte": null,
+          "contexte": "Une patiente de 65 ans souffre de son genou droit. Vous diagnostiquez, chez elle, une gonarthrose droite modérée. [QCM 46 à 50]",
           "options": [
             {
               "label": "A",
@@ -1690,7 +1690,7 @@
         {
           "id": "trau-norm-2022-q50",
           "enonce": "Quel type d'aides techniques allez-vous lui prescrire :",
-          "contexte": null,
+          "contexte": "Une patiente de 65 ans souffre de son genou droit. Vous diagnostiquez, chez elle, une gonarthrose droite modérée. [QCM 46 à 50]",
           "options": [
             {
               "label": "A",
@@ -2233,7 +2233,7 @@
         {
           "id": "trau-norm-2023-q16",
           "enonce": "Les deux principales complications immédiates que risque ce patient sont :",
-          "contexte": null,
+          "contexte": "Un jeune patient est admis au service des urgences pour une fracture de la diaphyse fémorale droite et une fracture ouverte de la jambe droite à la suite d'un accident de moto.",
           "options": [
             {
               "label": "A",
@@ -3104,7 +3104,7 @@
         {
           "id": "trau-norm-2023-q42",
           "enonce": "Les limitations d'activité possibles chez cette patiente :",
-          "contexte": null,
+          "contexte": "Une patiente de 55 ans souffre de sa hanche droite, vous diagnostiquez, chez elle, une coxarthrose droite modérée avec risque de chute (5 QCM).",
           "options": [
             {
               "label": "A",
@@ -3138,7 +3138,7 @@
         {
           "id": "trau-norm-2023-q43",
           "enonce": "Les restrictions de participation possible chez cette patiente :",
-          "contexte": null,
+          "contexte": "Une patiente de 55 ans souffre de sa hanche droite, vous diagnostiquez, chez elle, une coxarthrose droite modérée avec risque de chute (5 QCM).",
           "options": [
             {
               "label": "A",
@@ -3172,7 +3172,7 @@
         {
           "id": "trau-norm-2023-q44",
           "enonce": "Pour complément de prise en charge, vous adressez cette patiente chez :",
-          "contexte": null,
+          "contexte": "Une patiente de 55 ans souffre de sa hanche droite, vous diagnostiquez, chez elle, une coxarthrose droite modérée avec risque de chute (5 QCM).",
           "options": [
             {
               "label": "A",
@@ -3808,7 +3808,7 @@
         {
           "id": "trau-norm-2024-q13",
           "enonce": "Le patient n'arrive pas à décoller son talon du plan du lit. Ce signe clinique s'appelle :",
-          "contexte": null,
+          "contexte": "Un patient âgé de 75 ans présente suite à une chute de sa hauteur un traumatisme de la hanche droite occasionnant douleur et impotence fonctionnelle.",
           "options": [
             {
               "label": "A",
@@ -3840,7 +3840,7 @@
         {
           "id": "trau-norm-2024-q14",
           "enonce": "La palpation révèle une douleur du pli de l'aine et un massif trochantérien indolore. Le diagnostic le plus probable est :",
-          "contexte": null,
+          "contexte": "Un patient âgé de 75 ans présente suite à une chute de sa hauteur un traumatisme de la hanche droite occasionnant douleur et impotence fonctionnelle.",
           "options": [
             {
               "label": "A",
@@ -4760,7 +4760,7 @@
         {
           "id": "trau-norm-2024-q42",
           "enonce": "Les limitations d'activité possibles chez cette patiente :",
-          "contexte": null,
+          "contexte": "Une patiente de 37 ans souffre d'une entorse de la cheville droite. (Cas clinique avec 5 questions)",
           "options": [
             {
               "label": "A",
@@ -4794,7 +4794,7 @@
         {
           "id": "trau-norm-2024-q43",
           "enonce": "Les restrictions de participation possible chez cette patiente :",
-          "contexte": null,
+          "contexte": "Une patiente de 37 ans souffre d'une entorse de la cheville droite. (Cas clinique avec 5 questions)",
           "options": [
             {
               "label": "A",
@@ -4826,7 +4826,7 @@
         {
           "id": "trau-norm-2024-q44",
           "enonce": "Pour complément de prise en charge, vous adressez cette patiente chez :",
-          "contexte": null,
+          "contexte": "Une patiente de 37 ans souffre d'une entorse de la cheville droite. (Cas clinique avec 5 questions)",
           "options": [
             {
               "label": "A",
@@ -4858,7 +4858,7 @@
         {
           "id": "trau-norm-2024-q45",
           "enonce": "Vous prescrivez une canne simple. Que conseillez-vous ?",
-          "contexte": null,
+          "contexte": "Une patiente de 37 ans souffre d'une entorse de la cheville droite. (Cas clinique avec 5 questions)",
           "options": [
             {
               "label": "A",
@@ -6402,7 +6402,7 @@
         {
           "id": "trau-ratt-2024-q42",
           "enonce": "Les limitations d'activité possibles chez cette patiente sont :",
-          "contexte": null,
+          "contexte": "Une patiente de 55 ans souffre de sa hanche, vous constatez, chez elle, une coxarthrose. (5 QCM)",
           "options": [
             {
               "label": "A",
@@ -6436,7 +6436,7 @@
         {
           "id": "trau-ratt-2024-q43",
           "enonce": "Les restrictions de participation possible chez cette patiente sont :",
-          "contexte": null,
+          "contexte": "Une patiente de 55 ans souffre de sa hanche, vous constatez, chez elle, une coxarthrose. (5 QCM)",
           "options": [
             {
               "label": "A",
@@ -6469,7 +6469,7 @@
         {
           "id": "trau-ratt-2024-q44",
           "enonce": "Pour complément de prise en charge, vous adressez cette patiente chez :",
-          "contexte": null,
+          "contexte": "Une patiente de 55 ans souffre de sa hanche, vous constatez, chez elle, une coxarthrose. (5 QCM)",
           "options": [
             {
               "label": "A",
@@ -6501,7 +6501,7 @@
         {
           "id": "trau-ratt-2024-q45",
           "enonce": "Les objectifs de la rééducation chez cette patiente sont :",
-          "contexte": null,
+          "contexte": "Une patiente de 55 ans souffre de sa hanche, vous constatez, chez elle, une coxarthrose. (5 QCM)",
           "options": [
             {
               "label": "A",
