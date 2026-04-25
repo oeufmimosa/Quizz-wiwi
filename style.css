@@ -260,6 +260,96 @@ body {
 }
 .mode-btn-primary .mode-label { color: var(--primary); }
 
+/* ──── Search ──── */
+.search-box {
+  position: relative;
+  margin: 0.5rem 0 1rem;
+}
+.search-input {
+  width: 100%;
+  padding: 0.75rem 2.5rem 0.75rem 1rem;
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 0.95rem;
+  background: var(--card);
+  outline: none;
+  transition: border-color 0.2s;
+  font-family: inherit;
+}
+.search-input:focus {
+  border-color: var(--primary);
+}
+.search-clear {
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: var(--border);
+  border: none;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 0.75rem;
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media (hover: hover) {
+  .search-clear:hover { background: var(--text-light); color: white; }
+}
+.search-results {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.search-section-title {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-light);
+  margin: 0.75rem 0 0.4rem;
+}
+.search-result-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.65rem 0.9rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+@media (hover: hover) {
+  .search-result-item:hover {
+    border-color: var(--primary);
+    transform: translateX(2px);
+  }
+}
+.search-result-icon { font-size: 1.2rem; flex-shrink: 0; }
+.search-result-info { flex: 1; min-width: 0; }
+.search-result-title {
+  font-weight: 600;
+  font-size: 0.92rem;
+  color: var(--text);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.search-result-meta {
+  font-size: 0.78rem;
+  color: var(--text-light);
+  margin-top: 0.1rem;
+}
+.search-empty {
+  text-align: center;
+  color: var(--text-light);
+  padding: 1.5rem;
+  font-size: 0.9rem;
+}
+
 /* ──── Home progression button ──── */
 .home-actions {
   display: flex;

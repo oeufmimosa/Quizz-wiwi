@@ -199,50 +199,21 @@ function startTimedExam() {
   startTimer(60 * 60); // 1 hour
 }
 
-function showCoursExamList() {
-  state.mode = 'coursExam';
-  const list = document.getElementById('cours-exam-list');
-  list.innerHTML = '';
-  document.getElementById('cours-exam-subject-name').textContent = state.currentSubject.matiere;
-  const coursMap = {};
+function startFlashExam() {
+  state.mode = 'flashExam';
+  let allQuestions = [];
   for (const exam of state.currentSubject.examens) {
-    for (const q of exam.questions) {
-      const cours = q.cours || 'Non classé';
-      if (!coursMap[cours]) coursMap[cours] = [];
-      coursMap[cours].push({ ...q, _examNom: exam.nom });
-    }
+    for (const q of exam.questions) allQuestions.push({ ...q, _examNom: exam.nom });
   }
-  const sorted = Object.entries(coursMap)
-    .filter(([, qs]) => qs.length >= 3)
-    .sort((a, b) => b[1].length - a[1].length);
-  for (const [coursName, questions] of sorted) {
-    const card = document.createElement('div');
-    card.className = 'exam-card';
-    card.innerHTML = `
-      <div class="exam-info">
-        <span class="exam-type type-cours">Examen cours</span>
-        <h3>${coursName}</h3>
-        <p>10 Q · 12 min · (${questions.length} Q disponibles)</p>
-      </div>
-      <div class="exam-arrow">→</div>
-    `;
-    card.addEventListener('click', () => startTimedCoursExam(coursName, questions));
-    list.appendChild(card);
-  }
-  showScreen('screen-cours-exam');
-}
-
-function startTimedCoursExam(coursName, questions) {
-  state.mode = 'coursExam';
-  state.currentExam = { nom: `Examen cours - ${coursName}`, _coursTag: coursName };
-  const n = Math.min(10, questions.length);
-  state.questions = shuffle([...questions]).slice(0, n);
+  allQuestions = shuffle(allQuestions);
+  const n = Math.min(10, allQuestions.length);
+  state.questions = allQuestions.slice(0, n);
   state.currentIndex = 0;
   state.answers = state.questions.map(() => new Set());
   state.score = 0;
+  state.currentExam = { nom: `Examen flash - ${n} Q · 12 min` };
   showScreen('screen-quiz');
   renderQuestion();
-  // 12 min for 10 Q, prorated if less
   startTimer(Math.round(12 * 60 * n / 10));
 }
 
@@ -443,7 +414,7 @@ function finishQuiz() {
 // ─── Save result to localStorage ───
 function saveResult() {
   // Only save timed modes (for progression tracking)
-  if (state.mode !== 'exam50' && state.mode !== 'coursExam') return;
+  if (state.mode !== 'exam50' && state.mode !== 'flashExam') return;
 
   const answeredWithCorrection = state.questions.filter(q => q.reponses.length > 0).length;
   if (answeredWithCorrection === 0) return;
@@ -464,7 +435,7 @@ function saveResult() {
     date: new Date().toISOString(),
     subject: state.currentSubject.matiere,
     mode: state.mode,
-    modeLabel: state.mode === 'exam50' ? 'Examen 50Q' : 'Examen cours',
+    modeLabel: state.mode === 'exam50' ? 'Examen 50Q' : 'Examen flash',
     examName: state.currentExam.nom,
     coursTag: state.currentExam._coursTag || null,
     score: state.score,
@@ -533,7 +504,7 @@ function showResults() {
 
   // Show time if timed mode
   const timeEl = document.getElementById('score-time');
-  if ((state.mode === 'exam50' || state.mode === 'coursExam') && state.timer.duration > 0) {
+  if ((state.mode === 'exam50' || state.mode === 'flashExam') && state.timer.duration > 0) {
     const elapsed = state.timer.duration - state.timer.timeLeft;
     const m = Math.floor(elapsed / 60);
     const s = elapsed % 60;
@@ -653,11 +624,10 @@ function renderAnalysis() {
   }
 
   // Comparaison avec historique
-  if (state.mode === 'exam50' || state.mode === 'coursExam') {
+  if (state.mode === 'exam50' || state.mode === 'flashExam') {
     const history = loadHistory();
     const previous = history
-      .filter(h => h.subject === state.currentSubject.matiere && h.mode === state.mode &&
-                   (state.mode !== 'coursExam' || h.coursTag === state.currentExam._coursTag))
+      .filter(h => h.subject === state.currentSubject.matiere && h.mode === state.mode)
       .slice(-6, -1); // exclude current
 
     if (previous.length > 0) {
@@ -746,16 +716,8 @@ function restartQuiz() {
   stopTimer();
   if (state.mode === 'exam') startExam(state.currentExam);
   else if (state.mode === 'exam50') startTimedExam();
-  else if (state.mode === 'coursExam') {
-    const coursName = state.currentExam._coursTag;
-    const questions = [];
-    for (const exam of state.currentSubject.examens) {
-      for (const q of exam.questions) {
-        if (q.cours === coursName) questions.push({ ...q, _examNom: exam.nom });
-      }
-    }
-    startTimedCoursExam(coursName, questions);
-  } else if (state.mode === 'cours') {
+  else if (state.mode === 'flashExam') startFlashExam();
+  else if (state.mode === 'cours') {
     const coursName = state.currentExam.nom;
     const questions = [];
     for (const exam of state.currentSubject.examens) {
@@ -770,7 +732,7 @@ function restartQuiz() {
 function goHome() { stopTimer(); hideTimer(); showScreen('screen-home'); }
 function goBackToMode() { stopTimer(); hideTimer(); showScreen('screen-mode'); }
 function quitQuiz() {
-  if (state.mode === 'exam50' || state.mode === 'coursExam') {
+  if (state.mode === 'exam50' || state.mode === 'flashExam') {
     if (!confirm('Abandonner cet examen chronométré ? Le temps sera perdu.')) return;
   }
   stopTimer();
@@ -792,6 +754,152 @@ function setsEqual(a, b) {
   if (a.size !== b.size) return false;
   for (const item of a) if (!b.has(item)) return false;
   return true;
+}
+
+// ─── Search ───
+function normalizeStr(s) {
+  return (s || '').toLowerCase()
+    .normalize('NFD').replace(/[̀-ͯ]/g, '');
+}
+
+function onSearch() {
+  const q = document.getElementById('search-input').value.trim();
+  document.getElementById('search-clear').style.display = q ? '' : 'none';
+  const resultsEl = document.getElementById('search-results');
+  const homeContent = document.getElementById('home-content');
+
+  if (q.length < 2) {
+    resultsEl.innerHTML = '';
+    homeContent.style.display = '';
+    return;
+  }
+
+  homeContent.style.display = 'none';
+  const nq = normalizeStr(q);
+  const terms = nq.split(/\s+/).filter(t => t.length > 0);
+
+  // Search fiches
+  const ficheResults = [];
+  for (let si = 0; si < state.fichesBySubject.length; si++) {
+    const fichesData = state.fichesBySubject[si];
+    for (const fiche of (fichesData.fiches || [])) {
+      const haystack = normalizeStr(fiche.titre + ' ' + (fiche.prof || '') + ' ' + (fiche.contenu_md || ''));
+      const titre_norm = normalizeStr(fiche.titre);
+      let score = 0;
+      let allMatch = true;
+      for (const t of terms) {
+        if (!haystack.includes(t)) { allMatch = false; break; }
+        if (titre_norm.includes(t)) score += 10;
+        if (haystack.includes(t)) score += 1;
+      }
+      if (allMatch) {
+        ficheResults.push({ fiche, score, subjectIdx: si });
+      }
+    }
+  }
+  ficheResults.sort((a, b) => b.score - a.score);
+
+  // Search cours tags (from questions)
+  const coursMap = new Map(); // cours -> {count, subjectIdx}
+  for (let si = 0; si < state.subjects.length; si++) {
+    for (const exam of state.subjects[si].examens) {
+      for (const qu of exam.questions) {
+        const cours = qu.cours;
+        if (!cours) continue;
+        if (!coursMap.has(cours)) coursMap.set(cours, { count: 0, subjectIdx: si });
+        coursMap.get(cours).count++;
+      }
+    }
+  }
+  const coursResults = [];
+  for (const [cours, info] of coursMap) {
+    const ncours = normalizeStr(cours);
+    let allMatch = true; let score = 0;
+    for (const t of terms) {
+      if (!ncours.includes(t)) { allMatch = false; break; }
+      score += 5;
+    }
+    if (allMatch) {
+      coursResults.push({ cours, count: info.count, subjectIdx: info.subjectIdx, score });
+    }
+  }
+  coursResults.sort((a, b) => b.score - a.score || b.count - a.count);
+
+  // Render
+  let html = '';
+  if (ficheResults.length === 0 && coursResults.length === 0) {
+    html = '<p class="search-empty">Aucun résultat pour "' + escapeHtml(q) + '"</p>';
+  } else {
+    if (ficheResults.length > 0) {
+      html += '<h3 class="search-section-title">📝 Fiches (' + ficheResults.length + ')</h3>';
+      for (const r of ficheResults.slice(0, 12)) {
+        const subjectName = state.subjects[r.subjectIdx].matiere;
+        html += `
+          <div class="search-result-item" onclick="searchOpenFiche(${r.subjectIdx},'${r.fiche.id}')">
+            <div class="search-result-icon">📝</div>
+            <div class="search-result-info">
+              <div class="search-result-title">${escapeHtml(r.fiche.titre)}</div>
+              <div class="search-result-meta">${escapeHtml(r.fiche.prof || '')} · ${escapeHtml(subjectName)}</div>
+            </div>
+          </div>
+        `;
+      }
+    }
+    if (coursResults.length > 0) {
+      html += '<h3 class="search-section-title">📖 Cours (' + coursResults.length + ')</h3>';
+      for (const r of coursResults.slice(0, 12)) {
+        const subjectName = state.subjects[r.subjectIdx].matiere;
+        html += `
+          <div class="search-result-item" onclick="searchStartCours(${r.subjectIdx},'${r.cours.replace(/'/g, "\\'")}')">
+            <div class="search-result-icon">📖</div>
+            <div class="search-result-info">
+              <div class="search-result-title">${escapeHtml(r.cours)}</div>
+              <div class="search-result-meta">${r.count} questions · ${escapeHtml(subjectName)}</div>
+            </div>
+          </div>
+        `;
+      }
+    }
+  }
+  resultsEl.innerHTML = html;
+}
+
+function searchOpenFiche(subjectIdx, ficheId) {
+  state.currentSubjectIdx = subjectIdx;
+  state.currentSubject = state.subjects[subjectIdx];
+  const fiches = state.fichesBySubject[subjectIdx]?.fiches || [];
+  const fiche = fiches.find(f => f.id === ficheId);
+  if (fiche) {
+    clearSearch();
+    showFiche(fiche);
+  }
+}
+
+function searchStartCours(subjectIdx, coursName) {
+  state.currentSubjectIdx = subjectIdx;
+  state.currentSubject = state.subjects[subjectIdx];
+  const questions = [];
+  for (const exam of state.currentSubject.examens) {
+    for (const q of exam.questions) {
+      if (q.cours === coursName) questions.push({ ...q, _examNom: exam.nom });
+    }
+  }
+  if (questions.length > 0) {
+    clearSearch();
+    startCours(coursName, questions);
+  }
+}
+
+function clearSearch() {
+  document.getElementById('search-input').value = '';
+  document.getElementById('search-clear').style.display = 'none';
+  document.getElementById('search-results').innerHTML = '';
+  document.getElementById('home-content').style.display = '';
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 }
 
 document.addEventListener('DOMContentLoaded', loadData);

@@ -20,8 +20,17 @@
       <div class="home-actions">
         <button class="home-progression-btn" onclick="showProgression()">📈 Ma progression</button>
       </div>
-      <h2 style="margin-top:1rem; font-size:1.1rem;">Choisis une matière</h2>
-      <div id="subject-grid" class="subject-grid"></div>
+
+      <div class="search-box">
+        <input type="text" id="search-input" class="search-input" placeholder="🔍 Rechercher une fiche, un cours ou un mot-clé..." oninput="onSearch()" autocomplete="off">
+        <button class="search-clear" id="search-clear" onclick="clearSearch()" style="display:none;">✕</button>
+      </div>
+      <div id="search-results" class="search-results"></div>
+
+      <div id="home-content">
+        <h2 style="margin-top:1rem; font-size:1.1rem;">Choisis une matière</h2>
+        <div id="subject-grid" class="subject-grid"></div>
+      </div>
     </div>
 
     <!-- MODE SELECTION -->
@@ -36,9 +45,9 @@
           <div class="mode-label">Examen blanc</div>
           <div class="mode-desc">50 questions · 1 heure</div>
         </button>
-        <button class="mode-btn mode-btn-primary" onclick="showCoursExamList()">
-          <div class="mode-icon">⏱️</div>
-          <div class="mode-label">Examen par cours</div>
+        <button class="mode-btn mode-btn-primary" onclick="startFlashExam()">
+          <div class="mode-icon">⚡</div>
+          <div class="mode-label">Examen flash</div>
           <div class="mode-desc">10 questions · 12 min</div>
         </button>
       </div>
@@ -73,14 +82,6 @@
       <button class="back-btn" onclick="goBackToMode()">← Retour</button>
       <h2 id="cours-subject-name" style="font-size:1.1rem; margin-bottom:1rem;"></h2>
       <div id="cours-list" class="exam-list"></div>
-    </div>
-
-    <!-- COURS EXAM LIST -->
-    <div id="screen-cours-exam" class="screen">
-      <button class="back-btn" onclick="goBackToMode()">← Retour</button>
-      <h2 id="cours-exam-subject-name" style="font-size:1.1rem; margin-bottom:1rem;"></h2>
-      <p style="color:var(--text-light); font-size:0.85rem; margin-bottom:1rem;">Choisis un cours - 10 questions en 12 minutes.</p>
-      <div id="cours-exam-list" class="exam-list"></div>
     </div>
 
     <!-- FICHES LIST -->
